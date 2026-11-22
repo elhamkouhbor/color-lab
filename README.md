@@ -85,6 +85,8 @@ worker. The browser tests check the rendered simulated preview pixel by pixel ag
 push to `main`. Pages source must be set to **GitHub Actions** (Settings, Pages). As a project site of
 `elhamkouhbor.github.io` it is served under the portfolio's custom domain at `/color-lab/`; no DNS change
 is needed.
+If the live page is blank and requests `/src/main.tsx`, the Pages source is still "Deploy from a branch":
+GitHub's own branch build then publishes the raw sources over the built app.
 
 ## Licences
 
