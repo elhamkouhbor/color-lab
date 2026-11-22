@@ -1,0 +1,323 @@
+{
+  "schema": "colorcombinations-collection/v1",
+  "slug": "scandinavian",
+  "title": "Scandinavian Color Palettes",
+  "tagline": "Cool restraint, natural light, and the clarity of considered minimalism.",
+  "description": "Scandinavian design and Japanese design share the same fundamental aesthetic commitment: remove what isn't necessary, and what remains should be beautiful. Both traditions converge on a palette of cool whites, pale naturals, muted blues, and quiet grey-greens — colors that work in low winter light and feel expansive rather than cold. Wada's catalog arrives at exactly this territory through different paths: the chalk-white of 'gofun' (胡粉 — crushed shells), the pale cool of 'hanada' (縹 — a blue halfway between sky and water), the grey-green of 'seiji' (青磁 — celadon ash glaze), the silvery neutral of 'gin' (銀). These palettes are reference material for Scandinavian interior brands, minimalist architecture, premium homewares, and any project that should feel like a well-lit room on a clear winter morning.",
+  "keywords": [
+    "scandinavian color palette",
+    "nordic color scheme",
+    "hygge color palette",
+    "scandi color combinations",
+    "nordic design colors"
+  ],
+  "accentHex": "#9BB4C8",
+  "paletteCount": 17,
+  "palettes": [
+    {
+      "slug": "ao-shiro",
+      "title": "Ao & White",
+      "titleJa": "青と白",
+      "dominantHue": "blue",
+      "moods": [
+        "serene",
+        "cool",
+        "refined"
+      ],
+      "colors": [
+        "#3A7D7B",
+        "#FFFFFF",
+        "#1C1C1C"
+      ],
+      "url": "https://colorcombinations.org/palettes/ao-shiro/",
+      "api": "https://colorcombinations.org/api/palettes/ao-shiro.json"
+    },
+    {
+      "slug": "hanada-gin",
+      "title": "Indigo Blue & Silver",
+      "titleJa": "縹と銀",
+      "dominantHue": "blue",
+      "moods": [
+        "refined",
+        "cool",
+        "solemn"
+      ],
+      "colors": [
+        "#3C6E8F",
+        "#BCBCBE",
+        "#F8F4E9"
+      ],
+      "url": "https://colorcombinations.org/palettes/hanada-gin/",
+      "api": "https://colorcombinations.org/api/palettes/hanada-gin.json"
+    },
+    {
+      "slug": "seiji-kinari",
+      "title": "Celadon & Unbleached",
+      "titleJa": "青磁と生成",
+      "dominantHue": "green",
+      "moods": [
+        "serene",
+        "earthy",
+        "refined"
+      ],
+      "colors": [
+        "#8DB6A5",
+        "#F3EBDA",
+        "#6E7B6A"
+      ],
+      "url": "https://colorcombinations.org/palettes/seiji-kinari/",
+      "api": "https://colorcombinations.org/api/palettes/seiji-kinari.json"
+    },
+    {
+      "slug": "kon-kinari",
+      "title": "Deep Indigo & Cream",
+      "titleJa": "紺と生成",
+      "dominantHue": "blue",
+      "moods": [
+        "refined",
+        "cool",
+        "austere"
+      ],
+      "colors": [
+        "#142747",
+        "#F3EBDA",
+        "#2B2B2B"
+      ],
+      "url": "https://colorcombinations.org/palettes/kon-kinari/",
+      "api": "https://colorcombinations.org/api/palettes/kon-kinari.json"
+    },
+    {
+      "slug": "murasaki-gin",
+      "title": "Royal Purple & Silver",
+      "titleJa": "紫と銀",
+      "dominantHue": "purple",
+      "moods": [
+        "refined",
+        "solemn",
+        "cool"
+      ],
+      "colors": [
+        "#7A4E8F",
+        "#BCBCBE",
+        "#2B2B2B",
+        "#F4EEE0"
+      ],
+      "url": "https://colorcombinations.org/palettes/murasaki-gin/",
+      "api": "https://colorcombinations.org/api/palettes/murasaki-gin.json"
+    },
+    {
+      "slug": "kariyasu-rikyu",
+      "title": "Grass Yellow & Rikyū Grey",
+      "titleJa": "刈安と利休鼠",
+      "dominantHue": "yellow",
+      "moods": [
+        "serene",
+        "earthy",
+        "austere",
+        "refined"
+      ],
+      "colors": [
+        "#DCCB7A",
+        "#878A74",
+        "#F3EBDA"
+      ],
+      "url": "https://colorcombinations.org/palettes/kariyasu-rikyu/",
+      "api": "https://colorcombinations.org/api/palettes/kariyasu-rikyu.json"
+    },
+    {
+      "slug": "wada-005-cossack-green-vandar-poel-s-blue",
+      "title": "Cossack Green & Vandar Poel's Blue",
+      "titleJa": null,
+      "dominantHue": "green",
+      "moods": [
+        "solemn",
+        "cool",
+        "austere"
+      ],
+      "colors": [
+        "#437742",
+        "#064f6e"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-005-cossack-green-vandar-poel-s-blue/",
+      "api": "https://colorcombinations.org/api/palettes/wada-005-cossack-green-vandar-poel-s-blue.json"
+    },
+    {
+      "slug": "wada-015-benzol-green-grayish-lavender-a",
+      "title": "Benzol Green & Grayish Lavender - A",
+      "titleJa": null,
+      "dominantHue": "blue",
+      "moods": [
+        "refined",
+        "cool",
+        "austere"
+      ],
+      "colors": [
+        "#00978d",
+        "#b5b1d8"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-015-benzol-green-grayish-lavender-a/",
+      "api": "https://colorcombinations.org/api/palettes/wada-015-benzol-green-grayish-lavender-a.json"
+    },
+    {
+      "slug": "wada-038-diamine-green-deep-lyons-blue",
+      "title": "Diamine Green & Deep Lyons Blue",
+      "titleJa": null,
+      "dominantHue": "green",
+      "moods": [
+        "solemn",
+        "cool",
+        "austere"
+      ],
+      "colors": [
+        "#1a7444",
+        "#1c4286"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-038-diamine-green-deep-lyons-blue/",
+      "api": "https://colorcombinations.org/api/palettes/wada-038-diamine-green-deep-lyons-blue.json"
+    },
+    {
+      "slug": "wada-044-light-porcelain-green-olympic-blue",
+      "title": "Light Porcelain Green & Olympic Blue",
+      "titleJa": null,
+      "dominantHue": "blue",
+      "moods": [
+        "refined",
+        "cool",
+        "austere"
+      ],
+      "colors": [
+        "#00908a",
+        "#5a82b3"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-044-light-porcelain-green-olympic-blue/",
+      "api": "https://colorcombinations.org/api/palettes/wada-044-light-porcelain-green-olympic-blue.json"
+    },
+    {
+      "slug": "wada-049-pale-king-s-blue-blue",
+      "title": "Pale King's Blue & Blue",
+      "titleJa": null,
+      "dominantHue": "blue",
+      "moods": [
+        "refined",
+        "cool",
+        "austere"
+      ],
+      "colors": [
+        "#a7d4e4",
+        "#006eb8"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-049-pale-king-s-blue-blue/",
+      "api": "https://colorcombinations.org/api/palettes/wada-049-pale-king-s-blue-blue.json"
+    },
+    {
+      "slug": "wada-054-benzol-green-light-glaucous-blue",
+      "title": "Benzol Green & Light Glaucous Blue",
+      "titleJa": null,
+      "dominantHue": "blue",
+      "moods": [
+        "refined",
+        "cool",
+        "austere"
+      ],
+      "colors": [
+        "#00978d",
+        "#a5c8d1"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-054-benzol-green-light-glaucous-blue/",
+      "api": "https://colorcombinations.org/api/palettes/wada-054-benzol-green-light-glaucous-blue.json"
+    },
+    {
+      "slug": "wada-067-olympic-blue-dark-tyrian-blue",
+      "title": "Olympic Blue & Dark Tyrian Blue",
+      "titleJa": null,
+      "dominantHue": "blue",
+      "moods": [
+        "refined",
+        "cool",
+        "austere"
+      ],
+      "colors": [
+        "#5a82b3",
+        "#12354e"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-067-olympic-blue-dark-tyrian-blue/",
+      "api": "https://colorcombinations.org/api/palettes/wada-067-olympic-blue-dark-tyrian-blue.json"
+    },
+    {
+      "slug": "wada-074-turquoise-green-green-blue",
+      "title": "Turquoise Green & Green Blue",
+      "titleJa": null,
+      "dominantHue": "green",
+      "moods": [
+        "refined",
+        "cool",
+        "austere"
+      ],
+      "colors": [
+        "#b5decc",
+        "#099197"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-074-turquoise-green-green-blue/",
+      "api": "https://colorcombinations.org/api/palettes/wada-074-turquoise-green-green-blue.json"
+    },
+    {
+      "slug": "wada-075-pale-king-s-blue-violet-blue",
+      "title": "Pale King's Blue & Violet Blue",
+      "titleJa": null,
+      "dominantHue": "blue",
+      "moods": [
+        "refined",
+        "cool",
+        "austere"
+      ],
+      "colors": [
+        "#a7d4e4",
+        "#40456a"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-075-pale-king-s-blue-violet-blue/",
+      "api": "https://colorcombinations.org/api/palettes/wada-075-pale-king-s-blue-violet-blue.json"
+    },
+    {
+      "slug": "wada-106-antwarp-blue-dull-violet-black",
+      "title": "Antwarp Blue & Dull Violet Black",
+      "titleJa": null,
+      "dominantHue": "blue",
+      "moods": [
+        "solemn",
+        "cool",
+        "austere"
+      ],
+      "colors": [
+        "#007190",
+        "#1e0e3f"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-106-antwarp-blue-dull-violet-black/",
+      "api": "https://colorcombinations.org/api/palettes/wada-106-antwarp-blue-dull-violet-black.json"
+    },
+    {
+      "slug": "wada-119-light-glaucous-blue-dark-tyrian-blue",
+      "title": "Light Glaucous Blue & Dark Tyrian Blue",
+      "titleJa": null,
+      "dominantHue": "blue",
+      "moods": [
+        "refined",
+        "cool",
+        "austere"
+      ],
+      "colors": [
+        "#a5c8d1",
+        "#12354e"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-119-light-glaucous-blue-dark-tyrian-blue/",
+      "api": "https://colorcombinations.org/api/palettes/wada-119-light-glaucous-blue-dark-tyrian-blue.json"
+    }
+  ],
+  "urls": {
+    "canonical": "https://colorcombinations.org/collections/scandinavian/",
+    "embed": "https://colorcombinations.org/embed/collection/scandinavian/",
+    "openGraph": "https://colorcombinations.org/og/collections/scandinavian.svg",
+    "api": "https://colorcombinations.org/api/collections/scandinavian.json"
+  },
+  "license": "CC-BY-4.0 (attribution: colorcombinations.org)",
+  "source": "Sanzo Wada, A Dictionary of Color Combinations (1933 · six volumes)"
+}

@@ -1,0 +1,238 @@
+{
+  "schema": "colorcombinations-collection/v1",
+  "slug": "halloween",
+  "title": "Halloween Color Palettes",
+  "tagline": "Orange against ink black and dusky violet, from a 1933 colour dictionary that never heard of Halloween.",
+  "description": "Halloween colour is orange and black, usually with a purple, and the usual problem is that both the orange and the purple arrive at full saturation and look like a party-store bag. These combinations come from Sanzo Wada's 1933 Dictionary of Color Combinations, plus one traditional Japanese pairing of red-lead orange and ink. Wada's plate 46 is simply orange and black; others set an orange against a dusky madder violet, a sepia or a deep indigo, which reads as autumn night rather than costume. Use them for invitations, posters, packaging, seasonal social graphics and table settings.",
+  "keywords": [
+    "halloween color palette",
+    "halloween color combinations",
+    "orange and black color palette",
+    "orange and purple color palette",
+    "halloween colors hex codes",
+    "spooky color scheme"
+  ],
+  "accentHex": "#C8411D",
+  "paletteCount": 12,
+  "palettes": [
+    {
+      "slug": "wada-046-orange-black",
+      "title": "Orange & Black",
+      "titleJa": null,
+      "dominantHue": "orange",
+      "moods": [
+        "solemn",
+        "warm",
+        "austere"
+      ],
+      "colors": [
+        "#f37420",
+        "#111314"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-046-orange-black/",
+      "api": "https://colorcombinations.org/api/palettes/wada-046-orange-black.json"
+    },
+    {
+      "slug": "entan-sumi",
+      "title": "Red Lead & Ink",
+      "titleJa": "鉛丹と墨",
+      "dominantHue": "red",
+      "moods": [
+        "bold",
+        "solemn"
+      ],
+      "colors": [
+        "#C8411D",
+        "#1C1C1C",
+        "#D4AF37"
+      ],
+      "url": "https://colorcombinations.org/palettes/entan-sumi/",
+      "api": "https://colorcombinations.org/api/palettes/entan-sumi.json"
+    },
+    {
+      "slug": "wada-144-rosolanc-purple-orange",
+      "title": "Rosolanc Purple & Orange +1",
+      "titleJa": null,
+      "dominantHue": "pink",
+      "moods": [
+        "refined",
+        "warm"
+      ],
+      "colors": [
+        "#b73f74",
+        "#f37420",
+        "#111314"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-144-rosolanc-purple-orange/",
+      "api": "https://colorcombinations.org/api/palettes/wada-144-rosolanc-purple-orange.json"
+    },
+    {
+      "slug": "wada-053-yellow-orange-dusky-madder-violet",
+      "title": "Yellow Orange & Dusky Madder Violet",
+      "titleJa": null,
+      "dominantHue": "yellow",
+      "moods": [
+        "refined",
+        "austere"
+      ],
+      "colors": [
+        "#f99d1b",
+        "#4e1d4c"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-053-yellow-orange-dusky-madder-violet/",
+      "api": "https://colorcombinations.org/api/palettes/wada-053-yellow-orange-dusky-madder-violet.json"
+    },
+    {
+      "slug": "wada-288-yellow-orange-sepia",
+      "title": "Yellow Orange & Sepia +2",
+      "titleJa": null,
+      "dominantHue": "yellow",
+      "moods": [
+        "solemn",
+        "warm",
+        "bold"
+      ],
+      "colors": [
+        "#f99d1b",
+        "#644b1e",
+        "#7a4456",
+        "#111314"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-288-yellow-orange-sepia/",
+      "api": "https://colorcombinations.org/api/palettes/wada-288-yellow-orange-sepia.json"
+    },
+    {
+      "slug": "wada-103-cinnamon-rufous-dusky-madder-violet",
+      "title": "Cinnamon Rufous & Dusky Madder Violet",
+      "titleJa": null,
+      "dominantHue": "orange",
+      "moods": [
+        "refined",
+        "warm",
+        "austere"
+      ],
+      "colors": [
+        "#c27544",
+        "#4e1d4c"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-103-cinnamon-rufous-dusky-madder-violet/",
+      "api": "https://colorcombinations.org/api/palettes/wada-103-cinnamon-rufous-dusky-madder-violet.json"
+    },
+    {
+      "slug": "wada-149-olive-ocher-orange",
+      "title": "Olive Ocher & Orange +1",
+      "titleJa": null,
+      "dominantHue": "yellow",
+      "moods": [
+        "refined",
+        "warm"
+      ],
+      "colors": [
+        "#d6b43e",
+        "#f37420",
+        "#112f2c"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-149-olive-ocher-orange/",
+      "api": "https://colorcombinations.org/api/palettes/wada-149-olive-ocher-orange.json"
+    },
+    {
+      "slug": "wada-182-raw-sienna-vandyke-brown",
+      "title": "Raw Sienna & Vandyke Brown +1",
+      "titleJa": null,
+      "dominantHue": "orange",
+      "moods": [
+        "solemn",
+        "warm"
+      ],
+      "colors": [
+        "#bb7125",
+        "#4b3317",
+        "#051230"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-182-raw-sienna-vandyke-brown/",
+      "api": "https://colorcombinations.org/api/palettes/wada-182-raw-sienna-vandyke-brown.json"
+    },
+    {
+      "slug": "wada-211-apricot-orange-olive-yellow",
+      "title": "Apricot Orange & Olive Yellow +1",
+      "titleJa": null,
+      "dominantHue": "orange",
+      "moods": [
+        "refined",
+        "warm"
+      ],
+      "colors": [
+        "#f68c50",
+        "#a6a159",
+        "#051230"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-211-apricot-orange-olive-yellow/",
+      "api": "https://colorcombinations.org/api/palettes/wada-211-apricot-orange-olive-yellow.json"
+    },
+    {
+      "slug": "wada-255-raw-sienna-pyrite-yellow",
+      "title": "Raw Sienna & Pyrite Yellow +2",
+      "titleJa": null,
+      "dominantHue": "orange",
+      "moods": [
+        "refined",
+        "warm",
+        "bold"
+      ],
+      "colors": [
+        "#bb7125",
+        "#cab356",
+        "#78cdd0",
+        "#111314"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-255-raw-sienna-pyrite-yellow/",
+      "api": "https://colorcombinations.org/api/palettes/wada-255-raw-sienna-pyrite-yellow.json"
+    },
+    {
+      "slug": "wada-256-vinaceous-cinnamon-orange",
+      "title": "Vinaceous Cinnamon & Orange +2",
+      "titleJa": null,
+      "dominantHue": "orange",
+      "moods": [
+        "refined",
+        "warm",
+        "bold"
+      ],
+      "colors": [
+        "#eea78c",
+        "#f37420",
+        "#009465",
+        "#111314"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-256-vinaceous-cinnamon-orange/",
+      "api": "https://colorcombinations.org/api/palettes/wada-256-vinaceous-cinnamon-orange.json"
+    },
+    {
+      "slug": "wada-269-raw-sienna-pale-burnt-lake",
+      "title": "Raw Sienna & Pale Burnt Lake +2",
+      "titleJa": null,
+      "dominantHue": "orange",
+      "moods": [
+        "solemn",
+        "warm",
+        "bold"
+      ],
+      "colors": [
+        "#bb7125",
+        "#802626",
+        "#a36aa5",
+        "#111314"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-269-raw-sienna-pale-burnt-lake/",
+      "api": "https://colorcombinations.org/api/palettes/wada-269-raw-sienna-pale-burnt-lake.json"
+    }
+  ],
+  "urls": {
+    "canonical": "https://colorcombinations.org/collections/halloween/",
+    "embed": "https://colorcombinations.org/embed/collection/halloween/",
+    "openGraph": "https://colorcombinations.org/og/collections/halloween.svg",
+    "api": "https://colorcombinations.org/api/collections/halloween.json"
+  },
+  "license": "CC-BY-4.0 (attribution: colorcombinations.org)",
+  "source": "Sanzo Wada, A Dictionary of Color Combinations (1933 · six volumes)"
+}

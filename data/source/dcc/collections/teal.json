@@ -1,0 +1,171 @@
+{
+  "schema": "colorcombinations-collection/v1",
+  "slug": "teal",
+  "title": "Teal Color Palettes",
+  "tagline": "The blue-green that named itself after a bird — and the Japanese colors that own that space.",
+  "description": "Teal sits at one of the most contested points on the color wheel — the gap between blue and green where neither label quite fits. Japanese color tradition is exceptionally precise here. Ao (青) is the classical term that named both blue and green for centuries. Seiji is the pale blue-green of celadon ash glaze. Hanada is a mid-grade indigo that reads teal in natural light. These combinations are the reference for designers who need teal to do serious work: brand identity, product packaging, UI accent systems, hospitality design, and any project where the brief asks for \"fresh\" without the default teal cliché.",
+  "keywords": [
+    "teal color palette",
+    "teal color combinations",
+    "turquoise color palette",
+    "blue-green color scheme",
+    "aqua color palette"
+  ],
+  "accentHex": "#2A8B8B",
+  "paletteCount": 8,
+  "palettes": [
+    {
+      "slug": "ao-shiro",
+      "title": "Ao & White",
+      "titleJa": "青と白",
+      "dominantHue": "blue",
+      "moods": [
+        "serene",
+        "cool",
+        "refined"
+      ],
+      "colors": [
+        "#3A7D7B",
+        "#FFFFFF",
+        "#1C1C1C"
+      ],
+      "url": "https://colorcombinations.org/palettes/ao-shiro/",
+      "api": "https://colorcombinations.org/api/palettes/ao-shiro.json"
+    },
+    {
+      "slug": "seiji-kinari",
+      "title": "Celadon & Unbleached",
+      "titleJa": "青磁と生成",
+      "dominantHue": "green",
+      "moods": [
+        "serene",
+        "earthy",
+        "refined"
+      ],
+      "colors": [
+        "#8DB6A5",
+        "#F3EBDA",
+        "#6E7B6A"
+      ],
+      "url": "https://colorcombinations.org/palettes/seiji-kinari/",
+      "api": "https://colorcombinations.org/api/palettes/seiji-kinari.json"
+    },
+    {
+      "slug": "matcha-kinari",
+      "title": "Matcha & Raw Silk",
+      "titleJa": "抹茶と生成",
+      "dominantHue": "green",
+      "moods": [
+        "serene",
+        "earthy",
+        "austere"
+      ],
+      "colors": [
+        "#A7B86B",
+        "#F3EBDA",
+        "#6C5A3C"
+      ],
+      "url": "https://colorcombinations.org/palettes/matcha-kinari/",
+      "api": "https://colorcombinations.org/api/palettes/matcha-kinari.json"
+    },
+    {
+      "slug": "hanada-gin",
+      "title": "Indigo Blue & Silver",
+      "titleJa": "縹と銀",
+      "dominantHue": "blue",
+      "moods": [
+        "refined",
+        "cool",
+        "solemn"
+      ],
+      "colors": [
+        "#3C6E8F",
+        "#BCBCBE",
+        "#F8F4E9"
+      ],
+      "url": "https://colorcombinations.org/palettes/hanada-gin/",
+      "api": "https://colorcombinations.org/api/palettes/hanada-gin.json"
+    },
+    {
+      "slug": "gunjo-gofun",
+      "title": "Ultramarine & Chalk White",
+      "titleJa": "群青と胡粉",
+      "dominantHue": "blue",
+      "moods": [
+        "solemn",
+        "serene",
+        "austere"
+      ],
+      "colors": [
+        "#264A6B",
+        "#F4EEE0",
+        "#C5AC6B"
+      ],
+      "url": "https://colorcombinations.org/palettes/gunjo-gofun/",
+      "api": "https://colorcombinations.org/api/palettes/gunjo-gofun.json"
+    },
+    {
+      "slug": "kariyasu-rikyu",
+      "title": "Grass Yellow & Rikyū Grey",
+      "titleJa": "刈安と利休鼠",
+      "dominantHue": "yellow",
+      "moods": [
+        "serene",
+        "earthy",
+        "austere",
+        "refined"
+      ],
+      "colors": [
+        "#DCCB7A",
+        "#878A74",
+        "#F3EBDA"
+      ],
+      "url": "https://colorcombinations.org/palettes/kariyasu-rikyu/",
+      "api": "https://colorcombinations.org/api/palettes/kariyasu-rikyu.json"
+    },
+    {
+      "slug": "moegi-sumi",
+      "title": "Spring Green & Ink",
+      "titleJa": "萌黄と墨",
+      "dominantHue": "green",
+      "moods": [
+        "austere",
+        "refined",
+        "serene"
+      ],
+      "colors": [
+        "#A7C957",
+        "#1C1C1C",
+        "#F8F4E9"
+      ],
+      "url": "https://colorcombinations.org/palettes/moegi-sumi/",
+      "api": "https://colorcombinations.org/api/palettes/moegi-sumi.json"
+    },
+    {
+      "slug": "ruri-gofun",
+      "title": "Lapis & Chalk",
+      "titleJa": "瑠璃と胡粉",
+      "dominantHue": "blue",
+      "moods": [
+        "solemn",
+        "serene",
+        "refined"
+      ],
+      "colors": [
+        "#1E4B8A",
+        "#F4EEE0",
+        "#D4AF37"
+      ],
+      "url": "https://colorcombinations.org/palettes/ruri-gofun/",
+      "api": "https://colorcombinations.org/api/palettes/ruri-gofun.json"
+    }
+  ],
+  "urls": {
+    "canonical": "https://colorcombinations.org/collections/teal/",
+    "embed": "https://colorcombinations.org/embed/collection/teal/",
+    "openGraph": "https://colorcombinations.org/og/collections/teal.svg",
+    "api": "https://colorcombinations.org/api/collections/teal.json"
+  },
+  "license": "CC-BY-4.0 (attribution: colorcombinations.org)",
+  "source": "Sanzo Wada, A Dictionary of Color Combinations (1933 · six volumes)"
+}

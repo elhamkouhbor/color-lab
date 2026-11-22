@@ -1,0 +1,237 @@
+{
+  "schema": "colorcombinations-collection/v1",
+  "slug": "pink",
+  "title": "Pink Color Palettes",
+  "tagline": "Sakura, nadeshiko, usubeni — the full range of Japanese pink.",
+  "description": "Pink in Japanese color tradition is rarely sweet. Sakura (cherry blossom) is almost white — a blush, not a statement. Nadeshiko (fringed pink) is a cooler, more assertive flower pink. Usubeni (pale crimson) has the weight of ceremony. The range from the barely-pink to the deeply-pink is more nuanced here than anywhere in Western color culture. These palettes are for beauty and skincare brands, bridal and wedding design, editorial fashion, fragrance packaging, and spring campaigns that want softness with precision.",
+  "keywords": [
+    "pink color palette",
+    "blush color scheme",
+    "pastel pink combinations",
+    "sakura color palette",
+    "soft pink color palette"
+  ],
+  "accentHex": "#D4748A",
+  "paletteCount": 12,
+  "palettes": [
+    {
+      "slug": "sakura-wakatake",
+      "title": "Cherry Blossom & Young Bamboo",
+      "titleJa": "桜と若竹",
+      "dominantHue": "pink",
+      "moods": [
+        "serene",
+        "refined",
+        "playful"
+      ],
+      "colors": [
+        "#F9D5E0",
+        "#A3C293",
+        "#F8F4E9",
+        "#4C5D3F"
+      ],
+      "url": "https://colorcombinations.org/palettes/sakura-wakatake/",
+      "api": "https://colorcombinations.org/api/palettes/sakura-wakatake.json"
+    },
+    {
+      "slug": "nadeshiko-mizu",
+      "title": "Pink Dianthus & Water",
+      "titleJa": "撫子と水色",
+      "dominantHue": "pink",
+      "moods": [
+        "serene",
+        "playful",
+        "refined"
+      ],
+      "colors": [
+        "#EBA6B4",
+        "#B4D6E5",
+        "#F8F4E9"
+      ],
+      "url": "https://colorcombinations.org/palettes/nadeshiko-mizu/",
+      "api": "https://colorcombinations.org/api/palettes/nadeshiko-mizu.json"
+    },
+    {
+      "slug": "usubeni-cha",
+      "title": "Light Pink & Tea",
+      "titleJa": "薄紅と茶",
+      "dominantHue": "pink",
+      "moods": [
+        "warm",
+        "playful",
+        "refined"
+      ],
+      "colors": [
+        "#E8A4A4",
+        "#6C4F3B",
+        "#F3EBDA"
+      ],
+      "url": "https://colorcombinations.org/palettes/usubeni-cha/",
+      "api": "https://colorcombinations.org/api/palettes/usubeni-cha.json"
+    },
+    {
+      "slug": "kariyasu-rikyu",
+      "title": "Grass Yellow & Rikyū Grey",
+      "titleJa": "刈安と利休鼠",
+      "dominantHue": "yellow",
+      "moods": [
+        "serene",
+        "earthy",
+        "austere",
+        "refined"
+      ],
+      "colors": [
+        "#DCCB7A",
+        "#878A74",
+        "#F3EBDA"
+      ],
+      "url": "https://colorcombinations.org/palettes/kariyasu-rikyu/",
+      "api": "https://colorcombinations.org/api/palettes/kariyasu-rikyu.json"
+    },
+    {
+      "slug": "fuji-ai",
+      "title": "Wisteria & Indigo",
+      "titleJa": "藤と藍",
+      "dominantHue": "purple",
+      "moods": [
+        "serene",
+        "refined",
+        "cool"
+      ],
+      "colors": [
+        "#B5A6C9",
+        "#1C3D5A",
+        "#F4EEE0"
+      ],
+      "url": "https://colorcombinations.org/palettes/fuji-ai/",
+      "api": "https://colorcombinations.org/api/palettes/fuji-ai.json"
+    },
+    {
+      "slug": "wada-009-violet-red-dull-blue-violet",
+      "title": "Violet Red & Dull Blue Violet",
+      "titleJa": null,
+      "dominantHue": "pink",
+      "moods": [
+        "refined",
+        "austere"
+      ],
+      "colors": [
+        "#642d5e",
+        "#80719e"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-009-violet-red-dull-blue-violet/",
+      "api": "https://colorcombinations.org/api/palettes/wada-009-violet-red-dull-blue-violet.json"
+    },
+    {
+      "slug": "wada-048-rosolanc-purple-helvetia-blue",
+      "title": "Rosolanc Purple & Helvetia Blue",
+      "titleJa": null,
+      "dominantHue": "pink",
+      "moods": [
+        "refined",
+        "cool",
+        "austere"
+      ],
+      "colors": [
+        "#b73f74",
+        "#005b8d"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-048-rosolanc-purple-helvetia-blue/",
+      "api": "https://colorcombinations.org/api/palettes/wada-048-rosolanc-purple-helvetia-blue.json"
+    },
+    {
+      "slug": "wada-064-aconite-violet-dark-soft-violet",
+      "title": "Aconite Violet & Dark Soft Violet",
+      "titleJa": null,
+      "dominantHue": "pink",
+      "moods": [
+        "refined",
+        "cool",
+        "austere"
+      ],
+      "colors": [
+        "#a36aa5",
+        "#66629c"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-064-aconite-violet-dark-soft-violet/",
+      "api": "https://colorcombinations.org/api/palettes/wada-064-aconite-violet-dark-soft-violet.json"
+    },
+    {
+      "slug": "wada-144-rosolanc-purple-orange",
+      "title": "Rosolanc Purple & Orange +1",
+      "titleJa": null,
+      "dominantHue": "pink",
+      "moods": [
+        "refined",
+        "warm"
+      ],
+      "colors": [
+        "#b73f74",
+        "#f37420",
+        "#111314"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-144-rosolanc-purple-orange/",
+      "api": "https://colorcombinations.org/api/palettes/wada-144-rosolanc-purple-orange.json"
+    },
+    {
+      "slug": "wada-170-rosolanc-purple-orange-yellow",
+      "title": "Rosolanc Purple & Orange Yellow +1",
+      "titleJa": null,
+      "dominantHue": "pink",
+      "moods": [
+        "refined"
+      ],
+      "colors": [
+        "#b73f74",
+        "#fcb315",
+        "#59256a"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-170-rosolanc-purple-orange-yellow/",
+      "api": "https://colorcombinations.org/api/palettes/wada-170-rosolanc-purple-orange-yellow.json"
+    },
+    {
+      "slug": "wada-204-rosolanc-purple-cinnamon-rufous",
+      "title": "Rosolanc Purple & Cinnamon Rufous +1",
+      "titleJa": null,
+      "dominantHue": "pink",
+      "moods": [
+        "refined",
+        "warm"
+      ],
+      "colors": [
+        "#b73f74",
+        "#c27544",
+        "#a5c8d1"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-204-rosolanc-purple-cinnamon-rufous/",
+      "api": "https://colorcombinations.org/api/palettes/wada-204-rosolanc-purple-cinnamon-rufous.json"
+    },
+    {
+      "slug": "wada-346-rosolanc-purple-turquoise-green",
+      "title": "Rosolanc Purple & Turquoise Green +2",
+      "titleJa": null,
+      "dominantHue": "pink",
+      "moods": [
+        "refined",
+        "cool",
+        "bold"
+      ],
+      "colors": [
+        "#b73f74",
+        "#b5decc",
+        "#c7d14f",
+        "#6d7e77"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-346-rosolanc-purple-turquoise-green/",
+      "api": "https://colorcombinations.org/api/palettes/wada-346-rosolanc-purple-turquoise-green.json"
+    }
+  ],
+  "urls": {
+    "canonical": "https://colorcombinations.org/collections/pink/",
+    "embed": "https://colorcombinations.org/embed/collection/pink/",
+    "openGraph": "https://colorcombinations.org/og/collections/pink.svg",
+    "api": "https://colorcombinations.org/api/collections/pink.json"
+  },
+  "license": "CC-BY-4.0 (attribution: colorcombinations.org)",
+  "source": "Sanzo Wada, A Dictionary of Color Combinations (1933 · six volumes)"
+}

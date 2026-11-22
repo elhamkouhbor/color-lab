@@ -1,0 +1,439 @@
+{
+  "schema": "colorcombinations-collection/v1",
+  "slug": "minimalist",
+  "title": "Minimalist Color Palettes",
+  "tagline": "When two colors will do the work of five.",
+  "description": "The most restrained corner of the archive — combinations where every color earns its place. Two-tone pairings, single-hue progressions, deliberate grey-on-off-white compositions. The Muromachi tea masters called this restraint rikyū-ku; modern designers call it \"less, but better.\" Works for editorial design, architectural branding, gallery identity, premium packaging.",
+  "keywords": [
+    "minimalist color palette",
+    "muted color combinations",
+    "neutral color palettes",
+    "two-color palette",
+    "monochrome palettes"
+  ],
+  "accentHex": "#6B6B6B",
+  "paletteCount": 24,
+  "palettes": [
+    {
+      "slug": "kariyasu-rikyu",
+      "title": "Grass Yellow & Rikyū Grey",
+      "titleJa": "刈安と利休鼠",
+      "dominantHue": "yellow",
+      "moods": [
+        "serene",
+        "earthy",
+        "austere",
+        "refined"
+      ],
+      "colors": [
+        "#DCCB7A",
+        "#878A74",
+        "#F3EBDA"
+      ],
+      "url": "https://colorcombinations.org/palettes/kariyasu-rikyu/",
+      "api": "https://colorcombinations.org/api/palettes/kariyasu-rikyu.json"
+    },
+    {
+      "slug": "murasaki-gin",
+      "title": "Royal Purple & Silver",
+      "titleJa": "紫と銀",
+      "dominantHue": "purple",
+      "moods": [
+        "refined",
+        "solemn",
+        "cool"
+      ],
+      "colors": [
+        "#7A4E8F",
+        "#BCBCBE",
+        "#2B2B2B",
+        "#F4EEE0"
+      ],
+      "url": "https://colorcombinations.org/palettes/murasaki-gin/",
+      "api": "https://colorcombinations.org/api/palettes/murasaki-gin.json"
+    },
+    {
+      "slug": "hanada-gin",
+      "title": "Indigo Blue & Silver",
+      "titleJa": "縹と銀",
+      "dominantHue": "blue",
+      "moods": [
+        "refined",
+        "cool",
+        "solemn"
+      ],
+      "colors": [
+        "#3C6E8F",
+        "#BCBCBE",
+        "#F8F4E9"
+      ],
+      "url": "https://colorcombinations.org/palettes/hanada-gin/",
+      "api": "https://colorcombinations.org/api/palettes/hanada-gin.json"
+    },
+    {
+      "slug": "kon-kinari",
+      "title": "Deep Indigo & Cream",
+      "titleJa": "紺と生成",
+      "dominantHue": "blue",
+      "moods": [
+        "refined",
+        "cool",
+        "austere"
+      ],
+      "colors": [
+        "#142747",
+        "#F3EBDA",
+        "#2B2B2B"
+      ],
+      "url": "https://colorcombinations.org/palettes/kon-kinari/",
+      "api": "https://colorcombinations.org/api/palettes/kon-kinari.json"
+    },
+    {
+      "slug": "ao-shiro",
+      "title": "Ao & White",
+      "titleJa": "青と白",
+      "dominantHue": "blue",
+      "moods": [
+        "serene",
+        "cool",
+        "refined"
+      ],
+      "colors": [
+        "#3A7D7B",
+        "#FFFFFF",
+        "#1C1C1C"
+      ],
+      "url": "https://colorcombinations.org/palettes/ao-shiro/",
+      "api": "https://colorcombinations.org/api/palettes/ao-shiro.json"
+    },
+    {
+      "slug": "matcha-kinari",
+      "title": "Matcha & Raw Silk",
+      "titleJa": "抹茶と生成",
+      "dominantHue": "green",
+      "moods": [
+        "serene",
+        "earthy",
+        "austere"
+      ],
+      "colors": [
+        "#A7B86B",
+        "#F3EBDA",
+        "#6C5A3C"
+      ],
+      "url": "https://colorcombinations.org/palettes/matcha-kinari/",
+      "api": "https://colorcombinations.org/api/palettes/matcha-kinari.json"
+    },
+    {
+      "slug": "wada-001-english-red-cerulian-blue",
+      "title": "English Red & Cerulian Blue",
+      "titleJa": null,
+      "dominantHue": "orange",
+      "moods": [
+        "refined",
+        "warm",
+        "austere"
+      ],
+      "colors": [
+        "#d96629",
+        "#0093a5"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-001-english-red-cerulian-blue/",
+      "api": "https://colorcombinations.org/api/palettes/wada-001-english-red-cerulian-blue.json"
+    },
+    {
+      "slug": "wada-002-yellow-orange-dark-tyrian-blue",
+      "title": "Yellow Orange & Dark Tyrian Blue",
+      "titleJa": null,
+      "dominantHue": "yellow",
+      "moods": [
+        "refined",
+        "cool",
+        "austere"
+      ],
+      "colors": [
+        "#f99d1b",
+        "#12354e"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-002-yellow-orange-dark-tyrian-blue/",
+      "api": "https://colorcombinations.org/api/palettes/wada-002-yellow-orange-dark-tyrian-blue.json"
+    },
+    {
+      "slug": "wada-003-raw-sienna-pale-lemon-yellow",
+      "title": "Raw Sienna & Pale Lemon Yellow",
+      "titleJa": null,
+      "dominantHue": "orange",
+      "moods": [
+        "refined",
+        "warm",
+        "austere"
+      ],
+      "colors": [
+        "#bb7125",
+        "#ffefae"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-003-raw-sienna-pale-lemon-yellow/",
+      "api": "https://colorcombinations.org/api/palettes/wada-003-raw-sienna-pale-lemon-yellow.json"
+    },
+    {
+      "slug": "wada-004-isabella-color-red-violet",
+      "title": "Isabella Color & Red Violet",
+      "titleJa": null,
+      "dominantHue": "yellow",
+      "moods": [
+        "refined",
+        "austere"
+      ],
+      "colors": [
+        "#c5a56e",
+        "#59256a"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-004-isabella-color-red-violet/",
+      "api": "https://colorcombinations.org/api/palettes/wada-004-isabella-color-red-violet.json"
+    },
+    {
+      "slug": "wada-005-cossack-green-vandar-poel-s-blue",
+      "title": "Cossack Green & Vandar Poel's Blue",
+      "titleJa": null,
+      "dominantHue": "green",
+      "moods": [
+        "solemn",
+        "cool",
+        "austere"
+      ],
+      "colors": [
+        "#437742",
+        "#064f6e"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-005-cossack-green-vandar-poel-s-blue/",
+      "api": "https://colorcombinations.org/api/palettes/wada-005-cossack-green-vandar-poel-s-blue.json"
+    },
+    {
+      "slug": "wada-006-grenadine-pink-deep-indigo",
+      "title": "Grenadine Pink & Deep Indigo",
+      "titleJa": null,
+      "dominantHue": "red",
+      "moods": [
+        "refined",
+        "warm",
+        "austere"
+      ],
+      "colors": [
+        "#f48067",
+        "#051230"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-006-grenadine-pink-deep-indigo/",
+      "api": "https://colorcombinations.org/api/palettes/wada-006-grenadine-pink-deep-indigo.json"
+    },
+    {
+      "slug": "wada-007-orange-glaucous-green",
+      "title": "Orange & Glaucous Green",
+      "titleJa": null,
+      "dominantHue": "orange",
+      "moods": [
+        "refined",
+        "warm",
+        "austere"
+      ],
+      "colors": [
+        "#f37420",
+        "#b4cdc2"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-007-orange-glaucous-green/",
+      "api": "https://colorcombinations.org/api/palettes/wada-007-orange-glaucous-green.json"
+    },
+    {
+      "slug": "wada-008-cinnamon-rufous-grayish-lavender-a",
+      "title": "Cinnamon Rufous & Grayish Lavender - A",
+      "titleJa": null,
+      "dominantHue": "orange",
+      "moods": [
+        "refined",
+        "warm",
+        "austere"
+      ],
+      "colors": [
+        "#c27544",
+        "#b5b1d8"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-008-cinnamon-rufous-grayish-lavender-a/",
+      "api": "https://colorcombinations.org/api/palettes/wada-008-cinnamon-rufous-grayish-lavender-a.json"
+    },
+    {
+      "slug": "wada-009-violet-red-dull-blue-violet",
+      "title": "Violet Red & Dull Blue Violet",
+      "titleJa": null,
+      "dominantHue": "pink",
+      "moods": [
+        "refined",
+        "austere"
+      ],
+      "colors": [
+        "#642d5e",
+        "#80719e"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-009-violet-red-dull-blue-violet/",
+      "api": "https://colorcombinations.org/api/palettes/wada-009-violet-red-dull-blue-violet.json"
+    },
+    {
+      "slug": "wada-010-cinnamon-rufous-dark-citrine",
+      "title": "Cinnamon Rufous & Dark Citrine",
+      "titleJa": null,
+      "dominantHue": "orange",
+      "moods": [
+        "refined",
+        "warm",
+        "austere"
+      ],
+      "colors": [
+        "#c27544",
+        "#8b835b"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-010-cinnamon-rufous-dark-citrine/",
+      "api": "https://colorcombinations.org/api/palettes/wada-010-cinnamon-rufous-dark-citrine.json"
+    },
+    {
+      "slug": "wada-011-ivory-buff-mineral-gray",
+      "title": "Ivory Buff & Mineral Gray",
+      "titleJa": null,
+      "dominantHue": "yellow",
+      "moods": [
+        "serene",
+        "austere"
+      ],
+      "colors": [
+        "#ebd3a2",
+        "#a2b0ad"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-011-ivory-buff-mineral-gray/",
+      "api": "https://colorcombinations.org/api/palettes/wada-011-ivory-buff-mineral-gray.json"
+    },
+    {
+      "slug": "wada-012-isabella-color-green-blue",
+      "title": "Isabella Color & Green Blue",
+      "titleJa": null,
+      "dominantHue": "yellow",
+      "moods": [
+        "refined",
+        "cool",
+        "austere"
+      ],
+      "colors": [
+        "#c5a56e",
+        "#099197"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-012-isabella-color-green-blue/",
+      "api": "https://colorcombinations.org/api/palettes/wada-012-isabella-color-green-blue.json"
+    },
+    {
+      "slug": "wada-013-raw-sienna-veronia-purple",
+      "title": "Raw Sienna & Veronia Purple",
+      "titleJa": null,
+      "dominantHue": "orange",
+      "moods": [
+        "refined",
+        "warm",
+        "austere"
+      ],
+      "colors": [
+        "#bb7125",
+        "#8c4c62"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-013-raw-sienna-veronia-purple/",
+      "api": "https://colorcombinations.org/api/palettes/wada-013-raw-sienna-veronia-purple.json"
+    },
+    {
+      "slug": "wada-014-spinel-red-naples-yellow",
+      "title": "Spinel Red & Naples Yellow",
+      "titleJa": null,
+      "dominantHue": "red",
+      "moods": [
+        "serene",
+        "warm",
+        "austere"
+      ],
+      "colors": [
+        "#f27291",
+        "#fbe6a0"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-014-spinel-red-naples-yellow/",
+      "api": "https://colorcombinations.org/api/palettes/wada-014-spinel-red-naples-yellow.json"
+    },
+    {
+      "slug": "wada-015-benzol-green-grayish-lavender-a",
+      "title": "Benzol Green & Grayish Lavender - A",
+      "titleJa": null,
+      "dominantHue": "blue",
+      "moods": [
+        "refined",
+        "cool",
+        "austere"
+      ],
+      "colors": [
+        "#00978d",
+        "#b5b1d8"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-015-benzol-green-grayish-lavender-a/",
+      "api": "https://colorcombinations.org/api/palettes/wada-015-benzol-green-grayish-lavender-a.json"
+    },
+    {
+      "slug": "wada-016-vandyke-red-pale-king-s-blue",
+      "title": "Vandyke Red & Pale King's Blue",
+      "titleJa": null,
+      "dominantHue": "red",
+      "moods": [
+        "refined",
+        "warm",
+        "austere"
+      ],
+      "colors": [
+        "#82241f",
+        "#a7d4e4"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-016-vandyke-red-pale-king-s-blue/",
+      "api": "https://colorcombinations.org/api/palettes/wada-016-vandyke-red-pale-king-s-blue.json"
+    },
+    {
+      "slug": "wada-017-eugenia-red-b-sea-green",
+      "title": "Eugenia Red B & Sea Green",
+      "titleJa": null,
+      "dominantHue": "red",
+      "moods": [
+        "refined",
+        "warm",
+        "austere"
+      ],
+      "colors": [
+        "#da525d",
+        "#00b49b"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-017-eugenia-red-b-sea-green/",
+      "api": "https://colorcombinations.org/api/palettes/wada-017-eugenia-red-b-sea-green.json"
+    },
+    {
+      "slug": "wada-018-fawn-dusky-madder-violet",
+      "title": "Fawn & Dusky Madder Violet",
+      "titleJa": null,
+      "dominantHue": "red",
+      "moods": [
+        "refined",
+        "warm",
+        "austere"
+      ],
+      "colors": [
+        "#d1b0a7",
+        "#4e1d4c"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-018-fawn-dusky-madder-violet/",
+      "api": "https://colorcombinations.org/api/palettes/wada-018-fawn-dusky-madder-violet.json"
+    }
+  ],
+  "urls": {
+    "canonical": "https://colorcombinations.org/collections/minimalist/",
+    "embed": "https://colorcombinations.org/embed/collection/minimalist/",
+    "openGraph": "https://colorcombinations.org/og/collections/minimalist.svg",
+    "api": "https://colorcombinations.org/api/collections/minimalist.json"
+  },
+  "license": "CC-BY-4.0 (attribution: colorcombinations.org)",
+  "source": "Sanzo Wada, A Dictionary of Color Combinations (1933 · six volumes)"
+}

@@ -1,0 +1,152 @@
+{
+  "schema": "colorcombinations-collection/v1",
+  "slug": "neon",
+  "title": "Neon Color Palettes",
+  "tagline": "Maximum saturation — the festival palette at full force.",
+  "description": "Neon as a modern aesthetic didn't exist in 1933, but the impulse behind it — maximum saturation, maximum contrast, maximum energy — absolutely did. The Edo festival tradition ran on vermilion and gold, on deep crimson banners against black lacquer, on the ultra-blue of gunjo lapis next to oyster white. These combinations are the archive's highest-energy palettes: the ones that hold their own on digital screens, in printed wayfinding, in identity systems for entertainment, events, streetwear, and any project where the brief includes the word 'electric.' Not loud for its own sake — precise and deliberate at full power.",
+  "keywords": [
+    "neon color palette",
+    "vibrant color combinations",
+    "high energy color palette",
+    "electric color scheme",
+    "bright bold colors"
+  ],
+  "accentHex": "#D4360A",
+  "paletteCount": 7,
+  "palettes": [
+    {
+      "slug": "shu-kuro-kin",
+      "title": "Vermillion, Black, Gold",
+      "titleJa": "朱・黒・金",
+      "dominantHue": "red",
+      "moods": [
+        "bold",
+        "solemn"
+      ],
+      "colors": [
+        "#C8352B",
+        "#141414",
+        "#D4AF37"
+      ],
+      "url": "https://colorcombinations.org/palettes/shu-kuro-kin/",
+      "api": "https://colorcombinations.org/api/palettes/shu-kuro-kin.json"
+    },
+    {
+      "slug": "daidai-kon",
+      "title": "Bitter Orange & Navy",
+      "titleJa": "橙と紺",
+      "dominantHue": "orange",
+      "moods": [
+        "bold",
+        "warm",
+        "playful"
+      ],
+      "colors": [
+        "#F28C28",
+        "#1B2A4E",
+        "#F4EEE0"
+      ],
+      "url": "https://colorcombinations.org/palettes/daidai-kon/",
+      "api": "https://colorcombinations.org/api/palettes/daidai-kon.json"
+    },
+    {
+      "slug": "akane-tokiwa",
+      "title": "Madder Red & Evergreen",
+      "titleJa": "茜と常磐",
+      "dominantHue": "red",
+      "moods": [
+        "earthy",
+        "bold",
+        "solemn"
+      ],
+      "colors": [
+        "#B23B3B",
+        "#344E3D",
+        "#EAE1CC",
+        "#2B2B2B"
+      ],
+      "url": "https://colorcombinations.org/palettes/akane-tokiwa/",
+      "api": "https://colorcombinations.org/api/palettes/akane-tokiwa.json"
+    },
+    {
+      "slug": "gunjo-gofun",
+      "title": "Ultramarine & Chalk White",
+      "titleJa": "群青と胡粉",
+      "dominantHue": "blue",
+      "moods": [
+        "solemn",
+        "serene",
+        "austere"
+      ],
+      "colors": [
+        "#264A6B",
+        "#F4EEE0",
+        "#C5AC6B"
+      ],
+      "url": "https://colorcombinations.org/palettes/gunjo-gofun/",
+      "api": "https://colorcombinations.org/api/palettes/gunjo-gofun.json"
+    },
+    {
+      "slug": "ruri-gofun",
+      "title": "Lapis & Chalk",
+      "titleJa": "瑠璃と胡粉",
+      "dominantHue": "blue",
+      "moods": [
+        "solemn",
+        "serene",
+        "refined"
+      ],
+      "colors": [
+        "#1E4B8A",
+        "#F4EEE0",
+        "#D4AF37"
+      ],
+      "url": "https://colorcombinations.org/palettes/ruri-gofun/",
+      "api": "https://colorcombinations.org/api/palettes/ruri-gofun.json"
+    },
+    {
+      "slug": "yamabuki-kuri",
+      "title": "Kerria Gold & Chestnut",
+      "titleJa": "山吹と栗",
+      "dominantHue": "yellow",
+      "moods": [
+        "warm",
+        "earthy",
+        "playful"
+      ],
+      "colors": [
+        "#F5B71C",
+        "#6B3E26",
+        "#F8F4E9"
+      ],
+      "url": "https://colorcombinations.org/palettes/yamabuki-kuri/",
+      "api": "https://colorcombinations.org/api/palettes/yamabuki-kuri.json"
+    },
+    {
+      "slug": "sora-shu",
+      "title": "Sky Blue & Vermillion",
+      "titleJa": "空と朱",
+      "dominantHue": "blue",
+      "moods": [
+        "bold",
+        "cool",
+        "playful"
+      ],
+      "colors": [
+        "#7AB2D3",
+        "#D8453A",
+        "#F4EEE0"
+      ],
+      "url": "https://colorcombinations.org/palettes/sora-shu/",
+      "api": "https://colorcombinations.org/api/palettes/sora-shu.json"
+    }
+  ],
+  "urls": {
+    "canonical": "https://colorcombinations.org/collections/neon/",
+    "embed": "https://colorcombinations.org/embed/collection/neon/",
+    "openGraph": "https://colorcombinations.org/og/collections/neon.svg",
+    "api": "https://colorcombinations.org/api/collections/neon.json"
+  },
+  "license": "CC-BY-4.0 (attribution: colorcombinations.org)",
+  "source": "Sanzo Wada, A Dictionary of Color Combinations (1933 · six volumes)"
+}

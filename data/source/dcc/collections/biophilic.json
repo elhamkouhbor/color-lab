@@ -1,0 +1,154 @@
+{
+  "schema": "colorcombinations-collection/v1",
+  "slug": "biophilic",
+  "title": "Biophilic Color Palettes",
+  "tagline": "Living green, soil brown, water blue — color borrowed directly from the natural world.",
+  "description": "Biophilic design — the architectural and design movement that argues humans are calmer, more focused, and healthier when surrounded by living forms — converges on a specific color palette: the saturated green of indoor plants, the warm brown of unfinished wood, the muted blue of clean water, the cream of natural linen. The Japanese color tradition arrived at the same combinations through its own ecology: 'matcha' (抹茶) and 'tokiwa' (常磐 — evergreen) for the plant green, 'cha' (茶) and 'kogecha' (焦茶) for the wood brown, 'mizu' (水 — water blue) and 'asagi' (浅葱 — shallow water) for the natural blue, 'kinari' (生成 — undyed silk) for the linen. These palettes are reference material for biophilic interior design, wellness and meditation brands, plant-based product packaging, sustainability-focused identities, and any project briefed with 'natural, calming, alive.'",
+  "keywords": [
+    "biophilic color palette",
+    "biophilic design colors",
+    "natural color palette",
+    "organic color scheme",
+    "earthy living colors"
+  ],
+  "accentHex": "#5A8B5A",
+  "paletteCount": 7,
+  "palettes": [
+    {
+      "slug": "matcha-kinari",
+      "title": "Matcha & Raw Silk",
+      "titleJa": "抹茶と生成",
+      "dominantHue": "green",
+      "moods": [
+        "serene",
+        "earthy",
+        "austere"
+      ],
+      "colors": [
+        "#A7B86B",
+        "#F3EBDA",
+        "#6C5A3C"
+      ],
+      "url": "https://colorcombinations.org/palettes/matcha-kinari/",
+      "api": "https://colorcombinations.org/api/palettes/matcha-kinari.json"
+    },
+    {
+      "slug": "moegi-sumi",
+      "title": "Spring Green & Ink",
+      "titleJa": "萌黄と墨",
+      "dominantHue": "green",
+      "moods": [
+        "austere",
+        "refined",
+        "serene"
+      ],
+      "colors": [
+        "#A7C957",
+        "#1C1C1C",
+        "#F8F4E9"
+      ],
+      "url": "https://colorcombinations.org/palettes/moegi-sumi/",
+      "api": "https://colorcombinations.org/api/palettes/moegi-sumi.json"
+    },
+    {
+      "slug": "akane-tokiwa",
+      "title": "Madder Red & Evergreen",
+      "titleJa": "茜と常磐",
+      "dominantHue": "red",
+      "moods": [
+        "earthy",
+        "bold",
+        "solemn"
+      ],
+      "colors": [
+        "#B23B3B",
+        "#344E3D",
+        "#EAE1CC",
+        "#2B2B2B"
+      ],
+      "url": "https://colorcombinations.org/palettes/akane-tokiwa/",
+      "api": "https://colorcombinations.org/api/palettes/akane-tokiwa.json"
+    },
+    {
+      "slug": "seiji-kinari",
+      "title": "Celadon & Unbleached",
+      "titleJa": "青磁と生成",
+      "dominantHue": "green",
+      "moods": [
+        "serene",
+        "earthy",
+        "refined"
+      ],
+      "colors": [
+        "#8DB6A5",
+        "#F3EBDA",
+        "#6E7B6A"
+      ],
+      "url": "https://colorcombinations.org/palettes/seiji-kinari/",
+      "api": "https://colorcombinations.org/api/palettes/seiji-kinari.json"
+    },
+    {
+      "slug": "kogecha-kinari",
+      "title": "Scorched Brown & Unbleached",
+      "titleJa": "焦茶と生成",
+      "dominantHue": "brown",
+      "moods": [
+        "earthy",
+        "austere",
+        "refined"
+      ],
+      "colors": [
+        "#3E2A1E",
+        "#F3EBDA",
+        "#8A6A47"
+      ],
+      "url": "https://colorcombinations.org/palettes/kogecha-kinari/",
+      "api": "https://colorcombinations.org/api/palettes/kogecha-kinari.json"
+    },
+    {
+      "slug": "kariyasu-rikyu",
+      "title": "Grass Yellow & Rikyū Grey",
+      "titleJa": "刈安と利休鼠",
+      "dominantHue": "yellow",
+      "moods": [
+        "serene",
+        "earthy",
+        "austere",
+        "refined"
+      ],
+      "colors": [
+        "#DCCB7A",
+        "#878A74",
+        "#F3EBDA"
+      ],
+      "url": "https://colorcombinations.org/palettes/kariyasu-rikyu/",
+      "api": "https://colorcombinations.org/api/palettes/kariyasu-rikyu.json"
+    },
+    {
+      "slug": "tobi-kogane",
+      "title": "Kite Brown & Gold",
+      "titleJa": "鳶と黄金",
+      "dominantHue": "brown",
+      "moods": [
+        "warm",
+        "earthy",
+        "refined"
+      ],
+      "colors": [
+        "#8A5A3B",
+        "#D4AF37",
+        "#2B2B2B"
+      ],
+      "url": "https://colorcombinations.org/palettes/tobi-kogane/",
+      "api": "https://colorcombinations.org/api/palettes/tobi-kogane.json"
+    }
+  ],
+  "urls": {
+    "canonical": "https://colorcombinations.org/collections/biophilic/",
+    "embed": "https://colorcombinations.org/embed/collection/biophilic/",
+    "openGraph": "https://colorcombinations.org/og/collections/biophilic.svg",
+    "api": "https://colorcombinations.org/api/collections/biophilic.json"
+  },
+  "license": "CC-BY-4.0 (attribution: colorcombinations.org)",
+  "source": "Sanzo Wada, A Dictionary of Color Combinations (1933 · six volumes)"
+}

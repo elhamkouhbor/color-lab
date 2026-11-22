@@ -1,0 +1,171 @@
+{
+  "schema": "colorcombinations-collection/v1",
+  "slug": "farmhouse",
+  "title": "Farmhouse Color Palettes",
+  "tagline": "Aged wood, warm linen, and the honest palette of natural materials.",
+  "description": "Farmhouse color is about material honesty: the warm tan of aged linen, the ochre of earth floors, the ivory of washed cotton, the faded brown of worn wood, the quiet warmth of clay. Traditional Japanese color names, many of them taken from undyed cloth, earth and plants, hold exactly these natural material tones. 'Kinari' (生成り) is unbleached, barely-off-white linen. 'Kogecha' (焦茶) is the warm brown of burnt-tea dye, aged to a perfect depth. 'Tobi' (鳶) is the red-brown of old lacquerware. These combinations are the honest palette of a life lived among natural things — reference material for farmhouse interior design, artisan food and beverage brands, homewares and textiles, and any identity that should feel both authentic and enduring.",
+  "keywords": [
+    "farmhouse color palette",
+    "rustic color scheme",
+    "farmhouse color combinations",
+    "cottage color palette",
+    "natural material colors"
+  ],
+  "accentHex": "#A07850",
+  "paletteCount": 8,
+  "palettes": [
+    {
+      "slug": "kogecha-kinari",
+      "title": "Scorched Brown & Unbleached",
+      "titleJa": "焦茶と生成",
+      "dominantHue": "brown",
+      "moods": [
+        "earthy",
+        "austere",
+        "refined"
+      ],
+      "colors": [
+        "#3E2A1E",
+        "#F3EBDA",
+        "#8A6A47"
+      ],
+      "url": "https://colorcombinations.org/palettes/kogecha-kinari/",
+      "api": "https://colorcombinations.org/api/palettes/kogecha-kinari.json"
+    },
+    {
+      "slug": "tobi-kogane",
+      "title": "Kite Brown & Gold",
+      "titleJa": "鳶と黄金",
+      "dominantHue": "brown",
+      "moods": [
+        "warm",
+        "earthy",
+        "refined"
+      ],
+      "colors": [
+        "#8A5A3B",
+        "#D4AF37",
+        "#2B2B2B"
+      ],
+      "url": "https://colorcombinations.org/palettes/tobi-kogane/",
+      "api": "https://colorcombinations.org/api/palettes/tobi-kogane.json"
+    },
+    {
+      "slug": "yamabuki-kuri",
+      "title": "Kerria Gold & Chestnut",
+      "titleJa": "山吹と栗",
+      "dominantHue": "yellow",
+      "moods": [
+        "warm",
+        "earthy",
+        "playful"
+      ],
+      "colors": [
+        "#F5B71C",
+        "#6B3E26",
+        "#F8F4E9"
+      ],
+      "url": "https://colorcombinations.org/palettes/yamabuki-kuri/",
+      "api": "https://colorcombinations.org/api/palettes/yamabuki-kuri.json"
+    },
+    {
+      "slug": "usubeni-cha",
+      "title": "Light Pink & Tea",
+      "titleJa": "薄紅と茶",
+      "dominantHue": "pink",
+      "moods": [
+        "warm",
+        "playful",
+        "refined"
+      ],
+      "colors": [
+        "#E8A4A4",
+        "#6C4F3B",
+        "#F3EBDA"
+      ],
+      "url": "https://colorcombinations.org/palettes/usubeni-cha/",
+      "api": "https://colorcombinations.org/api/palettes/usubeni-cha.json"
+    },
+    {
+      "slug": "seiji-kinari",
+      "title": "Celadon & Unbleached",
+      "titleJa": "青磁と生成",
+      "dominantHue": "green",
+      "moods": [
+        "serene",
+        "earthy",
+        "refined"
+      ],
+      "colors": [
+        "#8DB6A5",
+        "#F3EBDA",
+        "#6E7B6A"
+      ],
+      "url": "https://colorcombinations.org/palettes/seiji-kinari/",
+      "api": "https://colorcombinations.org/api/palettes/seiji-kinari.json"
+    },
+    {
+      "slug": "kaki-kogecha",
+      "title": "Persimmon & Burnt Brown",
+      "titleJa": "柿と焦茶",
+      "dominantHue": "orange",
+      "moods": [
+        "earthy",
+        "warm",
+        "austere"
+      ],
+      "colors": [
+        "#D66B37",
+        "#4B2E20",
+        "#E8D8B7"
+      ],
+      "url": "https://colorcombinations.org/palettes/kaki-kogecha/",
+      "api": "https://colorcombinations.org/api/palettes/kaki-kogecha.json"
+    },
+    {
+      "slug": "kariyasu-rikyu",
+      "title": "Grass Yellow & Rikyū Grey",
+      "titleJa": "刈安と利休鼠",
+      "dominantHue": "yellow",
+      "moods": [
+        "serene",
+        "earthy",
+        "austere",
+        "refined"
+      ],
+      "colors": [
+        "#DCCB7A",
+        "#878A74",
+        "#F3EBDA"
+      ],
+      "url": "https://colorcombinations.org/palettes/kariyasu-rikyu/",
+      "api": "https://colorcombinations.org/api/palettes/kariyasu-rikyu.json"
+    },
+    {
+      "slug": "ukon-ai",
+      "title": "Turmeric & Indigo",
+      "titleJa": "鬱金と藍",
+      "dominantHue": "yellow",
+      "moods": [
+        "earthy",
+        "warm",
+        "playful"
+      ],
+      "colors": [
+        "#E0B740",
+        "#1C3D5A",
+        "#F3EBDA"
+      ],
+      "url": "https://colorcombinations.org/palettes/ukon-ai/",
+      "api": "https://colorcombinations.org/api/palettes/ukon-ai.json"
+    }
+  ],
+  "urls": {
+    "canonical": "https://colorcombinations.org/collections/farmhouse/",
+    "embed": "https://colorcombinations.org/embed/collection/farmhouse/",
+    "openGraph": "https://colorcombinations.org/og/collections/farmhouse.svg",
+    "api": "https://colorcombinations.org/api/collections/farmhouse.json"
+  },
+  "license": "CC-BY-4.0 (attribution: colorcombinations.org)",
+  "source": "Sanzo Wada, A Dictionary of Color Combinations (1933 · six volumes)"
+}

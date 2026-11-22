@@ -1,0 +1,169 @@
+{
+  "schema": "colorcombinations-collection/v1",
+  "slug": "sage",
+  "title": "Sage Green Color Palettes",
+  "tagline": "The green of dried herbs, early morning mist, and quiet rooms.",
+  "description": "Sage — that particular grey-green that sits between green tea and stone — became ubiquitous in 2020s interior design for a reason: it reads as calming without being cold, botanical without being loud, and aged without being dull. Wada's vocabulary reaches it through 'moegi' (萌黄 — the budding yellow-green of new growth), 'seiji' (青磁 — celadon glaze green), and 'matcha' (抹茶 — the powdered-tea blue-green). Every palette here pairs the sage anchor with an off-white, a warm clay, or a deep ink so the muted green can breathe.",
+  "keywords": [
+    "sage green color palette",
+    "sage color palette",
+    "sage green combinations",
+    "muted green palette",
+    "soft green color palette",
+    "botanical color palette"
+  ],
+  "accentHex": "#8A9E7E",
+  "paletteCount": 8,
+  "palettes": [
+    {
+      "slug": "matcha-kinari",
+      "title": "Matcha & Raw Silk",
+      "titleJa": "抹茶と生成",
+      "dominantHue": "green",
+      "moods": [
+        "serene",
+        "earthy",
+        "austere"
+      ],
+      "colors": [
+        "#A7B86B",
+        "#F3EBDA",
+        "#6C5A3C"
+      ],
+      "url": "https://colorcombinations.org/palettes/matcha-kinari/",
+      "api": "https://colorcombinations.org/api/palettes/matcha-kinari.json"
+    },
+    {
+      "slug": "seiji-kinari",
+      "title": "Celadon & Unbleached",
+      "titleJa": "青磁と生成",
+      "dominantHue": "green",
+      "moods": [
+        "serene",
+        "earthy",
+        "refined"
+      ],
+      "colors": [
+        "#8DB6A5",
+        "#F3EBDA",
+        "#6E7B6A"
+      ],
+      "url": "https://colorcombinations.org/palettes/seiji-kinari/",
+      "api": "https://colorcombinations.org/api/palettes/seiji-kinari.json"
+    },
+    {
+      "slug": "moegi-sumi",
+      "title": "Spring Green & Ink",
+      "titleJa": "萌黄と墨",
+      "dominantHue": "green",
+      "moods": [
+        "austere",
+        "refined",
+        "serene"
+      ],
+      "colors": [
+        "#A7C957",
+        "#1C1C1C",
+        "#F8F4E9"
+      ],
+      "url": "https://colorcombinations.org/palettes/moegi-sumi/",
+      "api": "https://colorcombinations.org/api/palettes/moegi-sumi.json"
+    },
+    {
+      "slug": "kariyasu-rikyu",
+      "title": "Grass Yellow & Rikyū Grey",
+      "titleJa": "刈安と利休鼠",
+      "dominantHue": "yellow",
+      "moods": [
+        "serene",
+        "earthy",
+        "austere",
+        "refined"
+      ],
+      "colors": [
+        "#DCCB7A",
+        "#878A74",
+        "#F3EBDA"
+      ],
+      "url": "https://colorcombinations.org/palettes/kariyasu-rikyu/",
+      "api": "https://colorcombinations.org/api/palettes/kariyasu-rikyu.json"
+    },
+    {
+      "slug": "kogecha-kinari",
+      "title": "Scorched Brown & Unbleached",
+      "titleJa": "焦茶と生成",
+      "dominantHue": "brown",
+      "moods": [
+        "earthy",
+        "austere",
+        "refined"
+      ],
+      "colors": [
+        "#3E2A1E",
+        "#F3EBDA",
+        "#8A6A47"
+      ],
+      "url": "https://colorcombinations.org/palettes/kogecha-kinari/",
+      "api": "https://colorcombinations.org/api/palettes/kogecha-kinari.json"
+    },
+    {
+      "slug": "wada-005-cossack-green-vandar-poel-s-blue",
+      "title": "Cossack Green & Vandar Poel's Blue",
+      "titleJa": null,
+      "dominantHue": "green",
+      "moods": [
+        "solemn",
+        "cool",
+        "austere"
+      ],
+      "colors": [
+        "#437742",
+        "#064f6e"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-005-cossack-green-vandar-poel-s-blue/",
+      "api": "https://colorcombinations.org/api/palettes/wada-005-cossack-green-vandar-poel-s-blue.json"
+    },
+    {
+      "slug": "wada-038-diamine-green-deep-lyons-blue",
+      "title": "Diamine Green & Deep Lyons Blue",
+      "titleJa": null,
+      "dominantHue": "green",
+      "moods": [
+        "solemn",
+        "cool",
+        "austere"
+      ],
+      "colors": [
+        "#1a7444",
+        "#1c4286"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-038-diamine-green-deep-lyons-blue/",
+      "api": "https://colorcombinations.org/api/palettes/wada-038-diamine-green-deep-lyons-blue.json"
+    },
+    {
+      "slug": "wada-074-turquoise-green-green-blue",
+      "title": "Turquoise Green & Green Blue",
+      "titleJa": null,
+      "dominantHue": "green",
+      "moods": [
+        "refined",
+        "cool",
+        "austere"
+      ],
+      "colors": [
+        "#b5decc",
+        "#099197"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-074-turquoise-green-green-blue/",
+      "api": "https://colorcombinations.org/api/palettes/wada-074-turquoise-green-green-blue.json"
+    }
+  ],
+  "urls": {
+    "canonical": "https://colorcombinations.org/collections/sage/",
+    "embed": "https://colorcombinations.org/embed/collection/sage/",
+    "openGraph": "https://colorcombinations.org/og/collections/sage.svg",
+    "api": "https://colorcombinations.org/api/collections/sage.json"
+  },
+  "license": "CC-BY-4.0 (attribution: colorcombinations.org)",
+  "source": "Sanzo Wada, A Dictionary of Color Combinations (1933 · six volumes)"
+}

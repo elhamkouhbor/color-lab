@@ -1,0 +1,279 @@
+{
+  "schema": "colorcombinations-collection/v1",
+  "slug": "y2k",
+  "title": "Y2K Color Palettes",
+  "tagline": "Bubblegum pink, cyber lilac, sky blue — the early-2000s revival, historically grounded.",
+  "description": "Y2K color is usually described as bubblegum and hot pink, icy and electric blue, translucent lilac, lime, and metallic silver. The surprise is how much of that sits in a color dictionary from 1933. The Wada plates at the top of this set land close to it: Eosine Pink (#f37f94) and Spinel Red (#f27291) for the pinks, Pale King's Blue (#a7d4e4) beside Blue (#006eb8) for icy against electric, Aconite Violet (#a36aa5) for the lilac end, Night Green (#87c540) for lime, and Neutral Gray (#b6bfc1) as the nearest thing to silver. The palettes after them were put together on this site from traditional Japanese color names, and they run softer: Nadeshiko (#EBA6B4) is a pale pink, Sora (#7AB2D3) a sky blue, Fuji (#B5A6C9) a pale wisteria. Two things no flat color can give you: chrome, which is a shine effect on a screen rather than a color, and the glow of a backlit display. Use these for nostalgia-driven packaging, streetwear capsules, beauty relaunches, and playful digital products.",
+  "keywords": [
+    "y2k color palette",
+    "y2k aesthetic colors",
+    "y2k colors",
+    "2000s color palette",
+    "early 2000s color scheme",
+    "cyber pink color palette",
+    "y2k metallic silver palette",
+    "y2k pastel colors"
+  ],
+  "accentHex": "#E27AB4",
+  "paletteCount": 14,
+  "palettes": [
+    {
+      "slug": "wada-090-eosine-pink-aconite-violet",
+      "title": "Eosine Pink & Aconite Violet",
+      "titleJa": null,
+      "dominantHue": "red",
+      "moods": [
+        "refined",
+        "warm",
+        "austere"
+      ],
+      "colors": [
+        "#f37f94",
+        "#a36aa5"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-090-eosine-pink-aconite-violet/",
+      "api": "https://colorcombinations.org/api/palettes/wada-090-eosine-pink-aconite-violet.json"
+    },
+    {
+      "slug": "wada-049-pale-king-s-blue-blue",
+      "title": "Pale King's Blue & Blue",
+      "titleJa": null,
+      "dominantHue": "blue",
+      "moods": [
+        "refined",
+        "cool",
+        "austere"
+      ],
+      "colors": [
+        "#a7d4e4",
+        "#006eb8"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-049-pale-king-s-blue-blue/",
+      "api": "https://colorcombinations.org/api/palettes/wada-049-pale-king-s-blue-blue.json"
+    },
+    {
+      "slug": "wada-014-spinel-red-naples-yellow",
+      "title": "Spinel Red & Naples Yellow",
+      "titleJa": null,
+      "dominantHue": "red",
+      "moods": [
+        "serene",
+        "warm",
+        "austere"
+      ],
+      "colors": [
+        "#f27291",
+        "#fbe6a0"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-014-spinel-red-naples-yellow/",
+      "api": "https://colorcombinations.org/api/palettes/wada-014-spinel-red-naples-yellow.json"
+    },
+    {
+      "slug": "wada-043-corinthian-pink-aconite-violet",
+      "title": "Corinthian Pink & Aconite Violet",
+      "titleJa": null,
+      "dominantHue": "red",
+      "moods": [
+        "refined",
+        "warm",
+        "austere"
+      ],
+      "colors": [
+        "#f8b6ba",
+        "#a36aa5"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-043-corinthian-pink-aconite-violet/",
+      "api": "https://colorcombinations.org/api/palettes/wada-043-corinthian-pink-aconite-violet.json"
+    },
+    {
+      "slug": "wada-326-sulpher-yellow-peach-red",
+      "title": "Sulpher Yellow & Peach Red +2",
+      "titleJa": null,
+      "dominantHue": "yellow",
+      "moods": [
+        "refined",
+        "warm",
+        "bold"
+      ],
+      "colors": [
+        "#f5ecc2",
+        "#f15a30",
+        "#afd472",
+        "#87c540"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-326-sulpher-yellow-peach-red/",
+      "api": "https://colorcombinations.org/api/palettes/wada-326-sulpher-yellow-peach-red.json"
+    },
+    {
+      "slug": "wada-034-eosine-pink-neutral-gray",
+      "title": "Eosine Pink & Neutral Gray",
+      "titleJa": null,
+      "dominantHue": "red",
+      "moods": [
+        "serene",
+        "warm",
+        "austere"
+      ],
+      "colors": [
+        "#f37f94",
+        "#b6bfc1"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-034-eosine-pink-neutral-gray/",
+      "api": "https://colorcombinations.org/api/palettes/wada-034-eosine-pink-neutral-gray.json"
+    },
+    {
+      "slug": "nadeshiko-mizu",
+      "title": "Pink Dianthus & Water",
+      "titleJa": "撫子と水色",
+      "dominantHue": "pink",
+      "moods": [
+        "serene",
+        "playful",
+        "refined"
+      ],
+      "colors": [
+        "#EBA6B4",
+        "#B4D6E5",
+        "#F8F4E9"
+      ],
+      "url": "https://colorcombinations.org/palettes/nadeshiko-mizu/",
+      "api": "https://colorcombinations.org/api/palettes/nadeshiko-mizu.json"
+    },
+    {
+      "slug": "sakura-wakatake",
+      "title": "Cherry Blossom & Young Bamboo",
+      "titleJa": "桜と若竹",
+      "dominantHue": "pink",
+      "moods": [
+        "serene",
+        "refined",
+        "playful"
+      ],
+      "colors": [
+        "#F9D5E0",
+        "#A3C293",
+        "#F8F4E9",
+        "#4C5D3F"
+      ],
+      "url": "https://colorcombinations.org/palettes/sakura-wakatake/",
+      "api": "https://colorcombinations.org/api/palettes/sakura-wakatake.json"
+    },
+    {
+      "slug": "fuji-ai",
+      "title": "Wisteria & Indigo",
+      "titleJa": "藤と藍",
+      "dominantHue": "purple",
+      "moods": [
+        "serene",
+        "refined",
+        "cool"
+      ],
+      "colors": [
+        "#B5A6C9",
+        "#1C3D5A",
+        "#F4EEE0"
+      ],
+      "url": "https://colorcombinations.org/palettes/fuji-ai/",
+      "api": "https://colorcombinations.org/api/palettes/fuji-ai.json"
+    },
+    {
+      "slug": "sora-shu",
+      "title": "Sky Blue & Vermillion",
+      "titleJa": "空と朱",
+      "dominantHue": "blue",
+      "moods": [
+        "bold",
+        "cool",
+        "playful"
+      ],
+      "colors": [
+        "#7AB2D3",
+        "#D8453A",
+        "#F4EEE0"
+      ],
+      "url": "https://colorcombinations.org/palettes/sora-shu/",
+      "api": "https://colorcombinations.org/api/palettes/sora-shu.json"
+    },
+    {
+      "slug": "murasaki-gin",
+      "title": "Royal Purple & Silver",
+      "titleJa": "紫と銀",
+      "dominantHue": "purple",
+      "moods": [
+        "refined",
+        "solemn",
+        "cool"
+      ],
+      "colors": [
+        "#7A4E8F",
+        "#BCBCBE",
+        "#2B2B2B",
+        "#F4EEE0"
+      ],
+      "url": "https://colorcombinations.org/palettes/murasaki-gin/",
+      "api": "https://colorcombinations.org/api/palettes/murasaki-gin.json"
+    },
+    {
+      "slug": "hanada-gin",
+      "title": "Indigo Blue & Silver",
+      "titleJa": "縹と銀",
+      "dominantHue": "blue",
+      "moods": [
+        "refined",
+        "cool",
+        "solemn"
+      ],
+      "colors": [
+        "#3C6E8F",
+        "#BCBCBE",
+        "#F8F4E9"
+      ],
+      "url": "https://colorcombinations.org/palettes/hanada-gin/",
+      "api": "https://colorcombinations.org/api/palettes/hanada-gin.json"
+    },
+    {
+      "slug": "ao-shiro",
+      "title": "Ao & White",
+      "titleJa": "青と白",
+      "dominantHue": "blue",
+      "moods": [
+        "serene",
+        "cool",
+        "refined"
+      ],
+      "colors": [
+        "#3A7D7B",
+        "#FFFFFF",
+        "#1C1C1C"
+      ],
+      "url": "https://colorcombinations.org/palettes/ao-shiro/",
+      "api": "https://colorcombinations.org/api/palettes/ao-shiro.json"
+    },
+    {
+      "slug": "daidai-kon",
+      "title": "Bitter Orange & Navy",
+      "titleJa": "橙と紺",
+      "dominantHue": "orange",
+      "moods": [
+        "bold",
+        "warm",
+        "playful"
+      ],
+      "colors": [
+        "#F28C28",
+        "#1B2A4E",
+        "#F4EEE0"
+      ],
+      "url": "https://colorcombinations.org/palettes/daidai-kon/",
+      "api": "https://colorcombinations.org/api/palettes/daidai-kon.json"
+    }
+  ],
+  "urls": {
+    "canonical": "https://colorcombinations.org/collections/y2k/",
+    "embed": "https://colorcombinations.org/embed/collection/y2k/",
+    "openGraph": "https://colorcombinations.org/og/collections/y2k.svg",
+    "api": "https://colorcombinations.org/api/collections/y2k.json"
+  },
+  "license": "CC-BY-4.0 (attribution: colorcombinations.org)",
+  "source": "Sanzo Wada, A Dictionary of Color Combinations (1933 · six volumes)"
+}

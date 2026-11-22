@@ -1,0 +1,444 @@
+{
+  "schema": "colorcombinations-collection/v1",
+  "slug": "kitchen",
+  "title": "Kitchen Color Palettes",
+  "tagline": "Warm cream, sage, terracotta, deep green — the colors that make a kitchen feel lived-in.",
+  "description": "A kitchen is the room that sees the most light, the most wear, and the most hours. The palette has to work at breakfast and at dinner, in summer glare and in winter dusk, next to wood, stone, ceramic, and stainless steel. The Japanese color tradition is unusually well-suited: 'seiji' (青磁 — celadon) is the green of a hand-thrown tea bowl, warm against oak. 'Matcha' (抹茶) is the sage of herbs on a windowsill. 'Kaki' (柿 — persimmon) is the warm earthenware that reads as terracotta. 'Kariyasu' (刈安 — grass yellow) is the undyed cream that softens every other color in the room. These palettes are reference material for kitchen renovations, cabinetry brands, ceramic tile design, cookbook publishing, and any project that should feel like a kitchen at the end of a long, good day.",
+  "keywords": [
+    "kitchen color palette",
+    "kitchen color scheme",
+    "kitchen colors",
+    "kitchen cabinet color palette",
+    "sage kitchen colors"
+  ],
+  "accentHex": "#7A9473",
+  "paletteCount": 24,
+  "palettes": [
+    {
+      "slug": "seiji-kinari",
+      "title": "Celadon & Unbleached",
+      "titleJa": "青磁と生成",
+      "dominantHue": "green",
+      "moods": [
+        "serene",
+        "earthy",
+        "refined"
+      ],
+      "colors": [
+        "#8DB6A5",
+        "#F3EBDA",
+        "#6E7B6A"
+      ],
+      "url": "https://colorcombinations.org/palettes/seiji-kinari/",
+      "api": "https://colorcombinations.org/api/palettes/seiji-kinari.json"
+    },
+    {
+      "slug": "matcha-kinari",
+      "title": "Matcha & Raw Silk",
+      "titleJa": "抹茶と生成",
+      "dominantHue": "green",
+      "moods": [
+        "serene",
+        "earthy",
+        "austere"
+      ],
+      "colors": [
+        "#A7B86B",
+        "#F3EBDA",
+        "#6C5A3C"
+      ],
+      "url": "https://colorcombinations.org/palettes/matcha-kinari/",
+      "api": "https://colorcombinations.org/api/palettes/matcha-kinari.json"
+    },
+    {
+      "slug": "kariyasu-rikyu",
+      "title": "Grass Yellow & Rikyū Grey",
+      "titleJa": "刈安と利休鼠",
+      "dominantHue": "yellow",
+      "moods": [
+        "serene",
+        "earthy",
+        "austere",
+        "refined"
+      ],
+      "colors": [
+        "#DCCB7A",
+        "#878A74",
+        "#F3EBDA"
+      ],
+      "url": "https://colorcombinations.org/palettes/kariyasu-rikyu/",
+      "api": "https://colorcombinations.org/api/palettes/kariyasu-rikyu.json"
+    },
+    {
+      "slug": "kaki-kogecha",
+      "title": "Persimmon & Burnt Brown",
+      "titleJa": "柿と焦茶",
+      "dominantHue": "orange",
+      "moods": [
+        "earthy",
+        "warm",
+        "austere"
+      ],
+      "colors": [
+        "#D66B37",
+        "#4B2E20",
+        "#E8D8B7"
+      ],
+      "url": "https://colorcombinations.org/palettes/kaki-kogecha/",
+      "api": "https://colorcombinations.org/api/palettes/kaki-kogecha.json"
+    },
+    {
+      "slug": "ao-shiro",
+      "title": "Ao & White",
+      "titleJa": "青と白",
+      "dominantHue": "blue",
+      "moods": [
+        "serene",
+        "cool",
+        "refined"
+      ],
+      "colors": [
+        "#3A7D7B",
+        "#FFFFFF",
+        "#1C1C1C"
+      ],
+      "url": "https://colorcombinations.org/palettes/ao-shiro/",
+      "api": "https://colorcombinations.org/api/palettes/ao-shiro.json"
+    },
+    {
+      "slug": "kogecha-kinari",
+      "title": "Scorched Brown & Unbleached",
+      "titleJa": "焦茶と生成",
+      "dominantHue": "brown",
+      "moods": [
+        "earthy",
+        "austere",
+        "refined"
+      ],
+      "colors": [
+        "#3E2A1E",
+        "#F3EBDA",
+        "#8A6A47"
+      ],
+      "url": "https://colorcombinations.org/palettes/kogecha-kinari/",
+      "api": "https://colorcombinations.org/api/palettes/kogecha-kinari.json"
+    },
+    {
+      "slug": "moegi-sumi",
+      "title": "Spring Green & Ink",
+      "titleJa": "萌黄と墨",
+      "dominantHue": "green",
+      "moods": [
+        "austere",
+        "refined",
+        "serene"
+      ],
+      "colors": [
+        "#A7C957",
+        "#1C1C1C",
+        "#F8F4E9"
+      ],
+      "url": "https://colorcombinations.org/palettes/moegi-sumi/",
+      "api": "https://colorcombinations.org/api/palettes/moegi-sumi.json"
+    },
+    {
+      "slug": "daidai-kon",
+      "title": "Bitter Orange & Navy",
+      "titleJa": "橙と紺",
+      "dominantHue": "orange",
+      "moods": [
+        "bold",
+        "warm",
+        "playful"
+      ],
+      "colors": [
+        "#F28C28",
+        "#1B2A4E",
+        "#F4EEE0"
+      ],
+      "url": "https://colorcombinations.org/palettes/daidai-kon/",
+      "api": "https://colorcombinations.org/api/palettes/daidai-kon.json"
+    },
+    {
+      "slug": "tobi-kogane",
+      "title": "Kite Brown & Gold",
+      "titleJa": "鳶と黄金",
+      "dominantHue": "brown",
+      "moods": [
+        "warm",
+        "earthy",
+        "refined"
+      ],
+      "colors": [
+        "#8A5A3B",
+        "#D4AF37",
+        "#2B2B2B"
+      ],
+      "url": "https://colorcombinations.org/palettes/tobi-kogane/",
+      "api": "https://colorcombinations.org/api/palettes/tobi-kogane.json"
+    },
+    {
+      "slug": "wada-001-english-red-cerulian-blue",
+      "title": "English Red & Cerulian Blue",
+      "titleJa": null,
+      "dominantHue": "orange",
+      "moods": [
+        "refined",
+        "warm",
+        "austere"
+      ],
+      "colors": [
+        "#d96629",
+        "#0093a5"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-001-english-red-cerulian-blue/",
+      "api": "https://colorcombinations.org/api/palettes/wada-001-english-red-cerulian-blue.json"
+    },
+    {
+      "slug": "wada-003-raw-sienna-pale-lemon-yellow",
+      "title": "Raw Sienna & Pale Lemon Yellow",
+      "titleJa": null,
+      "dominantHue": "orange",
+      "moods": [
+        "refined",
+        "warm",
+        "austere"
+      ],
+      "colors": [
+        "#bb7125",
+        "#ffefae"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-003-raw-sienna-pale-lemon-yellow/",
+      "api": "https://colorcombinations.org/api/palettes/wada-003-raw-sienna-pale-lemon-yellow.json"
+    },
+    {
+      "slug": "wada-007-orange-glaucous-green",
+      "title": "Orange & Glaucous Green",
+      "titleJa": null,
+      "dominantHue": "orange",
+      "moods": [
+        "refined",
+        "warm",
+        "austere"
+      ],
+      "colors": [
+        "#f37420",
+        "#b4cdc2"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-007-orange-glaucous-green/",
+      "api": "https://colorcombinations.org/api/palettes/wada-007-orange-glaucous-green.json"
+    },
+    {
+      "slug": "wada-008-cinnamon-rufous-grayish-lavender-a",
+      "title": "Cinnamon Rufous & Grayish Lavender - A",
+      "titleJa": null,
+      "dominantHue": "orange",
+      "moods": [
+        "refined",
+        "warm",
+        "austere"
+      ],
+      "colors": [
+        "#c27544",
+        "#b5b1d8"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-008-cinnamon-rufous-grayish-lavender-a/",
+      "api": "https://colorcombinations.org/api/palettes/wada-008-cinnamon-rufous-grayish-lavender-a.json"
+    },
+    {
+      "slug": "wada-010-cinnamon-rufous-dark-citrine",
+      "title": "Cinnamon Rufous & Dark Citrine",
+      "titleJa": null,
+      "dominantHue": "orange",
+      "moods": [
+        "refined",
+        "warm",
+        "austere"
+      ],
+      "colors": [
+        "#c27544",
+        "#8b835b"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-010-cinnamon-rufous-dark-citrine/",
+      "api": "https://colorcombinations.org/api/palettes/wada-010-cinnamon-rufous-dark-citrine.json"
+    },
+    {
+      "slug": "wada-013-raw-sienna-veronia-purple",
+      "title": "Raw Sienna & Veronia Purple",
+      "titleJa": null,
+      "dominantHue": "orange",
+      "moods": [
+        "refined",
+        "warm",
+        "austere"
+      ],
+      "colors": [
+        "#bb7125",
+        "#8c4c62"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-013-raw-sienna-veronia-purple/",
+      "api": "https://colorcombinations.org/api/palettes/wada-013-raw-sienna-veronia-purple.json"
+    },
+    {
+      "slug": "wada-019-mars-brown-tobacco-night-green",
+      "title": "Mars Brown Tobacco & Night Green",
+      "titleJa": null,
+      "dominantHue": "orange",
+      "moods": [
+        "refined",
+        "warm",
+        "austere"
+      ],
+      "colors": [
+        "#653514",
+        "#87c540"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-019-mars-brown-tobacco-night-green/",
+      "api": "https://colorcombinations.org/api/palettes/wada-019-mars-brown-tobacco-night-green.json"
+    },
+    {
+      "slug": "wada-023-cinnamon-buff-light-mauve",
+      "title": "Cinnamon Buff & Light Mauve",
+      "titleJa": null,
+      "dominantHue": "orange",
+      "moods": [
+        "refined",
+        "warm",
+        "austere"
+      ],
+      "colors": [
+        "#fdc57e",
+        "#9a72aa"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-023-cinnamon-buff-light-mauve/",
+      "api": "https://colorcombinations.org/api/palettes/wada-023-cinnamon-buff-light-mauve.json"
+    },
+    {
+      "slug": "wada-026-golden-yellow-pale-raw-umber",
+      "title": "Golden Yellow & Pale Raw Umber",
+      "titleJa": null,
+      "dominantHue": "orange",
+      "moods": [
+        "refined",
+        "warm",
+        "austere"
+      ],
+      "colors": [
+        "#f3a257",
+        "#71502f"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-026-golden-yellow-pale-raw-umber/",
+      "api": "https://colorcombinations.org/api/palettes/wada-026-golden-yellow-pale-raw-umber.json"
+    },
+    {
+      "slug": "wada-032-ochraceous-salmon-night-green",
+      "title": "Ochraceous Salmon & Night Green",
+      "titleJa": null,
+      "dominantHue": "orange",
+      "moods": [
+        "refined",
+        "warm",
+        "austere"
+      ],
+      "colors": [
+        "#d8a37b",
+        "#87c540"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-032-ochraceous-salmon-night-green/",
+      "api": "https://colorcombinations.org/api/palettes/wada-032-ochraceous-salmon-night-green.json"
+    },
+    {
+      "slug": "wada-033-raw-sienna-slate-color",
+      "title": "Raw Sienna & Slate Color",
+      "titleJa": null,
+      "dominantHue": "orange",
+      "moods": [
+        "solemn",
+        "warm",
+        "austere"
+      ],
+      "colors": [
+        "#bb7125",
+        "#34454c"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-033-raw-sienna-slate-color/",
+      "api": "https://colorcombinations.org/api/palettes/wada-033-raw-sienna-slate-color.json"
+    },
+    {
+      "slug": "wada-040-vinaceous-tawny-citron-yellow",
+      "title": "Vinaceous Tawny & Citron Yellow",
+      "titleJa": null,
+      "dominantHue": "orange",
+      "moods": [
+        "refined",
+        "warm",
+        "austere"
+      ],
+      "colors": [
+        "#c56127",
+        "#b2b73e"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-040-vinaceous-tawny-citron-yellow/",
+      "api": "https://colorcombinations.org/api/palettes/wada-040-vinaceous-tawny-citron-yellow.json"
+    },
+    {
+      "slug": "wada-045-seashell-pink-lemon-yellow",
+      "title": "Seashell Pink & Lemon Yellow",
+      "titleJa": null,
+      "dominantHue": "orange",
+      "moods": [
+        "serene",
+        "warm",
+        "austere"
+      ],
+      "colors": [
+        "#fdd4bd",
+        "#f8ed43"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-045-seashell-pink-lemon-yellow/",
+      "api": "https://colorcombinations.org/api/palettes/wada-045-seashell-pink-lemon-yellow.json"
+    },
+    {
+      "slug": "wada-046-orange-black",
+      "title": "Orange & Black",
+      "titleJa": null,
+      "dominantHue": "orange",
+      "moods": [
+        "solemn",
+        "warm",
+        "austere"
+      ],
+      "colors": [
+        "#f37420",
+        "#111314"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-046-orange-black/",
+      "api": "https://colorcombinations.org/api/palettes/wada-046-orange-black.json"
+    },
+    {
+      "slug": "wada-070-raw-sienna-lincoln-green",
+      "title": "Raw Sienna & Lincoln Green",
+      "titleJa": null,
+      "dominantHue": "orange",
+      "moods": [
+        "refined",
+        "warm",
+        "austere"
+      ],
+      "colors": [
+        "#bb7125",
+        "#555832"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-070-raw-sienna-lincoln-green/",
+      "api": "https://colorcombinations.org/api/palettes/wada-070-raw-sienna-lincoln-green.json"
+    }
+  ],
+  "urls": {
+    "canonical": "https://colorcombinations.org/collections/kitchen/",
+    "embed": "https://colorcombinations.org/embed/collection/kitchen/",
+    "openGraph": "https://colorcombinations.org/og/collections/kitchen.svg",
+    "api": "https://colorcombinations.org/api/collections/kitchen.json"
+  },
+  "license": "CC-BY-4.0 (attribution: colorcombinations.org)",
+  "source": "Sanzo Wada, A Dictionary of Color Combinations (1933 · six volumes)"
+}

@@ -1,0 +1,136 @@
+{
+  "schema": "colorcombinations-collection/v1",
+  "slug": "cottagecore",
+  "title": "Cottagecore Color Palettes",
+  "tagline": "Soft pinks, sage greens, lavender, and the gentle palette of a pastoral world.",
+  "description": "Cottagecore color is the pastoral romantic: blush roses, sage green herbs drying in a doorway, lavender fields in soft afternoon light, undyed linen, hand-thrown pottery in cream and clay. The Japanese color tradition reaches this territory through combinations of extraordinary gentleness: 'sakura' (桜 — cherry blossom pink) with 'wakatake' (若竹 — young bamboo green), 'nadeshiko' (撫子 — fringed pink) with 'mizu' (水 — water blue), 'fuji' (藤 — wisteria lavender) with 'ai' (藍 — soft indigo). These are the combinations that feel simultaneously hand-made and considered, botanical and timeless. Reference material for artisan food and wellness brands, handmade goods, botanical illustration, garden-inspired packaging, and any project where the brief includes the word 'handcrafted.'",
+  "keywords": [
+    "cottagecore color palette",
+    "cottagecore aesthetic colors",
+    "pastoral color palette",
+    "botanical color scheme",
+    "soft floral color combinations"
+  ],
+  "accentHex": "#D4A8B8",
+  "paletteCount": 6,
+  "palettes": [
+    {
+      "slug": "sakura-wakatake",
+      "title": "Cherry Blossom & Young Bamboo",
+      "titleJa": "桜と若竹",
+      "dominantHue": "pink",
+      "moods": [
+        "serene",
+        "refined",
+        "playful"
+      ],
+      "colors": [
+        "#F9D5E0",
+        "#A3C293",
+        "#F8F4E9",
+        "#4C5D3F"
+      ],
+      "url": "https://colorcombinations.org/palettes/sakura-wakatake/",
+      "api": "https://colorcombinations.org/api/palettes/sakura-wakatake.json"
+    },
+    {
+      "slug": "nadeshiko-mizu",
+      "title": "Pink Dianthus & Water",
+      "titleJa": "撫子と水色",
+      "dominantHue": "pink",
+      "moods": [
+        "serene",
+        "playful",
+        "refined"
+      ],
+      "colors": [
+        "#EBA6B4",
+        "#B4D6E5",
+        "#F8F4E9"
+      ],
+      "url": "https://colorcombinations.org/palettes/nadeshiko-mizu/",
+      "api": "https://colorcombinations.org/api/palettes/nadeshiko-mizu.json"
+    },
+    {
+      "slug": "kariyasu-rikyu",
+      "title": "Grass Yellow & Rikyū Grey",
+      "titleJa": "刈安と利休鼠",
+      "dominantHue": "yellow",
+      "moods": [
+        "serene",
+        "earthy",
+        "austere",
+        "refined"
+      ],
+      "colors": [
+        "#DCCB7A",
+        "#878A74",
+        "#F3EBDA"
+      ],
+      "url": "https://colorcombinations.org/palettes/kariyasu-rikyu/",
+      "api": "https://colorcombinations.org/api/palettes/kariyasu-rikyu.json"
+    },
+    {
+      "slug": "fuji-ai",
+      "title": "Wisteria & Indigo",
+      "titleJa": "藤と藍",
+      "dominantHue": "purple",
+      "moods": [
+        "serene",
+        "refined",
+        "cool"
+      ],
+      "colors": [
+        "#B5A6C9",
+        "#1C3D5A",
+        "#F4EEE0"
+      ],
+      "url": "https://colorcombinations.org/palettes/fuji-ai/",
+      "api": "https://colorcombinations.org/api/palettes/fuji-ai.json"
+    },
+    {
+      "slug": "matcha-kinari",
+      "title": "Matcha & Raw Silk",
+      "titleJa": "抹茶と生成",
+      "dominantHue": "green",
+      "moods": [
+        "serene",
+        "earthy",
+        "austere"
+      ],
+      "colors": [
+        "#A7B86B",
+        "#F3EBDA",
+        "#6C5A3C"
+      ],
+      "url": "https://colorcombinations.org/palettes/matcha-kinari/",
+      "api": "https://colorcombinations.org/api/palettes/matcha-kinari.json"
+    },
+    {
+      "slug": "seiji-kinari",
+      "title": "Celadon & Unbleached",
+      "titleJa": "青磁と生成",
+      "dominantHue": "green",
+      "moods": [
+        "serene",
+        "earthy",
+        "refined"
+      ],
+      "colors": [
+        "#8DB6A5",
+        "#F3EBDA",
+        "#6E7B6A"
+      ],
+      "url": "https://colorcombinations.org/palettes/seiji-kinari/",
+      "api": "https://colorcombinations.org/api/palettes/seiji-kinari.json"
+    }
+  ],
+  "urls": {
+    "canonical": "https://colorcombinations.org/collections/cottagecore/",
+    "embed": "https://colorcombinations.org/embed/collection/cottagecore/",
+    "openGraph": "https://colorcombinations.org/og/collections/cottagecore.svg",
+    "api": "https://colorcombinations.org/api/collections/cottagecore.json"
+  },
+  "license": "CC-BY-4.0 (attribution: colorcombinations.org)",
+  "source": "Sanzo Wada, A Dictionary of Color Combinations (1933 · six volumes)"
+}

@@ -1,0 +1,441 @@
+{
+  "schema": "colorcombinations-collection/v1",
+  "slug": "red",
+  "title": "Red Color Palettes",
+  "tagline": "Crimson, vermilion, madder — the most historically loaded pigments in Japan.",
+  "description": "Red is the most charged color in Japanese tradition. Kurenai (crimson) is the color of formal ceremony; entan (lead red) is the mineral pigment of ancient temples; akane (madder) is the organic dye worn by courtiers for a thousand years; shu (vermilion) is the lacquer of Shinto gates. Wada's catalog returns to red again and again because it is unavoidable — not aggressive, but authoritative. These palettes are for heritage brands, editorial mastheads, restaurant identities, and anywhere that needs conviction without cliché.",
+  "keywords": [
+    "red color palette",
+    "crimson color scheme",
+    "red color combinations",
+    "bold red palette",
+    "vermilion color palette"
+  ],
+  "accentHex": "#9A2A2A",
+  "paletteCount": 24,
+  "palettes": [
+    {
+      "slug": "kurenai-kon",
+      "title": "Crimson & Navy",
+      "titleJa": "紅と紺",
+      "dominantHue": "red",
+      "moods": [
+        "refined",
+        "solemn",
+        "bold"
+      ],
+      "colors": [
+        "#9A2A2A",
+        "#1B2A4E",
+        "#F4EEE0"
+      ],
+      "url": "https://colorcombinations.org/palettes/kurenai-kon/",
+      "api": "https://colorcombinations.org/api/palettes/kurenai-kon.json"
+    },
+    {
+      "slug": "entan-sumi",
+      "title": "Red Lead & Ink",
+      "titleJa": "鉛丹と墨",
+      "dominantHue": "red",
+      "moods": [
+        "bold",
+        "solemn"
+      ],
+      "colors": [
+        "#C8411D",
+        "#1C1C1C",
+        "#D4AF37"
+      ],
+      "url": "https://colorcombinations.org/palettes/entan-sumi/",
+      "api": "https://colorcombinations.org/api/palettes/entan-sumi.json"
+    },
+    {
+      "slug": "enji-matsuba",
+      "title": "Crimson Lake & Pine",
+      "titleJa": "臙脂と松葉",
+      "dominantHue": "red",
+      "moods": [
+        "bold",
+        "solemn",
+        "warm"
+      ],
+      "colors": [
+        "#9E2B3D",
+        "#3B5133",
+        "#F8F4E9",
+        "#D4AF37"
+      ],
+      "url": "https://colorcombinations.org/palettes/enji-matsuba/",
+      "api": "https://colorcombinations.org/api/palettes/enji-matsuba.json"
+    },
+    {
+      "slug": "shu-kuro-kin",
+      "title": "Vermillion, Black, Gold",
+      "titleJa": "朱・黒・金",
+      "dominantHue": "red",
+      "moods": [
+        "bold",
+        "solemn"
+      ],
+      "colors": [
+        "#C8352B",
+        "#141414",
+        "#D4AF37"
+      ],
+      "url": "https://colorcombinations.org/palettes/shu-kuro-kin/",
+      "api": "https://colorcombinations.org/api/palettes/shu-kuro-kin.json"
+    },
+    {
+      "slug": "akane-tokiwa",
+      "title": "Madder Red & Evergreen",
+      "titleJa": "茜と常磐",
+      "dominantHue": "red",
+      "moods": [
+        "earthy",
+        "bold",
+        "solemn"
+      ],
+      "colors": [
+        "#B23B3B",
+        "#344E3D",
+        "#EAE1CC",
+        "#2B2B2B"
+      ],
+      "url": "https://colorcombinations.org/palettes/akane-tokiwa/",
+      "api": "https://colorcombinations.org/api/palettes/akane-tokiwa.json"
+    },
+    {
+      "slug": "asagi-shu",
+      "title": "Pale Blue & Vermillion",
+      "titleJa": "浅葱と朱",
+      "dominantHue": "blue",
+      "moods": [
+        "bold",
+        "solemn",
+        "refined"
+      ],
+      "colors": [
+        "#6B9BB0",
+        "#D8453A",
+        "#F4EEE0",
+        "#2B2B2B"
+      ],
+      "url": "https://colorcombinations.org/palettes/asagi-shu/",
+      "api": "https://colorcombinations.org/api/palettes/asagi-shu.json"
+    },
+    {
+      "slug": "wada-006-grenadine-pink-deep-indigo",
+      "title": "Grenadine Pink & Deep Indigo",
+      "titleJa": null,
+      "dominantHue": "red",
+      "moods": [
+        "refined",
+        "warm",
+        "austere"
+      ],
+      "colors": [
+        "#f48067",
+        "#051230"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-006-grenadine-pink-deep-indigo/",
+      "api": "https://colorcombinations.org/api/palettes/wada-006-grenadine-pink-deep-indigo.json"
+    },
+    {
+      "slug": "wada-014-spinel-red-naples-yellow",
+      "title": "Spinel Red & Naples Yellow",
+      "titleJa": null,
+      "dominantHue": "red",
+      "moods": [
+        "serene",
+        "warm",
+        "austere"
+      ],
+      "colors": [
+        "#f27291",
+        "#fbe6a0"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-014-spinel-red-naples-yellow/",
+      "api": "https://colorcombinations.org/api/palettes/wada-014-spinel-red-naples-yellow.json"
+    },
+    {
+      "slug": "wada-016-vandyke-red-pale-king-s-blue",
+      "title": "Vandyke Red & Pale King's Blue",
+      "titleJa": null,
+      "dominantHue": "red",
+      "moods": [
+        "refined",
+        "warm",
+        "austere"
+      ],
+      "colors": [
+        "#82241f",
+        "#a7d4e4"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-016-vandyke-red-pale-king-s-blue/",
+      "api": "https://colorcombinations.org/api/palettes/wada-016-vandyke-red-pale-king-s-blue.json"
+    },
+    {
+      "slug": "wada-017-eugenia-red-b-sea-green",
+      "title": "Eugenia Red B & Sea Green",
+      "titleJa": null,
+      "dominantHue": "red",
+      "moods": [
+        "refined",
+        "warm",
+        "austere"
+      ],
+      "colors": [
+        "#da525d",
+        "#00b49b"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-017-eugenia-red-b-sea-green/",
+      "api": "https://colorcombinations.org/api/palettes/wada-017-eugenia-red-b-sea-green.json"
+    },
+    {
+      "slug": "wada-018-fawn-dusky-madder-violet",
+      "title": "Fawn & Dusky Madder Violet",
+      "titleJa": null,
+      "dominantHue": "red",
+      "moods": [
+        "refined",
+        "warm",
+        "austere"
+      ],
+      "colors": [
+        "#d1b0a7",
+        "#4e1d4c"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-018-fawn-dusky-madder-violet/",
+      "api": "https://colorcombinations.org/api/palettes/wada-018-fawn-dusky-madder-violet.json"
+    },
+    {
+      "slug": "wada-021-grenadine-pink-sea-green",
+      "title": "Grenadine Pink & Sea Green",
+      "titleJa": null,
+      "dominantHue": "red",
+      "moods": [
+        "refined",
+        "warm",
+        "austere"
+      ],
+      "colors": [
+        "#f48067",
+        "#00b49b"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-021-grenadine-pink-sea-green/",
+      "api": "https://colorcombinations.org/api/palettes/wada-021-grenadine-pink-sea-green.json"
+    },
+    {
+      "slug": "wada-025-etruscan-red-nile-blue",
+      "title": "Etruscan Red & Nile Blue",
+      "titleJa": null,
+      "dominantHue": "red",
+      "moods": [
+        "refined",
+        "warm",
+        "austere"
+      ],
+      "colors": [
+        "#c55347",
+        "#bce4e5"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-025-etruscan-red-nile-blue/",
+      "api": "https://colorcombinations.org/api/palettes/wada-025-etruscan-red-nile-blue.json"
+    },
+    {
+      "slug": "wada-027-corinthian-pink-slate-color",
+      "title": "Corinthian Pink & Slate Color",
+      "titleJa": null,
+      "dominantHue": "red",
+      "moods": [
+        "refined",
+        "warm",
+        "austere"
+      ],
+      "colors": [
+        "#f8b6ba",
+        "#34454c"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-027-corinthian-pink-slate-color/",
+      "api": "https://colorcombinations.org/api/palettes/wada-027-corinthian-pink-slate-color.json"
+    },
+    {
+      "slug": "wada-028-madder-brown-deep-indigo",
+      "title": "Madder Brown & Deep Indigo",
+      "titleJa": null,
+      "dominantHue": "red",
+      "moods": [
+        "solemn",
+        "warm",
+        "austere"
+      ],
+      "colors": [
+        "#762c19",
+        "#051230"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-028-madder-brown-deep-indigo/",
+      "api": "https://colorcombinations.org/api/palettes/wada-028-madder-brown-deep-indigo.json"
+    },
+    {
+      "slug": "wada-030-pompeian-red-mineral-gray",
+      "title": "Pompeian Red & Mineral Gray",
+      "titleJa": null,
+      "dominantHue": "red",
+      "moods": [
+        "refined",
+        "warm",
+        "austere"
+      ],
+      "colors": [
+        "#ab2439",
+        "#a2b0ad"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-030-pompeian-red-mineral-gray/",
+      "api": "https://colorcombinations.org/api/palettes/wada-030-pompeian-red-mineral-gray.json"
+    },
+    {
+      "slug": "wada-031-red-orange-pale-lemon-yellow",
+      "title": "Red Orange & Pale Lemon Yellow",
+      "titleJa": null,
+      "dominantHue": "red",
+      "moods": [
+        "refined",
+        "warm",
+        "austere"
+      ],
+      "colors": [
+        "#dd4027",
+        "#ffefae"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-031-red-orange-pale-lemon-yellow/",
+      "api": "https://colorcombinations.org/api/palettes/wada-031-red-orange-pale-lemon-yellow.json"
+    },
+    {
+      "slug": "wada-034-eosine-pink-neutral-gray",
+      "title": "Eosine Pink & Neutral Gray",
+      "titleJa": null,
+      "dominantHue": "red",
+      "moods": [
+        "serene",
+        "warm",
+        "austere"
+      ],
+      "colors": [
+        "#f37f94",
+        "#b6bfc1"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-034-eosine-pink-neutral-gray/",
+      "api": "https://colorcombinations.org/api/palettes/wada-034-eosine-pink-neutral-gray.json"
+    },
+    {
+      "slug": "wada-035-light-brown-drab-carmine-red",
+      "title": "Light Brown Drab & Carmine Red",
+      "titleJa": null,
+      "dominantHue": "red",
+      "moods": [
+        "refined",
+        "warm",
+        "austere"
+      ],
+      "colors": [
+        "#b59392",
+        "#a62c37"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-035-light-brown-drab-carmine-red/",
+      "api": "https://colorcombinations.org/api/palettes/wada-035-light-brown-drab-carmine-red.json"
+    },
+    {
+      "slug": "wada-037-brick-red-red-violet",
+      "title": "Brick Red & Red Violet",
+      "titleJa": null,
+      "dominantHue": "red",
+      "moods": [
+        "solemn",
+        "warm",
+        "austere"
+      ],
+      "colors": [
+        "#a84222",
+        "#59256a"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-037-brick-red-red-violet/",
+      "api": "https://colorcombinations.org/api/palettes/wada-037-brick-red-red-violet.json"
+    },
+    {
+      "slug": "wada-039-carmine-helvetia-blue",
+      "title": "Carmine & Helvetia Blue",
+      "titleJa": null,
+      "dominantHue": "red",
+      "moods": [
+        "refined",
+        "warm",
+        "austere"
+      ],
+      "colors": [
+        "#cc1236",
+        "#005b8d"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-039-carmine-helvetia-blue/",
+      "api": "https://colorcombinations.org/api/palettes/wada-039-carmine-helvetia-blue.json"
+    },
+    {
+      "slug": "wada-043-corinthian-pink-aconite-violet",
+      "title": "Corinthian Pink & Aconite Violet",
+      "titleJa": null,
+      "dominantHue": "red",
+      "moods": [
+        "refined",
+        "warm",
+        "austere"
+      ],
+      "colors": [
+        "#f8b6ba",
+        "#a36aa5"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-043-corinthian-pink-aconite-violet/",
+      "api": "https://colorcombinations.org/api/palettes/wada-043-corinthian-pink-aconite-violet.json"
+    },
+    {
+      "slug": "wada-047-etruscan-red-grayish-lavender-b",
+      "title": "Etruscan Red & Grayish Lavender - B",
+      "titleJa": null,
+      "dominantHue": "red",
+      "moods": [
+        "refined",
+        "warm",
+        "austere"
+      ],
+      "colors": [
+        "#c55347",
+        "#c0a9b3"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-047-etruscan-red-grayish-lavender-b/",
+      "api": "https://colorcombinations.org/api/palettes/wada-047-etruscan-red-grayish-lavender-b.json"
+    },
+    {
+      "slug": "wada-051-carmine-red-blue",
+      "title": "Carmine Red & Blue",
+      "titleJa": null,
+      "dominantHue": "red",
+      "moods": [
+        "refined",
+        "warm",
+        "austere"
+      ],
+      "colors": [
+        "#a62c37",
+        "#006eb8"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-051-carmine-red-blue/",
+      "api": "https://colorcombinations.org/api/palettes/wada-051-carmine-red-blue.json"
+    }
+  ],
+  "urls": {
+    "canonical": "https://colorcombinations.org/collections/red/",
+    "embed": "https://colorcombinations.org/embed/collection/red/",
+    "openGraph": "https://colorcombinations.org/og/collections/red.svg",
+    "api": "https://colorcombinations.org/api/collections/red.json"
+  },
+  "license": "CC-BY-4.0 (attribution: colorcombinations.org)",
+  "source": "Sanzo Wada, A Dictionary of Color Combinations (1933 · six volumes)"
+}

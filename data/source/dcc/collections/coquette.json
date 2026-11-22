@@ -1,0 +1,136 @@
+{
+  "schema": "colorcombinations-collection/v1",
+  "slug": "coquette",
+  "title": "Coquette Color Palettes",
+  "tagline": "Pale rose, cream, and powder blue — the ribbon-soft palette of the coquette aesthetic.",
+  "description": "Coquette color is the soft-feminine palette that took over fashion and TikTok in the early 2020s: pale rose, blush, cream, powder blue, and the occasional gold leaf for emphasis. Less saturated than 2010s 'girly,' more deliberate than minimalist nude — coquette is romanticism with intent. Traditional Japanese color names are full of the source material: 'sakura' (桜) for the cherry-blossom blush, 'gofun' (胡粉 — chalk white) for the cream, 'mizu' (水 — water blue) for the powder blue, 'fuji' (藤 — wisteria) for the soft lilac, 'usubeni' (薄紅 — pale crimson) for the romantic accent. Reference material for fashion and beauty brands, bridal stationery, perfume packaging, lifestyle photography, ballet and cabaret design, and any project that should feel 'romantic, deliberate, soft-but-considered.'",
+  "keywords": [
+    "coquette color palette",
+    "coquette aesthetic colors",
+    "blush pink color palette",
+    "balletcore color palette",
+    "soft feminine color palette"
+  ],
+  "accentHex": "#F2C5D5",
+  "paletteCount": 6,
+  "palettes": [
+    {
+      "slug": "sakura-wakatake",
+      "title": "Cherry Blossom & Young Bamboo",
+      "titleJa": "桜と若竹",
+      "dominantHue": "pink",
+      "moods": [
+        "serene",
+        "refined",
+        "playful"
+      ],
+      "colors": [
+        "#F9D5E0",
+        "#A3C293",
+        "#F8F4E9",
+        "#4C5D3F"
+      ],
+      "url": "https://colorcombinations.org/palettes/sakura-wakatake/",
+      "api": "https://colorcombinations.org/api/palettes/sakura-wakatake.json"
+    },
+    {
+      "slug": "nadeshiko-mizu",
+      "title": "Pink Dianthus & Water",
+      "titleJa": "撫子と水色",
+      "dominantHue": "pink",
+      "moods": [
+        "serene",
+        "playful",
+        "refined"
+      ],
+      "colors": [
+        "#EBA6B4",
+        "#B4D6E5",
+        "#F8F4E9"
+      ],
+      "url": "https://colorcombinations.org/palettes/nadeshiko-mizu/",
+      "api": "https://colorcombinations.org/api/palettes/nadeshiko-mizu.json"
+    },
+    {
+      "slug": "usubeni-cha",
+      "title": "Light Pink & Tea",
+      "titleJa": "薄紅と茶",
+      "dominantHue": "pink",
+      "moods": [
+        "warm",
+        "playful",
+        "refined"
+      ],
+      "colors": [
+        "#E8A4A4",
+        "#6C4F3B",
+        "#F3EBDA"
+      ],
+      "url": "https://colorcombinations.org/palettes/usubeni-cha/",
+      "api": "https://colorcombinations.org/api/palettes/usubeni-cha.json"
+    },
+    {
+      "slug": "fuji-ai",
+      "title": "Wisteria & Indigo",
+      "titleJa": "藤と藍",
+      "dominantHue": "purple",
+      "moods": [
+        "serene",
+        "refined",
+        "cool"
+      ],
+      "colors": [
+        "#B5A6C9",
+        "#1C3D5A",
+        "#F4EEE0"
+      ],
+      "url": "https://colorcombinations.org/palettes/fuji-ai/",
+      "api": "https://colorcombinations.org/api/palettes/fuji-ai.json"
+    },
+    {
+      "slug": "kariyasu-rikyu",
+      "title": "Grass Yellow & Rikyū Grey",
+      "titleJa": "刈安と利休鼠",
+      "dominantHue": "yellow",
+      "moods": [
+        "serene",
+        "earthy",
+        "austere",
+        "refined"
+      ],
+      "colors": [
+        "#DCCB7A",
+        "#878A74",
+        "#F3EBDA"
+      ],
+      "url": "https://colorcombinations.org/palettes/kariyasu-rikyu/",
+      "api": "https://colorcombinations.org/api/palettes/kariyasu-rikyu.json"
+    },
+    {
+      "slug": "ruri-gofun",
+      "title": "Lapis & Chalk",
+      "titleJa": "瑠璃と胡粉",
+      "dominantHue": "blue",
+      "moods": [
+        "solemn",
+        "serene",
+        "refined"
+      ],
+      "colors": [
+        "#1E4B8A",
+        "#F4EEE0",
+        "#D4AF37"
+      ],
+      "url": "https://colorcombinations.org/palettes/ruri-gofun/",
+      "api": "https://colorcombinations.org/api/palettes/ruri-gofun.json"
+    }
+  ],
+  "urls": {
+    "canonical": "https://colorcombinations.org/collections/coquette/",
+    "embed": "https://colorcombinations.org/embed/collection/coquette/",
+    "openGraph": "https://colorcombinations.org/og/collections/coquette.svg",
+    "api": "https://colorcombinations.org/api/collections/coquette.json"
+  },
+  "license": "CC-BY-4.0 (attribution: colorcombinations.org)",
+  "source": "Sanzo Wada, A Dictionary of Color Combinations (1933 · six volumes)"
+}

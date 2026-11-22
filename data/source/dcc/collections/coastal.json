@@ -1,0 +1,190 @@
+{
+  "schema": "colorcombinations-collection/v1",
+  "slug": "coastal",
+  "title": "Coastal Color Palettes",
+  "tagline": "Sea blue, bleached linen, and the quiet greys of driftwood.",
+  "description": "Coastal color is a specific register of serenity — the particular quality of light that bounces off water, the way salt air bleaches everything slightly pale, the contrast between deep ocean and sun-washed sand. Japanese color tradition has mapped this territory with precision: 'asagi' (浅葱 — the shallow-water blue that names the coast near Kyoto), 'hanada' (縹 — sky-flower blue, the color of the open horizon), 'gofun' (胡粉 — the chalk white of crushed shells), 'mizuiro' (水色 — water color, the palest possible blue). These palettes are reference material for beach-house interior identities, coastal hospitality brands, marine and watersports companies, sustainable fashion, and any project that should carry the uncrowded feeling of open water.",
+  "keywords": [
+    "coastal color palette",
+    "beach color palette",
+    "ocean color scheme",
+    "coastal interior colors",
+    "nautical color palette",
+    "seaside color combinations"
+  ],
+  "accentHex": "#4A90B8",
+  "paletteCount": 9,
+  "palettes": [
+    {
+      "slug": "ao-shiro",
+      "title": "Ao & White",
+      "titleJa": "青と白",
+      "dominantHue": "blue",
+      "moods": [
+        "serene",
+        "cool",
+        "refined"
+      ],
+      "colors": [
+        "#3A7D7B",
+        "#FFFFFF",
+        "#1C1C1C"
+      ],
+      "url": "https://colorcombinations.org/palettes/ao-shiro/",
+      "api": "https://colorcombinations.org/api/palettes/ao-shiro.json"
+    },
+    {
+      "slug": "gunjo-gofun",
+      "title": "Ultramarine & Chalk White",
+      "titleJa": "群青と胡粉",
+      "dominantHue": "blue",
+      "moods": [
+        "solemn",
+        "serene",
+        "austere"
+      ],
+      "colors": [
+        "#264A6B",
+        "#F4EEE0",
+        "#C5AC6B"
+      ],
+      "url": "https://colorcombinations.org/palettes/gunjo-gofun/",
+      "api": "https://colorcombinations.org/api/palettes/gunjo-gofun.json"
+    },
+    {
+      "slug": "ruri-gofun",
+      "title": "Lapis & Chalk",
+      "titleJa": "瑠璃と胡粉",
+      "dominantHue": "blue",
+      "moods": [
+        "solemn",
+        "serene",
+        "refined"
+      ],
+      "colors": [
+        "#1E4B8A",
+        "#F4EEE0",
+        "#D4AF37"
+      ],
+      "url": "https://colorcombinations.org/palettes/ruri-gofun/",
+      "api": "https://colorcombinations.org/api/palettes/ruri-gofun.json"
+    },
+    {
+      "slug": "asagi-shu",
+      "title": "Pale Blue & Vermillion",
+      "titleJa": "浅葱と朱",
+      "dominantHue": "blue",
+      "moods": [
+        "bold",
+        "solemn",
+        "refined"
+      ],
+      "colors": [
+        "#6B9BB0",
+        "#D8453A",
+        "#F4EEE0",
+        "#2B2B2B"
+      ],
+      "url": "https://colorcombinations.org/palettes/asagi-shu/",
+      "api": "https://colorcombinations.org/api/palettes/asagi-shu.json"
+    },
+    {
+      "slug": "nadeshiko-mizu",
+      "title": "Pink Dianthus & Water",
+      "titleJa": "撫子と水色",
+      "dominantHue": "pink",
+      "moods": [
+        "serene",
+        "playful",
+        "refined"
+      ],
+      "colors": [
+        "#EBA6B4",
+        "#B4D6E5",
+        "#F8F4E9"
+      ],
+      "url": "https://colorcombinations.org/palettes/nadeshiko-mizu/",
+      "api": "https://colorcombinations.org/api/palettes/nadeshiko-mizu.json"
+    },
+    {
+      "slug": "hanada-gin",
+      "title": "Indigo Blue & Silver",
+      "titleJa": "縹と銀",
+      "dominantHue": "blue",
+      "moods": [
+        "refined",
+        "cool",
+        "solemn"
+      ],
+      "colors": [
+        "#3C6E8F",
+        "#BCBCBE",
+        "#F8F4E9"
+      ],
+      "url": "https://colorcombinations.org/palettes/hanada-gin/",
+      "api": "https://colorcombinations.org/api/palettes/hanada-gin.json"
+    },
+    {
+      "slug": "moegi-sumi",
+      "title": "Spring Green & Ink",
+      "titleJa": "萌黄と墨",
+      "dominantHue": "green",
+      "moods": [
+        "austere",
+        "refined",
+        "serene"
+      ],
+      "colors": [
+        "#A7C957",
+        "#1C1C1C",
+        "#F8F4E9"
+      ],
+      "url": "https://colorcombinations.org/palettes/moegi-sumi/",
+      "api": "https://colorcombinations.org/api/palettes/moegi-sumi.json"
+    },
+    {
+      "slug": "seiji-kinari",
+      "title": "Celadon & Unbleached",
+      "titleJa": "青磁と生成",
+      "dominantHue": "green",
+      "moods": [
+        "serene",
+        "earthy",
+        "refined"
+      ],
+      "colors": [
+        "#8DB6A5",
+        "#F3EBDA",
+        "#6E7B6A"
+      ],
+      "url": "https://colorcombinations.org/palettes/seiji-kinari/",
+      "api": "https://colorcombinations.org/api/palettes/seiji-kinari.json"
+    },
+    {
+      "slug": "matcha-kinari",
+      "title": "Matcha & Raw Silk",
+      "titleJa": "抹茶と生成",
+      "dominantHue": "green",
+      "moods": [
+        "serene",
+        "earthy",
+        "austere"
+      ],
+      "colors": [
+        "#A7B86B",
+        "#F3EBDA",
+        "#6C5A3C"
+      ],
+      "url": "https://colorcombinations.org/palettes/matcha-kinari/",
+      "api": "https://colorcombinations.org/api/palettes/matcha-kinari.json"
+    }
+  ],
+  "urls": {
+    "canonical": "https://colorcombinations.org/collections/coastal/",
+    "embed": "https://colorcombinations.org/embed/collection/coastal/",
+    "openGraph": "https://colorcombinations.org/og/collections/coastal.svg",
+    "api": "https://colorcombinations.org/api/collections/coastal.json"
+  },
+  "license": "CC-BY-4.0 (attribution: colorcombinations.org)",
+  "source": "Sanzo Wada, A Dictionary of Color Combinations (1933 · six volumes)"
+}

@@ -1,0 +1,440 @@
+{
+  "schema": "colorcombinations-collection/v1",
+  "slug": "interior",
+  "title": "Interior Design Color Palettes",
+  "tagline": "Colors that live well in rooms — drawn from a tradition built for architecture.",
+  "description": "Japanese architecture has always had an intimate relationship with color. The vermilion of shrine torii. The warm grey of natural wood. The warm earth of clay walls. The deep green of moss against stone. Wada's catalog includes dozens of combinations directly descended from these architectural traditions — not as historical curiosities but as working color relationships. The palettes here are the ones that transfer to paint, fabric, tile, and natural material most naturally: the earthy warm neutrals, the cool grey-blues of stone and water, the restrained earth tones of a room designed for longevity rather than trend.",
+  "keywords": [
+    "interior design color palette",
+    "home color scheme",
+    "room color combinations",
+    "interior color palette",
+    "home decor color palette"
+  ],
+  "accentHex": "#7A5C3A",
+  "paletteCount": 24,
+  "palettes": [
+    {
+      "slug": "kariyasu-rikyu",
+      "title": "Grass Yellow & Rikyū Grey",
+      "titleJa": "刈安と利休鼠",
+      "dominantHue": "yellow",
+      "moods": [
+        "serene",
+        "earthy",
+        "austere",
+        "refined"
+      ],
+      "colors": [
+        "#DCCB7A",
+        "#878A74",
+        "#F3EBDA"
+      ],
+      "url": "https://colorcombinations.org/palettes/kariyasu-rikyu/",
+      "api": "https://colorcombinations.org/api/palettes/kariyasu-rikyu.json"
+    },
+    {
+      "slug": "seiji-kinari",
+      "title": "Celadon & Unbleached",
+      "titleJa": "青磁と生成",
+      "dominantHue": "green",
+      "moods": [
+        "serene",
+        "earthy",
+        "refined"
+      ],
+      "colors": [
+        "#8DB6A5",
+        "#F3EBDA",
+        "#6E7B6A"
+      ],
+      "url": "https://colorcombinations.org/palettes/seiji-kinari/",
+      "api": "https://colorcombinations.org/api/palettes/seiji-kinari.json"
+    },
+    {
+      "slug": "kogecha-kinari",
+      "title": "Scorched Brown & Unbleached",
+      "titleJa": "焦茶と生成",
+      "dominantHue": "brown",
+      "moods": [
+        "earthy",
+        "austere",
+        "refined"
+      ],
+      "colors": [
+        "#3E2A1E",
+        "#F3EBDA",
+        "#8A6A47"
+      ],
+      "url": "https://colorcombinations.org/palettes/kogecha-kinari/",
+      "api": "https://colorcombinations.org/api/palettes/kogecha-kinari.json"
+    },
+    {
+      "slug": "tobi-kogane",
+      "title": "Kite Brown & Gold",
+      "titleJa": "鳶と黄金",
+      "dominantHue": "brown",
+      "moods": [
+        "warm",
+        "earthy",
+        "refined"
+      ],
+      "colors": [
+        "#8A5A3B",
+        "#D4AF37",
+        "#2B2B2B"
+      ],
+      "url": "https://colorcombinations.org/palettes/tobi-kogane/",
+      "api": "https://colorcombinations.org/api/palettes/tobi-kogane.json"
+    },
+    {
+      "slug": "matcha-kinari",
+      "title": "Matcha & Raw Silk",
+      "titleJa": "抹茶と生成",
+      "dominantHue": "green",
+      "moods": [
+        "serene",
+        "earthy",
+        "austere"
+      ],
+      "colors": [
+        "#A7B86B",
+        "#F3EBDA",
+        "#6C5A3C"
+      ],
+      "url": "https://colorcombinations.org/palettes/matcha-kinari/",
+      "api": "https://colorcombinations.org/api/palettes/matcha-kinari.json"
+    },
+    {
+      "slug": "ao-shiro",
+      "title": "Ao & White",
+      "titleJa": "青と白",
+      "dominantHue": "blue",
+      "moods": [
+        "serene",
+        "cool",
+        "refined"
+      ],
+      "colors": [
+        "#3A7D7B",
+        "#FFFFFF",
+        "#1C1C1C"
+      ],
+      "url": "https://colorcombinations.org/palettes/ao-shiro/",
+      "api": "https://colorcombinations.org/api/palettes/ao-shiro.json"
+    },
+    {
+      "slug": "akane-tokiwa",
+      "title": "Madder Red & Evergreen",
+      "titleJa": "茜と常磐",
+      "dominantHue": "red",
+      "moods": [
+        "earthy",
+        "bold",
+        "solemn"
+      ],
+      "colors": [
+        "#B23B3B",
+        "#344E3D",
+        "#EAE1CC",
+        "#2B2B2B"
+      ],
+      "url": "https://colorcombinations.org/palettes/akane-tokiwa/",
+      "api": "https://colorcombinations.org/api/palettes/akane-tokiwa.json"
+    },
+    {
+      "slug": "moegi-sumi",
+      "title": "Spring Green & Ink",
+      "titleJa": "萌黄と墨",
+      "dominantHue": "green",
+      "moods": [
+        "austere",
+        "refined",
+        "serene"
+      ],
+      "colors": [
+        "#A7C957",
+        "#1C1C1C",
+        "#F8F4E9"
+      ],
+      "url": "https://colorcombinations.org/palettes/moegi-sumi/",
+      "api": "https://colorcombinations.org/api/palettes/moegi-sumi.json"
+    },
+    {
+      "slug": "yamabuki-kuri",
+      "title": "Kerria Gold & Chestnut",
+      "titleJa": "山吹と栗",
+      "dominantHue": "yellow",
+      "moods": [
+        "warm",
+        "earthy",
+        "playful"
+      ],
+      "colors": [
+        "#F5B71C",
+        "#6B3E26",
+        "#F8F4E9"
+      ],
+      "url": "https://colorcombinations.org/palettes/yamabuki-kuri/",
+      "api": "https://colorcombinations.org/api/palettes/yamabuki-kuri.json"
+    },
+    {
+      "slug": "ominaeshi-asagi",
+      "title": "Valerian Yellow & Pale Blue",
+      "titleJa": "女郎花と浅葱",
+      "dominantHue": "yellow",
+      "moods": [
+        "serene",
+        "cool",
+        "playful"
+      ],
+      "colors": [
+        "#DCCB6E",
+        "#88B9C4",
+        "#F8F4E9"
+      ],
+      "url": "https://colorcombinations.org/palettes/ominaeshi-asagi/",
+      "api": "https://colorcombinations.org/api/palettes/ominaeshi-asagi.json"
+    },
+    {
+      "slug": "ukon-ai",
+      "title": "Turmeric & Indigo",
+      "titleJa": "鬱金と藍",
+      "dominantHue": "yellow",
+      "moods": [
+        "earthy",
+        "warm",
+        "playful"
+      ],
+      "colors": [
+        "#E0B740",
+        "#1C3D5A",
+        "#F3EBDA"
+      ],
+      "url": "https://colorcombinations.org/palettes/ukon-ai/",
+      "api": "https://colorcombinations.org/api/palettes/ukon-ai.json"
+    },
+    {
+      "slug": "wada-002-yellow-orange-dark-tyrian-blue",
+      "title": "Yellow Orange & Dark Tyrian Blue",
+      "titleJa": null,
+      "dominantHue": "yellow",
+      "moods": [
+        "refined",
+        "cool",
+        "austere"
+      ],
+      "colors": [
+        "#f99d1b",
+        "#12354e"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-002-yellow-orange-dark-tyrian-blue/",
+      "api": "https://colorcombinations.org/api/palettes/wada-002-yellow-orange-dark-tyrian-blue.json"
+    },
+    {
+      "slug": "wada-004-isabella-color-red-violet",
+      "title": "Isabella Color & Red Violet",
+      "titleJa": null,
+      "dominantHue": "yellow",
+      "moods": [
+        "refined",
+        "austere"
+      ],
+      "colors": [
+        "#c5a56e",
+        "#59256a"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-004-isabella-color-red-violet/",
+      "api": "https://colorcombinations.org/api/palettes/wada-004-isabella-color-red-violet.json"
+    },
+    {
+      "slug": "wada-011-ivory-buff-mineral-gray",
+      "title": "Ivory Buff & Mineral Gray",
+      "titleJa": null,
+      "dominantHue": "yellow",
+      "moods": [
+        "serene",
+        "austere"
+      ],
+      "colors": [
+        "#ebd3a2",
+        "#a2b0ad"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-011-ivory-buff-mineral-gray/",
+      "api": "https://colorcombinations.org/api/palettes/wada-011-ivory-buff-mineral-gray.json"
+    },
+    {
+      "slug": "wada-012-isabella-color-green-blue",
+      "title": "Isabella Color & Green Blue",
+      "titleJa": null,
+      "dominantHue": "yellow",
+      "moods": [
+        "refined",
+        "cool",
+        "austere"
+      ],
+      "colors": [
+        "#c5a56e",
+        "#099197"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-012-isabella-color-green-blue/",
+      "api": "https://colorcombinations.org/api/palettes/wada-012-isabella-color-green-blue.json"
+    },
+    {
+      "slug": "wada-022-yellow-deep-lyons-blue",
+      "title": "Yellow & Deep Lyons Blue",
+      "titleJa": null,
+      "dominantHue": "yellow",
+      "moods": [
+        "refined",
+        "cool",
+        "austere"
+      ],
+      "colors": [
+        "#fff200",
+        "#1c4286"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-022-yellow-deep-lyons-blue/",
+      "api": "https://colorcombinations.org/api/palettes/wada-022-yellow-deep-lyons-blue.json"
+    },
+    {
+      "slug": "wada-029-krongbergs-green-salvia-blue",
+      "title": "Krongbergs Green & Salvia Blue",
+      "titleJa": null,
+      "dominantHue": "yellow",
+      "moods": [
+        "refined",
+        "cool",
+        "austere"
+      ],
+      "colors": [
+        "#84875e",
+        "#97acc8"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-029-krongbergs-green-salvia-blue/",
+      "api": "https://colorcombinations.org/api/palettes/wada-029-krongbergs-green-salvia-blue.json"
+    },
+    {
+      "slug": "wada-036-sulphine-yellow-turquoise-green",
+      "title": "Sulphine Yellow & Turquoise Green",
+      "titleJa": null,
+      "dominantHue": "yellow",
+      "moods": [
+        "refined",
+        "cool",
+        "austere"
+      ],
+      "colors": [
+        "#c19f2c",
+        "#b5decc"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-036-sulphine-yellow-turquoise-green/",
+      "api": "https://colorcombinations.org/api/palettes/wada-036-sulphine-yellow-turquoise-green.json"
+    },
+    {
+      "slug": "wada-041-dark-citrine-calamine-blue",
+      "title": "Dark Citrine & Calamine Blue",
+      "titleJa": null,
+      "dominantHue": "yellow",
+      "moods": [
+        "refined",
+        "cool",
+        "austere"
+      ],
+      "colors": [
+        "#8b835b",
+        "#78cdd0"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-041-dark-citrine-calamine-blue/",
+      "api": "https://colorcombinations.org/api/palettes/wada-041-dark-citrine-calamine-blue.json"
+    },
+    {
+      "slug": "wada-042-yellow-ocher-violet",
+      "title": "Yellow Ocher & Violet",
+      "titleJa": null,
+      "dominantHue": "yellow",
+      "moods": [
+        "refined",
+        "austere"
+      ],
+      "colors": [
+        "#e2b540",
+        "#4f4086"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-042-yellow-ocher-violet/",
+      "api": "https://colorcombinations.org/api/palettes/wada-042-yellow-ocher-violet.json"
+    },
+    {
+      "slug": "wada-050-ivory-buff-dusky-madder-violet",
+      "title": "Ivory Buff & Dusky Madder Violet",
+      "titleJa": null,
+      "dominantHue": "yellow",
+      "moods": [
+        "refined",
+        "austere"
+      ],
+      "colors": [
+        "#ebd3a2",
+        "#4e1d4c"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-050-ivory-buff-dusky-madder-violet/",
+      "api": "https://colorcombinations.org/api/palettes/wada-050-ivory-buff-dusky-madder-violet.json"
+    },
+    {
+      "slug": "wada-052-sulpher-yellow-black",
+      "title": "Sulpher Yellow & Black",
+      "titleJa": null,
+      "dominantHue": "yellow",
+      "moods": [
+        "refined",
+        "austere"
+      ],
+      "colors": [
+        "#f5ecc2",
+        "#111314"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-052-sulpher-yellow-black/",
+      "api": "https://colorcombinations.org/api/palettes/wada-052-sulpher-yellow-black.json"
+    },
+    {
+      "slug": "wada-053-yellow-orange-dusky-madder-violet",
+      "title": "Yellow Orange & Dusky Madder Violet",
+      "titleJa": null,
+      "dominantHue": "yellow",
+      "moods": [
+        "refined",
+        "austere"
+      ],
+      "colors": [
+        "#f99d1b",
+        "#4e1d4c"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-053-yellow-orange-dusky-madder-violet/",
+      "api": "https://colorcombinations.org/api/palettes/wada-053-yellow-orange-dusky-madder-violet.json"
+    },
+    {
+      "slug": "wada-056-grayish-lavender-b-violet",
+      "title": "Grayish Lavender - B & Violet",
+      "titleJa": null,
+      "dominantHue": "neutral",
+      "moods": [
+        "refined",
+        "austere"
+      ],
+      "colors": [
+        "#c0a9b3",
+        "#4f4086"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-056-grayish-lavender-b-violet/",
+      "api": "https://colorcombinations.org/api/palettes/wada-056-grayish-lavender-b-violet.json"
+    }
+  ],
+  "urls": {
+    "canonical": "https://colorcombinations.org/collections/interior/",
+    "embed": "https://colorcombinations.org/embed/collection/interior/",
+    "openGraph": "https://colorcombinations.org/og/collections/interior.svg",
+    "api": "https://colorcombinations.org/api/collections/interior.json"
+  },
+  "license": "CC-BY-4.0 (attribution: colorcombinations.org)",
+  "source": "Sanzo Wada, A Dictionary of Color Combinations (1933 · six volumes)"
+}

@@ -1,0 +1,154 @@
+{
+  "schema": "colorcombinations-collection/v1",
+  "slug": "vaporwave",
+  "title": "Vaporwave Color Palettes",
+  "tagline": "Synth pink, cyber lavender, glitch teal — 2010s digital melancholia in pigment.",
+  "description": "Vaporwave color is the digital-melancholia palette that emerged from 2010s internet aesthetics: hot pink and lavender from CRT screens, glitchy teal from 1990s Windows boot screens, sunset gradients from 1980s Pacific posters, and the high-saturation purples of malls remembered through nostalgia. The Japanese color tradition surprisingly aligns: 'nadeshiko' (撫子 — fringed pink) is the synth-pink, 'fuji' (藤 — wisteria) is the cyber-lavender, 'asagi' (浅葱 — pale teal) is the glitch turquoise, 'kikyo' (桔梗 — bellflower purple) is the saturated mall-twilight tone. Reference material for music-cover design, indie-game UI, retro-futurist branding, CRT-aesthetic editorial, and any project drawn from the well of 2010s post-internet visual culture.",
+  "keywords": [
+    "vaporwave color palette",
+    "vaporwave aesthetic colors",
+    "synthwave color palette",
+    "retro futurism color palette",
+    "80s aesthetic color palette"
+  ],
+  "accentHex": "#D870B0",
+  "paletteCount": 7,
+  "palettes": [
+    {
+      "slug": "nadeshiko-mizu",
+      "title": "Pink Dianthus & Water",
+      "titleJa": "撫子と水色",
+      "dominantHue": "pink",
+      "moods": [
+        "serene",
+        "playful",
+        "refined"
+      ],
+      "colors": [
+        "#EBA6B4",
+        "#B4D6E5",
+        "#F8F4E9"
+      ],
+      "url": "https://colorcombinations.org/palettes/nadeshiko-mizu/",
+      "api": "https://colorcombinations.org/api/palettes/nadeshiko-mizu.json"
+    },
+    {
+      "slug": "fuji-ai",
+      "title": "Wisteria & Indigo",
+      "titleJa": "藤と藍",
+      "dominantHue": "purple",
+      "moods": [
+        "serene",
+        "refined",
+        "cool"
+      ],
+      "colors": [
+        "#B5A6C9",
+        "#1C3D5A",
+        "#F4EEE0"
+      ],
+      "url": "https://colorcombinations.org/palettes/fuji-ai/",
+      "api": "https://colorcombinations.org/api/palettes/fuji-ai.json"
+    },
+    {
+      "slug": "kikyo-sumi",
+      "title": "Bellflower & Ink",
+      "titleJa": "桔梗と墨",
+      "dominantHue": "purple",
+      "moods": [
+        "solemn",
+        "refined",
+        "cool"
+      ],
+      "colors": [
+        "#5B4B8A",
+        "#1C1C1C",
+        "#BCBCBE"
+      ],
+      "url": "https://colorcombinations.org/palettes/kikyo-sumi/",
+      "api": "https://colorcombinations.org/api/palettes/kikyo-sumi.json"
+    },
+    {
+      "slug": "asagi-shu",
+      "title": "Pale Blue & Vermillion",
+      "titleJa": "浅葱と朱",
+      "dominantHue": "blue",
+      "moods": [
+        "bold",
+        "solemn",
+        "refined"
+      ],
+      "colors": [
+        "#6B9BB0",
+        "#D8453A",
+        "#F4EEE0",
+        "#2B2B2B"
+      ],
+      "url": "https://colorcombinations.org/palettes/asagi-shu/",
+      "api": "https://colorcombinations.org/api/palettes/asagi-shu.json"
+    },
+    {
+      "slug": "sakura-wakatake",
+      "title": "Cherry Blossom & Young Bamboo",
+      "titleJa": "桜と若竹",
+      "dominantHue": "pink",
+      "moods": [
+        "serene",
+        "refined",
+        "playful"
+      ],
+      "colors": [
+        "#F9D5E0",
+        "#A3C293",
+        "#F8F4E9",
+        "#4C5D3F"
+      ],
+      "url": "https://colorcombinations.org/palettes/sakura-wakatake/",
+      "api": "https://colorcombinations.org/api/palettes/sakura-wakatake.json"
+    },
+    {
+      "slug": "ominaeshi-asagi",
+      "title": "Valerian Yellow & Pale Blue",
+      "titleJa": "女郎花と浅葱",
+      "dominantHue": "yellow",
+      "moods": [
+        "serene",
+        "cool",
+        "playful"
+      ],
+      "colors": [
+        "#DCCB6E",
+        "#88B9C4",
+        "#F8F4E9"
+      ],
+      "url": "https://colorcombinations.org/palettes/ominaeshi-asagi/",
+      "api": "https://colorcombinations.org/api/palettes/ominaeshi-asagi.json"
+    },
+    {
+      "slug": "sora-shu",
+      "title": "Sky Blue & Vermillion",
+      "titleJa": "空と朱",
+      "dominantHue": "blue",
+      "moods": [
+        "bold",
+        "cool",
+        "playful"
+      ],
+      "colors": [
+        "#7AB2D3",
+        "#D8453A",
+        "#F4EEE0"
+      ],
+      "url": "https://colorcombinations.org/palettes/sora-shu/",
+      "api": "https://colorcombinations.org/api/palettes/sora-shu.json"
+    }
+  ],
+  "urls": {
+    "canonical": "https://colorcombinations.org/collections/vaporwave/",
+    "embed": "https://colorcombinations.org/embed/collection/vaporwave/",
+    "openGraph": "https://colorcombinations.org/og/collections/vaporwave.svg",
+    "api": "https://colorcombinations.org/api/collections/vaporwave.json"
+  },
+  "license": "CC-BY-4.0 (attribution: colorcombinations.org)",
+  "source": "Sanzo Wada, A Dictionary of Color Combinations (1933 · six volumes)"
+}

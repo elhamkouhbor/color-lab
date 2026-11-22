@@ -1,0 +1,100 @@
+{
+  "schema": "colorcombinations-collection/v1",
+  "slug": "purple",
+  "title": "Purple Color Palettes",
+  "tagline": "Murasaki, fuji, kikyo — the most prestigious pigments of Japanese court.",
+  "description": "Purple was the rarest and most expensive dye in medieval Japan. Murasaki (violet) was extracted from the gromwell root and restricted to the highest ranks of the imperial court. Fuji (wisteria) is the blue-purple of temple flowers — quiet but unmistakable. Kikyo (bellflower) is the deeper purple of mountain flora. Edo murasaki is the grey-shifted purple of the merchant city, worn under layered kimonos as a subtle declaration of taste. These palettes carry that full history — from the pale lavender suitable for editorial wellness to the deep ceremonial purple of luxury identity work.",
+  "keywords": [
+    "purple color palette",
+    "purple color combinations",
+    "lavender color scheme",
+    "violet palette",
+    "mauve color combinations"
+  ],
+  "accentHex": "#7B5EA7",
+  "paletteCount": 4,
+  "palettes": [
+    {
+      "slug": "murasaki-gin",
+      "title": "Royal Purple & Silver",
+      "titleJa": "紫と銀",
+      "dominantHue": "purple",
+      "moods": [
+        "refined",
+        "solemn",
+        "cool"
+      ],
+      "colors": [
+        "#7A4E8F",
+        "#BCBCBE",
+        "#2B2B2B",
+        "#F4EEE0"
+      ],
+      "url": "https://colorcombinations.org/palettes/murasaki-gin/",
+      "api": "https://colorcombinations.org/api/palettes/murasaki-gin.json"
+    },
+    {
+      "slug": "fuji-ai",
+      "title": "Wisteria & Indigo",
+      "titleJa": "藤と藍",
+      "dominantHue": "purple",
+      "moods": [
+        "serene",
+        "refined",
+        "cool"
+      ],
+      "colors": [
+        "#B5A6C9",
+        "#1C3D5A",
+        "#F4EEE0"
+      ],
+      "url": "https://colorcombinations.org/palettes/fuji-ai/",
+      "api": "https://colorcombinations.org/api/palettes/fuji-ai.json"
+    },
+    {
+      "slug": "kikyo-sumi",
+      "title": "Bellflower & Ink",
+      "titleJa": "桔梗と墨",
+      "dominantHue": "purple",
+      "moods": [
+        "solemn",
+        "refined",
+        "cool"
+      ],
+      "colors": [
+        "#5B4B8A",
+        "#1C1C1C",
+        "#BCBCBE"
+      ],
+      "url": "https://colorcombinations.org/palettes/kikyo-sumi/",
+      "api": "https://colorcombinations.org/api/palettes/kikyo-sumi.json"
+    },
+    {
+      "slug": "edo-murasaki-nezumi",
+      "title": "Edo Purple & Mouse Grey",
+      "titleJa": "江戸紫と鼠",
+      "dominantHue": "purple",
+      "moods": [
+        "refined",
+        "cool",
+        "bold"
+      ],
+      "colors": [
+        "#5E4A8C",
+        "#8A8A8A",
+        "#1C1C1C",
+        "#F8F4E9"
+      ],
+      "url": "https://colorcombinations.org/palettes/edo-murasaki-nezumi/",
+      "api": "https://colorcombinations.org/api/palettes/edo-murasaki-nezumi.json"
+    }
+  ],
+  "urls": {
+    "canonical": "https://colorcombinations.org/collections/purple/",
+    "embed": "https://colorcombinations.org/embed/collection/purple/",
+    "openGraph": "https://colorcombinations.org/og/collections/purple.svg",
+    "api": "https://colorcombinations.org/api/collections/purple.json"
+  },
+  "license": "CC-BY-4.0 (attribution: colorcombinations.org)",
+  "source": "Sanzo Wada, A Dictionary of Color Combinations (1933 · six volumes)"
+}

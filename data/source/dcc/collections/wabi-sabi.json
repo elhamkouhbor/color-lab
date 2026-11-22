@@ -1,0 +1,185 @@
+{
+  "schema": "colorcombinations-collection/v1",
+  "slug": "wabi-sabi",
+  "title": "Wabi-Sabi Color Palettes",
+  "tagline": "Aged ceramic, weathered wood, ink stain on paper — the Japanese aesthetic of imperfection.",
+  "description": "Wabi-sabi (侘寂) is the Japanese aesthetic philosophy that finds beauty in age, asymmetry, and the marks of use. In color, it's the patina of a hundred-year-old tea bowl: 'sumi' (墨 — ink black) softened by the iron oxide of an ancient kettle, 'gofun' (胡粉 — chalk white) yellowed by years of use, 'kogecha' (焦茶 — burnt brown) with the warmth of cedar that has darkened in a teahouse. Wada's catalog, drawn from the same cultural well, is full of these understated combinations — none of them forcing themselves on the eye. Reference material for ceramic studios, tea-tradition products, wellness brands, slow-craft makers, gallery identity systems, and any project that should feel like it was made by someone who knew what they were doing.",
+  "keywords": [
+    "wabi-sabi color palette",
+    "wabi sabi color scheme",
+    "japanese minimalist colors",
+    "muted earth color palette",
+    "tea ceremony color combinations"
+  ],
+  "accentHex": "#7E6B4E",
+  "paletteCount": 9,
+  "palettes": [
+    {
+      "slug": "kogecha-kinari",
+      "title": "Scorched Brown & Unbleached",
+      "titleJa": "焦茶と生成",
+      "dominantHue": "brown",
+      "moods": [
+        "earthy",
+        "austere",
+        "refined"
+      ],
+      "colors": [
+        "#3E2A1E",
+        "#F3EBDA",
+        "#8A6A47"
+      ],
+      "url": "https://colorcombinations.org/palettes/kogecha-kinari/",
+      "api": "https://colorcombinations.org/api/palettes/kogecha-kinari.json"
+    },
+    {
+      "slug": "tobi-kogane",
+      "title": "Kite Brown & Gold",
+      "titleJa": "鳶と黄金",
+      "dominantHue": "brown",
+      "moods": [
+        "warm",
+        "earthy",
+        "refined"
+      ],
+      "colors": [
+        "#8A5A3B",
+        "#D4AF37",
+        "#2B2B2B"
+      ],
+      "url": "https://colorcombinations.org/palettes/tobi-kogane/",
+      "api": "https://colorcombinations.org/api/palettes/tobi-kogane.json"
+    },
+    {
+      "slug": "kariyasu-rikyu",
+      "title": "Grass Yellow & Rikyū Grey",
+      "titleJa": "刈安と利休鼠",
+      "dominantHue": "yellow",
+      "moods": [
+        "serene",
+        "earthy",
+        "austere",
+        "refined"
+      ],
+      "colors": [
+        "#DCCB7A",
+        "#878A74",
+        "#F3EBDA"
+      ],
+      "url": "https://colorcombinations.org/palettes/kariyasu-rikyu/",
+      "api": "https://colorcombinations.org/api/palettes/kariyasu-rikyu.json"
+    },
+    {
+      "slug": "moegi-sumi",
+      "title": "Spring Green & Ink",
+      "titleJa": "萌黄と墨",
+      "dominantHue": "green",
+      "moods": [
+        "austere",
+        "refined",
+        "serene"
+      ],
+      "colors": [
+        "#A7C957",
+        "#1C1C1C",
+        "#F8F4E9"
+      ],
+      "url": "https://colorcombinations.org/palettes/moegi-sumi/",
+      "api": "https://colorcombinations.org/api/palettes/moegi-sumi.json"
+    },
+    {
+      "slug": "matcha-kinari",
+      "title": "Matcha & Raw Silk",
+      "titleJa": "抹茶と生成",
+      "dominantHue": "green",
+      "moods": [
+        "serene",
+        "earthy",
+        "austere"
+      ],
+      "colors": [
+        "#A7B86B",
+        "#F3EBDA",
+        "#6C5A3C"
+      ],
+      "url": "https://colorcombinations.org/palettes/matcha-kinari/",
+      "api": "https://colorcombinations.org/api/palettes/matcha-kinari.json"
+    },
+    {
+      "slug": "entan-sumi",
+      "title": "Red Lead & Ink",
+      "titleJa": "鉛丹と墨",
+      "dominantHue": "red",
+      "moods": [
+        "bold",
+        "solemn"
+      ],
+      "colors": [
+        "#C8411D",
+        "#1C1C1C",
+        "#D4AF37"
+      ],
+      "url": "https://colorcombinations.org/palettes/entan-sumi/",
+      "api": "https://colorcombinations.org/api/palettes/entan-sumi.json"
+    },
+    {
+      "slug": "seiji-kinari",
+      "title": "Celadon & Unbleached",
+      "titleJa": "青磁と生成",
+      "dominantHue": "green",
+      "moods": [
+        "serene",
+        "earthy",
+        "refined"
+      ],
+      "colors": [
+        "#8DB6A5",
+        "#F3EBDA",
+        "#6E7B6A"
+      ],
+      "url": "https://colorcombinations.org/palettes/seiji-kinari/",
+      "api": "https://colorcombinations.org/api/palettes/seiji-kinari.json"
+    },
+    {
+      "slug": "wada-056-grayish-lavender-b-violet",
+      "title": "Grayish Lavender - B & Violet",
+      "titleJa": null,
+      "dominantHue": "neutral",
+      "moods": [
+        "refined",
+        "austere"
+      ],
+      "colors": [
+        "#c0a9b3",
+        "#4f4086"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-056-grayish-lavender-b-violet/",
+      "api": "https://colorcombinations.org/api/palettes/wada-056-grayish-lavender-b-violet.json"
+    },
+    {
+      "slug": "wada-074-turquoise-green-green-blue",
+      "title": "Turquoise Green & Green Blue",
+      "titleJa": null,
+      "dominantHue": "green",
+      "moods": [
+        "refined",
+        "cool",
+        "austere"
+      ],
+      "colors": [
+        "#b5decc",
+        "#099197"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-074-turquoise-green-green-blue/",
+      "api": "https://colorcombinations.org/api/palettes/wada-074-turquoise-green-green-blue.json"
+    }
+  ],
+  "urls": {
+    "canonical": "https://colorcombinations.org/collections/wabi-sabi/",
+    "embed": "https://colorcombinations.org/embed/collection/wabi-sabi/",
+    "openGraph": "https://colorcombinations.org/og/collections/wabi-sabi.svg",
+    "api": "https://colorcombinations.org/api/collections/wabi-sabi.json"
+  },
+  "license": "CC-BY-4.0 (attribution: colorcombinations.org)",
+  "source": "Sanzo Wada, A Dictionary of Color Combinations (1933 · six volumes)"
+}

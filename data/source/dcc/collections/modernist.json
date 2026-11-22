@@ -1,0 +1,475 @@
+{
+  "schema": "colorcombinations-collection/v1",
+  "slug": "modernist",
+  "title": "Modernist Color Palettes",
+  "tagline": "Primary reds, blues, and yellows against ink and white — the Bauhaus impulse, in pigment.",
+  "description": "Modernist color is the palette of Bauhaus textile design, De Stijl painting, Russian constructivist posters, and the early-twentieth-century insistence that a color should justify itself with structural reason. The lineage runs through Wada's 1933 catalog: 'shu' (朱 — vermilion lacquer) doing the work of Mondrian's red, 'kon' (紺 — deep indigo) doing the work of Klee's grounded blue, 'ukon' (鬱金 — turmeric yellow) carrying weight against ink black. These palettes share a commitment to clarity over comfort — they're for editorial design, contemporary architecture, art-school identity, modernist furniture brands, and anywhere a brief asks for 'considered, geometric, primary.'",
+  "keywords": [
+    "modernist color palette",
+    "modernist color scheme",
+    "bauhaus color palette",
+    "de stijl color palette",
+    "constructivist color combinations"
+  ],
+  "accentHex": "#1B2A4E",
+  "paletteCount": 24,
+  "palettes": [
+    {
+      "slug": "kurenai-kon",
+      "title": "Crimson & Navy",
+      "titleJa": "紅と紺",
+      "dominantHue": "red",
+      "moods": [
+        "refined",
+        "solemn",
+        "bold"
+      ],
+      "colors": [
+        "#9A2A2A",
+        "#1B2A4E",
+        "#F4EEE0"
+      ],
+      "url": "https://colorcombinations.org/palettes/kurenai-kon/",
+      "api": "https://colorcombinations.org/api/palettes/kurenai-kon.json"
+    },
+    {
+      "slug": "shu-kuro-kin",
+      "title": "Vermillion, Black, Gold",
+      "titleJa": "朱・黒・金",
+      "dominantHue": "red",
+      "moods": [
+        "bold",
+        "solemn"
+      ],
+      "colors": [
+        "#C8352B",
+        "#141414",
+        "#D4AF37"
+      ],
+      "url": "https://colorcombinations.org/palettes/shu-kuro-kin/",
+      "api": "https://colorcombinations.org/api/palettes/shu-kuro-kin.json"
+    },
+    {
+      "slug": "ao-shiro",
+      "title": "Ao & White",
+      "titleJa": "青と白",
+      "dominantHue": "blue",
+      "moods": [
+        "serene",
+        "cool",
+        "refined"
+      ],
+      "colors": [
+        "#3A7D7B",
+        "#FFFFFF",
+        "#1C1C1C"
+      ],
+      "url": "https://colorcombinations.org/palettes/ao-shiro/",
+      "api": "https://colorcombinations.org/api/palettes/ao-shiro.json"
+    },
+    {
+      "slug": "ukon-ai",
+      "title": "Turmeric & Indigo",
+      "titleJa": "鬱金と藍",
+      "dominantHue": "yellow",
+      "moods": [
+        "earthy",
+        "warm",
+        "playful"
+      ],
+      "colors": [
+        "#E0B740",
+        "#1C3D5A",
+        "#F3EBDA"
+      ],
+      "url": "https://colorcombinations.org/palettes/ukon-ai/",
+      "api": "https://colorcombinations.org/api/palettes/ukon-ai.json"
+    },
+    {
+      "slug": "entan-sumi",
+      "title": "Red Lead & Ink",
+      "titleJa": "鉛丹と墨",
+      "dominantHue": "red",
+      "moods": [
+        "bold",
+        "solemn"
+      ],
+      "colors": [
+        "#C8411D",
+        "#1C1C1C",
+        "#D4AF37"
+      ],
+      "url": "https://colorcombinations.org/palettes/entan-sumi/",
+      "api": "https://colorcombinations.org/api/palettes/entan-sumi.json"
+    },
+    {
+      "slug": "akane-tokiwa",
+      "title": "Madder Red & Evergreen",
+      "titleJa": "茜と常磐",
+      "dominantHue": "red",
+      "moods": [
+        "earthy",
+        "bold",
+        "solemn"
+      ],
+      "colors": [
+        "#B23B3B",
+        "#344E3D",
+        "#EAE1CC",
+        "#2B2B2B"
+      ],
+      "url": "https://colorcombinations.org/palettes/akane-tokiwa/",
+      "api": "https://colorcombinations.org/api/palettes/akane-tokiwa.json"
+    },
+    {
+      "slug": "asagi-shu",
+      "title": "Pale Blue & Vermillion",
+      "titleJa": "浅葱と朱",
+      "dominantHue": "blue",
+      "moods": [
+        "bold",
+        "solemn",
+        "refined"
+      ],
+      "colors": [
+        "#6B9BB0",
+        "#D8453A",
+        "#F4EEE0",
+        "#2B2B2B"
+      ],
+      "url": "https://colorcombinations.org/palettes/asagi-shu/",
+      "api": "https://colorcombinations.org/api/palettes/asagi-shu.json"
+    },
+    {
+      "slug": "wada-241-red-orange-pale-lemon-yellow",
+      "title": "Red Orange & Pale Lemon Yellow +2",
+      "titleJa": null,
+      "dominantHue": "red",
+      "moods": [
+        "refined",
+        "warm",
+        "bold"
+      ],
+      "colors": [
+        "#dd4027",
+        "#ffefae",
+        "#c5a56e",
+        "#547076"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-241-red-orange-pale-lemon-yellow/",
+      "api": "https://colorcombinations.org/api/palettes/wada-241-red-orange-pale-lemon-yellow.json"
+    },
+    {
+      "slug": "wada-242-eosine-pink-burnt-sienna",
+      "title": "Eosine Pink & Burnt Sienna +2",
+      "titleJa": null,
+      "dominantHue": "red",
+      "moods": [
+        "refined",
+        "warm",
+        "bold"
+      ],
+      "colors": [
+        "#f37f94",
+        "#ae5224",
+        "#1a7444",
+        "#111314"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-242-eosine-pink-burnt-sienna/",
+      "api": "https://colorcombinations.org/api/palettes/wada-242-eosine-pink-burnt-sienna.json"
+    },
+    {
+      "slug": "wada-244-light-brown-drab-vinaceous-tawny",
+      "title": "Light Brown Drab & Vinaceous Tawny +2",
+      "titleJa": null,
+      "dominantHue": "red",
+      "moods": [
+        "refined",
+        "warm",
+        "bold"
+      ],
+      "colors": [
+        "#b59392",
+        "#c56127",
+        "#6d7e77",
+        "#007190"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-244-light-brown-drab-vinaceous-tawny/",
+      "api": "https://colorcombinations.org/api/palettes/wada-244-light-brown-drab-vinaceous-tawny.json"
+    },
+    {
+      "slug": "wada-248-eosine-pink-khaki",
+      "title": "Eosine Pink & Khaki +2",
+      "titleJa": null,
+      "dominantHue": "red",
+      "moods": [
+        "refined",
+        "warm",
+        "bold"
+      ],
+      "colors": [
+        "#f37f94",
+        "#bc892b",
+        "#b5b1d8",
+        "#704357"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-248-eosine-pink-khaki/",
+      "api": "https://colorcombinations.org/api/palettes/wada-248-eosine-pink-khaki.json"
+    },
+    {
+      "slug": "wada-249-hay-s-russet-ecru",
+      "title": "Hay's Russet & Ecru +2",
+      "titleJa": null,
+      "dominantHue": "red",
+      "moods": [
+        "refined",
+        "warm",
+        "bold"
+      ],
+      "colors": [
+        "#793327",
+        "#c2ae93",
+        "#d6b43e",
+        "#547076"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-249-hay-s-russet-ecru/",
+      "api": "https://colorcombinations.org/api/palettes/wada-249-hay-s-russet-ecru.json"
+    },
+    {
+      "slug": "wada-250-pyrite-yellow-peach-red",
+      "title": "Pyrite Yellow & Peach Red +2",
+      "titleJa": null,
+      "dominantHue": "yellow",
+      "moods": [
+        "refined",
+        "warm",
+        "bold"
+      ],
+      "colors": [
+        "#cab356",
+        "#f15a30",
+        "#00b49b",
+        "#bce4e5"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-250-pyrite-yellow-peach-red/",
+      "api": "https://colorcombinations.org/api/palettes/wada-250-pyrite-yellow-peach-red.json"
+    },
+    {
+      "slug": "wada-251-red-yellow",
+      "title": "Red & Yellow +2",
+      "titleJa": null,
+      "dominantHue": "red",
+      "moods": [
+        "refined",
+        "warm",
+        "bold"
+      ],
+      "colors": [
+        "#a72144",
+        "#fff200",
+        "#1a7444",
+        "#34454c"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-251-red-yellow/",
+      "api": "https://colorcombinations.org/api/palettes/wada-251-red-yellow.json"
+    },
+    {
+      "slug": "wada-252-eugenia-red-b-raw-sienna",
+      "title": "Eugenia Red B & Raw Sienna +2",
+      "titleJa": null,
+      "dominantHue": "red",
+      "moods": [
+        "refined",
+        "warm",
+        "bold"
+      ],
+      "colors": [
+        "#da525d",
+        "#bb7125",
+        "#c19f2c",
+        "#099197"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-252-eugenia-red-b-raw-sienna/",
+      "api": "https://colorcombinations.org/api/palettes/wada-252-eugenia-red-b-raw-sienna.json"
+    },
+    {
+      "slug": "wada-253-lemon-yellow-apricot-orange",
+      "title": "Lemon Yellow & Apricot Orange +2",
+      "titleJa": null,
+      "dominantHue": "yellow",
+      "moods": [
+        "refined",
+        "warm",
+        "bold"
+      ],
+      "colors": [
+        "#f8ed43",
+        "#f68c50",
+        "#501345",
+        "#34454c"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-253-lemon-yellow-apricot-orange/",
+      "api": "https://colorcombinations.org/api/palettes/wada-253-lemon-yellow-apricot-orange.json"
+    },
+    {
+      "slug": "wada-254-corinthian-pink-sulpher-yellow",
+      "title": "Corinthian Pink & Sulpher Yellow +2",
+      "titleJa": null,
+      "dominantHue": "red",
+      "moods": [
+        "refined",
+        "warm",
+        "bold"
+      ],
+      "colors": [
+        "#f8b6ba",
+        "#f5ecc2",
+        "#837e31",
+        "#ca92a8"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-254-corinthian-pink-sulpher-yellow/",
+      "api": "https://colorcombinations.org/api/palettes/wada-254-corinthian-pink-sulpher-yellow.json"
+    },
+    {
+      "slug": "wada-257-spectrum-red-orange-yellow",
+      "title": "Spectrum Red & Orange Yellow +2",
+      "titleJa": null,
+      "dominantHue": "red",
+      "moods": [
+        "refined",
+        "warm",
+        "bold"
+      ],
+      "colors": [
+        "#e31f26",
+        "#fcb315",
+        "#006eb8",
+        "#a36aa5"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-257-spectrum-red-orange-yellow/",
+      "api": "https://colorcombinations.org/api/palettes/wada-257-spectrum-red-orange-yellow.json"
+    },
+    {
+      "slug": "wada-258-pale-burnt-lake-pinkish-cinnamon",
+      "title": "Pale Burnt Lake & Pinkish Cinnamon +2",
+      "titleJa": null,
+      "dominantHue": "red",
+      "moods": [
+        "refined",
+        "warm",
+        "bold"
+      ],
+      "colors": [
+        "#802626",
+        "#eeb480",
+        "#837e31",
+        "#007190"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-258-pale-burnt-lake-pinkish-cinnamon/",
+      "api": "https://colorcombinations.org/api/palettes/wada-258-pale-burnt-lake-pinkish-cinnamon.json"
+    },
+    {
+      "slug": "wada-259-lemon-yellow-green-blue",
+      "title": "Lemon Yellow & Green Blue +2",
+      "titleJa": null,
+      "dominantHue": "yellow",
+      "moods": [
+        "refined",
+        "cool",
+        "bold"
+      ],
+      "colors": [
+        "#f8ed43",
+        "#099197",
+        "#005b8d",
+        "#a1a39a"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-259-lemon-yellow-green-blue/",
+      "api": "https://colorcombinations.org/api/palettes/wada-259-lemon-yellow-green-blue.json"
+    },
+    {
+      "slug": "wada-260-old-rose-vinaceous-cinnamon",
+      "title": "Old Rose & Vinaceous Cinnamon +2",
+      "titleJa": null,
+      "dominantHue": "red",
+      "moods": [
+        "refined",
+        "warm",
+        "bold"
+      ],
+      "colors": [
+        "#d46d7a",
+        "#eea78c",
+        "#b4cdc2",
+        "#00b49b"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-260-old-rose-vinaceous-cinnamon/",
+      "api": "https://colorcombinations.org/api/palettes/wada-260-old-rose-vinaceous-cinnamon.json"
+    },
+    {
+      "slug": "wada-261-red-pale-lemon-yellow",
+      "title": "Red & Pale Lemon Yellow +2",
+      "titleJa": null,
+      "dominantHue": "red",
+      "moods": [
+        "refined",
+        "warm",
+        "bold"
+      ],
+      "colors": [
+        "#a72144",
+        "#ffefae",
+        "#78cdd0",
+        "#a1a39a"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-261-red-pale-lemon-yellow/",
+      "api": "https://colorcombinations.org/api/palettes/wada-261-red-pale-lemon-yellow.json"
+    },
+    {
+      "slug": "wada-262-eugenia-red-b-ivory-buff",
+      "title": "Eugenia Red B & Ivory Buff +2",
+      "titleJa": null,
+      "dominantHue": "red",
+      "moods": [
+        "refined",
+        "warm",
+        "bold"
+      ],
+      "colors": [
+        "#da525d",
+        "#ebd3a2",
+        "#b09f36",
+        "#437742"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-262-eugenia-red-b-ivory-buff/",
+      "api": "https://colorcombinations.org/api/palettes/wada-262-eugenia-red-b-ivory-buff.json"
+    },
+    {
+      "slug": "wada-264-corinthian-pink-red-orange",
+      "title": "Corinthian Pink & Red Orange +2",
+      "titleJa": null,
+      "dominantHue": "red",
+      "moods": [
+        "refined",
+        "warm",
+        "bold"
+      ],
+      "colors": [
+        "#f8b6ba",
+        "#dd4027",
+        "#b7c2a9",
+        "#0093a5"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-264-corinthian-pink-red-orange/",
+      "api": "https://colorcombinations.org/api/palettes/wada-264-corinthian-pink-red-orange.json"
+    }
+  ],
+  "urls": {
+    "canonical": "https://colorcombinations.org/collections/modernist/",
+    "embed": "https://colorcombinations.org/embed/collection/modernist/",
+    "openGraph": "https://colorcombinations.org/og/collections/modernist.svg",
+    "api": "https://colorcombinations.org/api/collections/modernist.json"
+  },
+  "license": "CC-BY-4.0 (attribution: colorcombinations.org)",
+  "source": "Sanzo Wada, A Dictionary of Color Combinations (1933 · six volumes)"
+}

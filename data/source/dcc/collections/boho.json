@@ -1,0 +1,135 @@
+{
+  "schema": "colorcombinations-collection/v1",
+  "slug": "boho",
+  "title": "Boho Color Palettes",
+  "tagline": "Warm terracotta, dusty turquoise, aged ivory, and woven warmth.",
+  "description": "Bohemian color — in its practical, non-clichéd version — is about warmth without matching, richness without saturation, and the comfortable feeling of many textures layered over time. Traditional Japanese color names reach this territory through the earthy reds of 'kaki' (柿 — persimmon), the dusty greens of 'matcha' and 'moegi', the warm neutral of 'kinari' (生成り — undyed linen), and the rich browns of 'kogecha' (焦茶 — burnt-tea brown). These combinations are the reference for home and lifestyle brands, boutique hospitality, handmade goods, and any brand identity that should feel curated, warm, and deeply human.",
+  "keywords": [
+    "boho color palette",
+    "bohemian color palette",
+    "boho color combinations",
+    "earthy boho colors",
+    "eclectic color palette",
+    "free spirit color scheme"
+  ],
+  "accentHex": "#B5603A",
+  "paletteCount": 6,
+  "palettes": [
+    {
+      "slug": "kaki-kogecha",
+      "title": "Persimmon & Burnt Brown",
+      "titleJa": "柿と焦茶",
+      "dominantHue": "orange",
+      "moods": [
+        "earthy",
+        "warm",
+        "austere"
+      ],
+      "colors": [
+        "#D66B37",
+        "#4B2E20",
+        "#E8D8B7"
+      ],
+      "url": "https://colorcombinations.org/palettes/kaki-kogecha/",
+      "api": "https://colorcombinations.org/api/palettes/kaki-kogecha.json"
+    },
+    {
+      "slug": "tobi-kogane",
+      "title": "Kite Brown & Gold",
+      "titleJa": "鳶と黄金",
+      "dominantHue": "brown",
+      "moods": [
+        "warm",
+        "earthy",
+        "refined"
+      ],
+      "colors": [
+        "#8A5A3B",
+        "#D4AF37",
+        "#2B2B2B"
+      ],
+      "url": "https://colorcombinations.org/palettes/tobi-kogane/",
+      "api": "https://colorcombinations.org/api/palettes/tobi-kogane.json"
+    },
+    {
+      "slug": "yamabuki-kuri",
+      "title": "Kerria Gold & Chestnut",
+      "titleJa": "山吹と栗",
+      "dominantHue": "yellow",
+      "moods": [
+        "warm",
+        "earthy",
+        "playful"
+      ],
+      "colors": [
+        "#F5B71C",
+        "#6B3E26",
+        "#F8F4E9"
+      ],
+      "url": "https://colorcombinations.org/palettes/yamabuki-kuri/",
+      "api": "https://colorcombinations.org/api/palettes/yamabuki-kuri.json"
+    },
+    {
+      "slug": "kogecha-kinari",
+      "title": "Scorched Brown & Unbleached",
+      "titleJa": "焦茶と生成",
+      "dominantHue": "brown",
+      "moods": [
+        "earthy",
+        "austere",
+        "refined"
+      ],
+      "colors": [
+        "#3E2A1E",
+        "#F3EBDA",
+        "#8A6A47"
+      ],
+      "url": "https://colorcombinations.org/palettes/kogecha-kinari/",
+      "api": "https://colorcombinations.org/api/palettes/kogecha-kinari.json"
+    },
+    {
+      "slug": "matcha-kinari",
+      "title": "Matcha & Raw Silk",
+      "titleJa": "抹茶と生成",
+      "dominantHue": "green",
+      "moods": [
+        "serene",
+        "earthy",
+        "austere"
+      ],
+      "colors": [
+        "#A7B86B",
+        "#F3EBDA",
+        "#6C5A3C"
+      ],
+      "url": "https://colorcombinations.org/palettes/matcha-kinari/",
+      "api": "https://colorcombinations.org/api/palettes/matcha-kinari.json"
+    },
+    {
+      "slug": "ukon-ai",
+      "title": "Turmeric & Indigo",
+      "titleJa": "鬱金と藍",
+      "dominantHue": "yellow",
+      "moods": [
+        "earthy",
+        "warm",
+        "playful"
+      ],
+      "colors": [
+        "#E0B740",
+        "#1C3D5A",
+        "#F3EBDA"
+      ],
+      "url": "https://colorcombinations.org/palettes/ukon-ai/",
+      "api": "https://colorcombinations.org/api/palettes/ukon-ai.json"
+    }
+  ],
+  "urls": {
+    "canonical": "https://colorcombinations.org/collections/boho/",
+    "embed": "https://colorcombinations.org/embed/collection/boho/",
+    "openGraph": "https://colorcombinations.org/og/collections/boho.svg",
+    "api": "https://colorcombinations.org/api/collections/boho.json"
+  },
+  "license": "CC-BY-4.0 (attribution: colorcombinations.org)",
+  "source": "Sanzo Wada, A Dictionary of Color Combinations (1933 · six volumes)"
+}

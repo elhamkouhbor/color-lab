@@ -1,0 +1,202 @@
+{
+  "schema": "colorcombinations-collection/v1",
+  "slug": "forest",
+  "title": "Forest Color Palettes",
+  "tagline": "Deep moss, pine needle, aged bark — the palette of the understory at dusk.",
+  "description": "A forest palette isn't just green — it's green layered over bark, shadow, and late light. Japanese color tradition catalogued the forest floor in extraordinary detail: 'moegi' (萌黄) is the spring green of new bamboo shoots, 'matsuba' (松葉) is the blue-black green of pine needles, 'tokiwa' (常磐) is the 'evergreen' that gives the name its meaning, 'kogecha' (焦茶 — burnt brown) is the color of wet bark, 'sumi' (墨) is the ink-black of the understory at dusk. Combined, these are some of the most restful palettes in the catalog — saturated without being aggressive, dark without being heavy. Reference material for outdoor brands, botanical illustration, environmental nonprofits, cabin hospitality and lodge design, hiking and travel editorial, and any project that should feel like walking into a Japanese cedar forest in early evening.",
+  "keywords": [
+    "forest color palette",
+    "forest green color scheme",
+    "woodland color palette",
+    "deep green color combinations",
+    "dark forest color palette"
+  ],
+  "accentHex": "#2F4A36",
+  "paletteCount": 10,
+  "palettes": [
+    {
+      "slug": "moegi-sumi",
+      "title": "Spring Green & Ink",
+      "titleJa": "萌黄と墨",
+      "dominantHue": "green",
+      "moods": [
+        "austere",
+        "refined",
+        "serene"
+      ],
+      "colors": [
+        "#A7C957",
+        "#1C1C1C",
+        "#F8F4E9"
+      ],
+      "url": "https://colorcombinations.org/palettes/moegi-sumi/",
+      "api": "https://colorcombinations.org/api/palettes/moegi-sumi.json"
+    },
+    {
+      "slug": "matcha-kinari",
+      "title": "Matcha & Raw Silk",
+      "titleJa": "抹茶と生成",
+      "dominantHue": "green",
+      "moods": [
+        "serene",
+        "earthy",
+        "austere"
+      ],
+      "colors": [
+        "#A7B86B",
+        "#F3EBDA",
+        "#6C5A3C"
+      ],
+      "url": "https://colorcombinations.org/palettes/matcha-kinari/",
+      "api": "https://colorcombinations.org/api/palettes/matcha-kinari.json"
+    },
+    {
+      "slug": "akane-tokiwa",
+      "title": "Madder Red & Evergreen",
+      "titleJa": "茜と常磐",
+      "dominantHue": "red",
+      "moods": [
+        "earthy",
+        "bold",
+        "solemn"
+      ],
+      "colors": [
+        "#B23B3B",
+        "#344E3D",
+        "#EAE1CC",
+        "#2B2B2B"
+      ],
+      "url": "https://colorcombinations.org/palettes/akane-tokiwa/",
+      "api": "https://colorcombinations.org/api/palettes/akane-tokiwa.json"
+    },
+    {
+      "slug": "kogecha-kinari",
+      "title": "Scorched Brown & Unbleached",
+      "titleJa": "焦茶と生成",
+      "dominantHue": "brown",
+      "moods": [
+        "earthy",
+        "austere",
+        "refined"
+      ],
+      "colors": [
+        "#3E2A1E",
+        "#F3EBDA",
+        "#8A6A47"
+      ],
+      "url": "https://colorcombinations.org/palettes/kogecha-kinari/",
+      "api": "https://colorcombinations.org/api/palettes/kogecha-kinari.json"
+    },
+    {
+      "slug": "entan-sumi",
+      "title": "Red Lead & Ink",
+      "titleJa": "鉛丹と墨",
+      "dominantHue": "red",
+      "moods": [
+        "bold",
+        "solemn"
+      ],
+      "colors": [
+        "#C8411D",
+        "#1C1C1C",
+        "#D4AF37"
+      ],
+      "url": "https://colorcombinations.org/palettes/entan-sumi/",
+      "api": "https://colorcombinations.org/api/palettes/entan-sumi.json"
+    },
+    {
+      "slug": "seiji-kinari",
+      "title": "Celadon & Unbleached",
+      "titleJa": "青磁と生成",
+      "dominantHue": "green",
+      "moods": [
+        "serene",
+        "earthy",
+        "refined"
+      ],
+      "colors": [
+        "#8DB6A5",
+        "#F3EBDA",
+        "#6E7B6A"
+      ],
+      "url": "https://colorcombinations.org/palettes/seiji-kinari/",
+      "api": "https://colorcombinations.org/api/palettes/seiji-kinari.json"
+    },
+    {
+      "slug": "tobi-kogane",
+      "title": "Kite Brown & Gold",
+      "titleJa": "鳶と黄金",
+      "dominantHue": "brown",
+      "moods": [
+        "warm",
+        "earthy",
+        "refined"
+      ],
+      "colors": [
+        "#8A5A3B",
+        "#D4AF37",
+        "#2B2B2B"
+      ],
+      "url": "https://colorcombinations.org/palettes/tobi-kogane/",
+      "api": "https://colorcombinations.org/api/palettes/tobi-kogane.json"
+    },
+    {
+      "slug": "wada-005-cossack-green-vandar-poel-s-blue",
+      "title": "Cossack Green & Vandar Poel's Blue",
+      "titleJa": null,
+      "dominantHue": "green",
+      "moods": [
+        "solemn",
+        "cool",
+        "austere"
+      ],
+      "colors": [
+        "#437742",
+        "#064f6e"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-005-cossack-green-vandar-poel-s-blue/",
+      "api": "https://colorcombinations.org/api/palettes/wada-005-cossack-green-vandar-poel-s-blue.json"
+    },
+    {
+      "slug": "wada-038-diamine-green-deep-lyons-blue",
+      "title": "Diamine Green & Deep Lyons Blue",
+      "titleJa": null,
+      "dominantHue": "green",
+      "moods": [
+        "solemn",
+        "cool",
+        "austere"
+      ],
+      "colors": [
+        "#1a7444",
+        "#1c4286"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-038-diamine-green-deep-lyons-blue/",
+      "api": "https://colorcombinations.org/api/palettes/wada-038-diamine-green-deep-lyons-blue.json"
+    },
+    {
+      "slug": "wada-069-warm-gray-black",
+      "title": "Warm Gray & Black",
+      "titleJa": null,
+      "dominantHue": "neutral",
+      "moods": [
+        "solemn",
+        "austere"
+      ],
+      "colors": [
+        "#a1a39a",
+        "#111314"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-069-warm-gray-black/",
+      "api": "https://colorcombinations.org/api/palettes/wada-069-warm-gray-black.json"
+    }
+  ],
+  "urls": {
+    "canonical": "https://colorcombinations.org/collections/forest/",
+    "embed": "https://colorcombinations.org/embed/collection/forest/",
+    "openGraph": "https://colorcombinations.org/og/collections/forest.svg",
+    "api": "https://colorcombinations.org/api/collections/forest.json"
+  },
+  "license": "CC-BY-4.0 (attribution: colorcombinations.org)",
+  "source": "Sanzo Wada, A Dictionary of Color Combinations (1933 · six volumes)"
+}

@@ -1,0 +1,174 @@
+{
+  "schema": "colorcombinations-collection/v1",
+  "slug": "hygge",
+  "title": "Hygge Color Palettes",
+  "tagline": "Candle-lit cream, wool grey, soft moss — the Danish art of cozy in pigment.",
+  "description": "Hygge color isn't just Scandinavian neutral — it's specifically the warm-paper light of a Copenhagen winter afternoon, the wool-grey of a thick blanket, the muted green of a houseplant on a kitchen sill. Wada's catalog, surprisingly, holds these tones as carefully as any modern hygge mood-board: 'kinari' (生成 — undyed silk) is the cream, 'rikyu' (利休 — tea master's restrained grey-green) is the wool, 'matcha' (抹茶) softens to the houseplant green when paired with cream, 'fuji' (藤 — wisteria) gives the windowsill its faintest evening violet. Reference material for slow-living and wellness brands, Scandinavian-leaning interior projects, candle and homewares packaging, lifestyle photography, and any project where the brief is 'warm, restorative, uncomplicated.'",
+  "keywords": [
+    "hygge color palette",
+    "hygge aesthetic colors",
+    "danish color palette",
+    "cozy color scheme",
+    "warm minimalist colors"
+  ],
+  "accentHex": "#D4B896",
+  "paletteCount": 8,
+  "palettes": [
+    {
+      "slug": "kariyasu-rikyu",
+      "title": "Grass Yellow & Rikyū Grey",
+      "titleJa": "刈安と利休鼠",
+      "dominantHue": "yellow",
+      "moods": [
+        "serene",
+        "earthy",
+        "austere",
+        "refined"
+      ],
+      "colors": [
+        "#DCCB7A",
+        "#878A74",
+        "#F3EBDA"
+      ],
+      "url": "https://colorcombinations.org/palettes/kariyasu-rikyu/",
+      "api": "https://colorcombinations.org/api/palettes/kariyasu-rikyu.json"
+    },
+    {
+      "slug": "matcha-kinari",
+      "title": "Matcha & Raw Silk",
+      "titleJa": "抹茶と生成",
+      "dominantHue": "green",
+      "moods": [
+        "serene",
+        "earthy",
+        "austere"
+      ],
+      "colors": [
+        "#A7B86B",
+        "#F3EBDA",
+        "#6C5A3C"
+      ],
+      "url": "https://colorcombinations.org/palettes/matcha-kinari/",
+      "api": "https://colorcombinations.org/api/palettes/matcha-kinari.json"
+    },
+    {
+      "slug": "seiji-kinari",
+      "title": "Celadon & Unbleached",
+      "titleJa": "青磁と生成",
+      "dominantHue": "green",
+      "moods": [
+        "serene",
+        "earthy",
+        "refined"
+      ],
+      "colors": [
+        "#8DB6A5",
+        "#F3EBDA",
+        "#6E7B6A"
+      ],
+      "url": "https://colorcombinations.org/palettes/seiji-kinari/",
+      "api": "https://colorcombinations.org/api/palettes/seiji-kinari.json"
+    },
+    {
+      "slug": "fuji-ai",
+      "title": "Wisteria & Indigo",
+      "titleJa": "藤と藍",
+      "dominantHue": "purple",
+      "moods": [
+        "serene",
+        "refined",
+        "cool"
+      ],
+      "colors": [
+        "#B5A6C9",
+        "#1C3D5A",
+        "#F4EEE0"
+      ],
+      "url": "https://colorcombinations.org/palettes/fuji-ai/",
+      "api": "https://colorcombinations.org/api/palettes/fuji-ai.json"
+    },
+    {
+      "slug": "murasaki-gin",
+      "title": "Royal Purple & Silver",
+      "titleJa": "紫と銀",
+      "dominantHue": "purple",
+      "moods": [
+        "refined",
+        "solemn",
+        "cool"
+      ],
+      "colors": [
+        "#7A4E8F",
+        "#BCBCBE",
+        "#2B2B2B",
+        "#F4EEE0"
+      ],
+      "url": "https://colorcombinations.org/palettes/murasaki-gin/",
+      "api": "https://colorcombinations.org/api/palettes/murasaki-gin.json"
+    },
+    {
+      "slug": "kogecha-kinari",
+      "title": "Scorched Brown & Unbleached",
+      "titleJa": "焦茶と生成",
+      "dominantHue": "brown",
+      "moods": [
+        "earthy",
+        "austere",
+        "refined"
+      ],
+      "colors": [
+        "#3E2A1E",
+        "#F3EBDA",
+        "#8A6A47"
+      ],
+      "url": "https://colorcombinations.org/palettes/kogecha-kinari/",
+      "api": "https://colorcombinations.org/api/palettes/kogecha-kinari.json"
+    },
+    {
+      "slug": "wada-272-pale-lemon-yellow-orange",
+      "title": "Pale Lemon Yellow & Orange +2",
+      "titleJa": null,
+      "dominantHue": "yellow",
+      "moods": [
+        "serene",
+        "warm",
+        "bold"
+      ],
+      "colors": [
+        "#ffefae",
+        "#f37420",
+        "#b5decc",
+        "#97acc8"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-272-pale-lemon-yellow-orange/",
+      "api": "https://colorcombinations.org/api/palettes/wada-272-pale-lemon-yellow-orange.json"
+    },
+    {
+      "slug": "wada-292-pale-lemon-yellow-pinkish-cinnamon",
+      "title": "Pale Lemon Yellow & Pinkish Cinnamon +2",
+      "titleJa": null,
+      "dominantHue": "yellow",
+      "moods": [
+        "serene",
+        "warm",
+        "bold"
+      ],
+      "colors": [
+        "#ffefae",
+        "#eeb480",
+        "#c5a56e",
+        "#c2ae93"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-292-pale-lemon-yellow-pinkish-cinnamon/",
+      "api": "https://colorcombinations.org/api/palettes/wada-292-pale-lemon-yellow-pinkish-cinnamon.json"
+    }
+  ],
+  "urls": {
+    "canonical": "https://colorcombinations.org/collections/hygge/",
+    "embed": "https://colorcombinations.org/embed/collection/hygge/",
+    "openGraph": "https://colorcombinations.org/og/collections/hygge.svg",
+    "api": "https://colorcombinations.org/api/collections/hygge.json"
+  },
+  "license": "CC-BY-4.0 (attribution: colorcombinations.org)",
+  "source": "Sanzo Wada, A Dictionary of Color Combinations (1933 · six volumes)"
+}

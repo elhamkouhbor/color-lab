@@ -1,0 +1,461 @@
+{
+  "schema": "colorcombinations-collection/v1",
+  "slug": "websites",
+  "title": "Color Palettes for Websites",
+  "tagline": "Historically-grounded palettes that read well on screens at any scale.",
+  "description": "A curated shortlist of combinations that work on the web without compromise. Strong enough contrast for body text, warm enough for hero sections, restrained enough to avoid the tech-bro gradient look. Every palette comes with hex values, Tailwind config, and CSS variables — drop them into any project.",
+  "keywords": [
+    "website color palettes",
+    "web design color combinations",
+    "palettes for web",
+    "accessible color palettes",
+    "designer color schemes"
+  ],
+  "accentHex": "#1B2A4E",
+  "paletteCount": 24,
+  "palettes": [
+    {
+      "slug": "kurenai-kon",
+      "title": "Crimson & Navy",
+      "titleJa": "紅と紺",
+      "dominantHue": "red",
+      "moods": [
+        "refined",
+        "solemn",
+        "bold"
+      ],
+      "colors": [
+        "#9A2A2A",
+        "#1B2A4E",
+        "#F4EEE0"
+      ],
+      "url": "https://colorcombinations.org/palettes/kurenai-kon/",
+      "api": "https://colorcombinations.org/api/palettes/kurenai-kon.json"
+    },
+    {
+      "slug": "asagi-shu",
+      "title": "Pale Blue & Vermillion",
+      "titleJa": "浅葱と朱",
+      "dominantHue": "blue",
+      "moods": [
+        "bold",
+        "solemn",
+        "refined"
+      ],
+      "colors": [
+        "#6B9BB0",
+        "#D8453A",
+        "#F4EEE0",
+        "#2B2B2B"
+      ],
+      "url": "https://colorcombinations.org/palettes/asagi-shu/",
+      "api": "https://colorcombinations.org/api/palettes/asagi-shu.json"
+    },
+    {
+      "slug": "seiji-kinari",
+      "title": "Celadon & Unbleached",
+      "titleJa": "青磁と生成",
+      "dominantHue": "green",
+      "moods": [
+        "serene",
+        "earthy",
+        "refined"
+      ],
+      "colors": [
+        "#8DB6A5",
+        "#F3EBDA",
+        "#6E7B6A"
+      ],
+      "url": "https://colorcombinations.org/palettes/seiji-kinari/",
+      "api": "https://colorcombinations.org/api/palettes/seiji-kinari.json"
+    },
+    {
+      "slug": "hanada-gin",
+      "title": "Indigo Blue & Silver",
+      "titleJa": "縹と銀",
+      "dominantHue": "blue",
+      "moods": [
+        "refined",
+        "cool",
+        "solemn"
+      ],
+      "colors": [
+        "#3C6E8F",
+        "#BCBCBE",
+        "#F8F4E9"
+      ],
+      "url": "https://colorcombinations.org/palettes/hanada-gin/",
+      "api": "https://colorcombinations.org/api/palettes/hanada-gin.json"
+    },
+    {
+      "slug": "kariyasu-rikyu",
+      "title": "Grass Yellow & Rikyū Grey",
+      "titleJa": "刈安と利休鼠",
+      "dominantHue": "yellow",
+      "moods": [
+        "serene",
+        "earthy",
+        "austere",
+        "refined"
+      ],
+      "colors": [
+        "#DCCB7A",
+        "#878A74",
+        "#F3EBDA"
+      ],
+      "url": "https://colorcombinations.org/palettes/kariyasu-rikyu/",
+      "api": "https://colorcombinations.org/api/palettes/kariyasu-rikyu.json"
+    },
+    {
+      "slug": "murasaki-gin",
+      "title": "Royal Purple & Silver",
+      "titleJa": "紫と銀",
+      "dominantHue": "purple",
+      "moods": [
+        "refined",
+        "solemn",
+        "cool"
+      ],
+      "colors": [
+        "#7A4E8F",
+        "#BCBCBE",
+        "#2B2B2B",
+        "#F4EEE0"
+      ],
+      "url": "https://colorcombinations.org/palettes/murasaki-gin/",
+      "api": "https://colorcombinations.org/api/palettes/murasaki-gin.json"
+    },
+    {
+      "slug": "ao-shiro",
+      "title": "Ao & White",
+      "titleJa": "青と白",
+      "dominantHue": "blue",
+      "moods": [
+        "serene",
+        "cool",
+        "refined"
+      ],
+      "colors": [
+        "#3A7D7B",
+        "#FFFFFF",
+        "#1C1C1C"
+      ],
+      "url": "https://colorcombinations.org/palettes/ao-shiro/",
+      "api": "https://colorcombinations.org/api/palettes/ao-shiro.json"
+    },
+    {
+      "slug": "kon-kinari",
+      "title": "Deep Indigo & Cream",
+      "titleJa": "紺と生成",
+      "dominantHue": "blue",
+      "moods": [
+        "refined",
+        "cool",
+        "austere"
+      ],
+      "colors": [
+        "#142747",
+        "#F3EBDA",
+        "#2B2B2B"
+      ],
+      "url": "https://colorcombinations.org/palettes/kon-kinari/",
+      "api": "https://colorcombinations.org/api/palettes/kon-kinari.json"
+    },
+    {
+      "slug": "sakura-wakatake",
+      "title": "Cherry Blossom & Young Bamboo",
+      "titleJa": "桜と若竹",
+      "dominantHue": "pink",
+      "moods": [
+        "serene",
+        "refined",
+        "playful"
+      ],
+      "colors": [
+        "#F9D5E0",
+        "#A3C293",
+        "#F8F4E9",
+        "#4C5D3F"
+      ],
+      "url": "https://colorcombinations.org/palettes/sakura-wakatake/",
+      "api": "https://colorcombinations.org/api/palettes/sakura-wakatake.json"
+    },
+    {
+      "slug": "gunjo-gofun",
+      "title": "Ultramarine & Chalk White",
+      "titleJa": "群青と胡粉",
+      "dominantHue": "blue",
+      "moods": [
+        "solemn",
+        "serene",
+        "austere"
+      ],
+      "colors": [
+        "#264A6B",
+        "#F4EEE0",
+        "#C5AC6B"
+      ],
+      "url": "https://colorcombinations.org/palettes/gunjo-gofun/",
+      "api": "https://colorcombinations.org/api/palettes/gunjo-gofun.json"
+    },
+    {
+      "slug": "moegi-sumi",
+      "title": "Spring Green & Ink",
+      "titleJa": "萌黄と墨",
+      "dominantHue": "green",
+      "moods": [
+        "austere",
+        "refined",
+        "serene"
+      ],
+      "colors": [
+        "#A7C957",
+        "#1C1C1C",
+        "#F8F4E9"
+      ],
+      "url": "https://colorcombinations.org/palettes/moegi-sumi/",
+      "api": "https://colorcombinations.org/api/palettes/moegi-sumi.json"
+    },
+    {
+      "slug": "ruri-gofun",
+      "title": "Lapis & Chalk",
+      "titleJa": "瑠璃と胡粉",
+      "dominantHue": "blue",
+      "moods": [
+        "solemn",
+        "serene",
+        "refined"
+      ],
+      "colors": [
+        "#1E4B8A",
+        "#F4EEE0",
+        "#D4AF37"
+      ],
+      "url": "https://colorcombinations.org/palettes/ruri-gofun/",
+      "api": "https://colorcombinations.org/api/palettes/ruri-gofun.json"
+    },
+    {
+      "slug": "nadeshiko-mizu",
+      "title": "Pink Dianthus & Water",
+      "titleJa": "撫子と水色",
+      "dominantHue": "pink",
+      "moods": [
+        "serene",
+        "playful",
+        "refined"
+      ],
+      "colors": [
+        "#EBA6B4",
+        "#B4D6E5",
+        "#F8F4E9"
+      ],
+      "url": "https://colorcombinations.org/palettes/nadeshiko-mizu/",
+      "api": "https://colorcombinations.org/api/palettes/nadeshiko-mizu.json"
+    },
+    {
+      "slug": "matcha-kinari",
+      "title": "Matcha & Raw Silk",
+      "titleJa": "抹茶と生成",
+      "dominantHue": "green",
+      "moods": [
+        "serene",
+        "earthy",
+        "austere"
+      ],
+      "colors": [
+        "#A7B86B",
+        "#F3EBDA",
+        "#6C5A3C"
+      ],
+      "url": "https://colorcombinations.org/palettes/matcha-kinari/",
+      "api": "https://colorcombinations.org/api/palettes/matcha-kinari.json"
+    },
+    {
+      "slug": "fuji-ai",
+      "title": "Wisteria & Indigo",
+      "titleJa": "藤と藍",
+      "dominantHue": "purple",
+      "moods": [
+        "serene",
+        "refined",
+        "cool"
+      ],
+      "colors": [
+        "#B5A6C9",
+        "#1C3D5A",
+        "#F4EEE0"
+      ],
+      "url": "https://colorcombinations.org/palettes/fuji-ai/",
+      "api": "https://colorcombinations.org/api/palettes/fuji-ai.json"
+    },
+    {
+      "slug": "tobi-kogane",
+      "title": "Kite Brown & Gold",
+      "titleJa": "鳶と黄金",
+      "dominantHue": "brown",
+      "moods": [
+        "warm",
+        "earthy",
+        "refined"
+      ],
+      "colors": [
+        "#8A5A3B",
+        "#D4AF37",
+        "#2B2B2B"
+      ],
+      "url": "https://colorcombinations.org/palettes/tobi-kogane/",
+      "api": "https://colorcombinations.org/api/palettes/tobi-kogane.json"
+    },
+    {
+      "slug": "kikyo-sumi",
+      "title": "Bellflower & Ink",
+      "titleJa": "桔梗と墨",
+      "dominantHue": "purple",
+      "moods": [
+        "solemn",
+        "refined",
+        "cool"
+      ],
+      "colors": [
+        "#5B4B8A",
+        "#1C1C1C",
+        "#BCBCBE"
+      ],
+      "url": "https://colorcombinations.org/palettes/kikyo-sumi/",
+      "api": "https://colorcombinations.org/api/palettes/kikyo-sumi.json"
+    },
+    {
+      "slug": "usubeni-cha",
+      "title": "Light Pink & Tea",
+      "titleJa": "薄紅と茶",
+      "dominantHue": "pink",
+      "moods": [
+        "warm",
+        "playful",
+        "refined"
+      ],
+      "colors": [
+        "#E8A4A4",
+        "#6C4F3B",
+        "#F3EBDA"
+      ],
+      "url": "https://colorcombinations.org/palettes/usubeni-cha/",
+      "api": "https://colorcombinations.org/api/palettes/usubeni-cha.json"
+    },
+    {
+      "slug": "kogecha-kinari",
+      "title": "Scorched Brown & Unbleached",
+      "titleJa": "焦茶と生成",
+      "dominantHue": "brown",
+      "moods": [
+        "earthy",
+        "austere",
+        "refined"
+      ],
+      "colors": [
+        "#3E2A1E",
+        "#F3EBDA",
+        "#8A6A47"
+      ],
+      "url": "https://colorcombinations.org/palettes/kogecha-kinari/",
+      "api": "https://colorcombinations.org/api/palettes/kogecha-kinari.json"
+    },
+    {
+      "slug": "sora-shu",
+      "title": "Sky Blue & Vermillion",
+      "titleJa": "空と朱",
+      "dominantHue": "blue",
+      "moods": [
+        "bold",
+        "cool",
+        "playful"
+      ],
+      "colors": [
+        "#7AB2D3",
+        "#D8453A",
+        "#F4EEE0"
+      ],
+      "url": "https://colorcombinations.org/palettes/sora-shu/",
+      "api": "https://colorcombinations.org/api/palettes/sora-shu.json"
+    },
+    {
+      "slug": "ominaeshi-asagi",
+      "title": "Valerian Yellow & Pale Blue",
+      "titleJa": "女郎花と浅葱",
+      "dominantHue": "yellow",
+      "moods": [
+        "serene",
+        "cool",
+        "playful"
+      ],
+      "colors": [
+        "#DCCB6E",
+        "#88B9C4",
+        "#F8F4E9"
+      ],
+      "url": "https://colorcombinations.org/palettes/ominaeshi-asagi/",
+      "api": "https://colorcombinations.org/api/palettes/ominaeshi-asagi.json"
+    },
+    {
+      "slug": "edo-murasaki-nezumi",
+      "title": "Edo Purple & Mouse Grey",
+      "titleJa": "江戸紫と鼠",
+      "dominantHue": "purple",
+      "moods": [
+        "refined",
+        "cool",
+        "bold"
+      ],
+      "colors": [
+        "#5E4A8C",
+        "#8A8A8A",
+        "#1C1C1C",
+        "#F8F4E9"
+      ],
+      "url": "https://colorcombinations.org/palettes/edo-murasaki-nezumi/",
+      "api": "https://colorcombinations.org/api/palettes/edo-murasaki-nezumi.json"
+    },
+    {
+      "slug": "wada-001-english-red-cerulian-blue",
+      "title": "English Red & Cerulian Blue",
+      "titleJa": null,
+      "dominantHue": "orange",
+      "moods": [
+        "refined",
+        "warm",
+        "austere"
+      ],
+      "colors": [
+        "#d96629",
+        "#0093a5"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-001-english-red-cerulian-blue/",
+      "api": "https://colorcombinations.org/api/palettes/wada-001-english-red-cerulian-blue.json"
+    },
+    {
+      "slug": "wada-002-yellow-orange-dark-tyrian-blue",
+      "title": "Yellow Orange & Dark Tyrian Blue",
+      "titleJa": null,
+      "dominantHue": "yellow",
+      "moods": [
+        "refined",
+        "cool",
+        "austere"
+      ],
+      "colors": [
+        "#f99d1b",
+        "#12354e"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-002-yellow-orange-dark-tyrian-blue/",
+      "api": "https://colorcombinations.org/api/palettes/wada-002-yellow-orange-dark-tyrian-blue.json"
+    }
+  ],
+  "urls": {
+    "canonical": "https://colorcombinations.org/collections/websites/",
+    "embed": "https://colorcombinations.org/embed/collection/websites/",
+    "openGraph": "https://colorcombinations.org/og/collections/websites.svg",
+    "api": "https://colorcombinations.org/api/collections/websites.json"
+  },
+  "license": "CC-BY-4.0 (attribution: colorcombinations.org)",
+  "source": "Sanzo Wada, A Dictionary of Color Combinations (1933 · six volumes)"
+}

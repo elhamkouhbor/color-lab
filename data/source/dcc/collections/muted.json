@@ -1,0 +1,451 @@
+{
+  "schema": "colorcombinations-collection/v1",
+  "slug": "muted",
+  "title": "Muted Color Palettes",
+  "tagline": "Soft, desaturated tones that feel considered rather than cautious.",
+  "description": "Muted color — the kind that doesn't announce itself — is the hardest to execute well and the most rewarding when you get it right. It's the difference between a room that feels quietly expensive and one that feels merely beige. Wada's Japanese palette is saturated with this sensibility: 'nezumi' (鼠 — mouse grey), 'rikyu' (利休 — the grey-green named for the tea master Sen no Rikyū), 'kinari' (生成り — the barely-off-white of undyed linen), 'fuji' (藤 — the washed lavender of wisteria). These are not timid colors. They are confident in their restraint, and they pair with almost everything. Reference material for Scandinavian interior brands, editorial fashion, sustainable packaging, and any project where the work should be noticed before the color is.",
+  "keywords": [
+    "muted color palette",
+    "muted color combinations",
+    "desaturated color palette",
+    "soft color scheme",
+    "understated color palette",
+    "muted tones design"
+  ],
+  "accentHex": "#8B7B8B",
+  "paletteCount": 24,
+  "palettes": [
+    {
+      "slug": "seiji-kinari",
+      "title": "Celadon & Unbleached",
+      "titleJa": "青磁と生成",
+      "dominantHue": "green",
+      "moods": [
+        "serene",
+        "earthy",
+        "refined"
+      ],
+      "colors": [
+        "#8DB6A5",
+        "#F3EBDA",
+        "#6E7B6A"
+      ],
+      "url": "https://colorcombinations.org/palettes/seiji-kinari/",
+      "api": "https://colorcombinations.org/api/palettes/seiji-kinari.json"
+    },
+    {
+      "slug": "kariyasu-rikyu",
+      "title": "Grass Yellow & Rikyū Grey",
+      "titleJa": "刈安と利休鼠",
+      "dominantHue": "yellow",
+      "moods": [
+        "serene",
+        "earthy",
+        "austere",
+        "refined"
+      ],
+      "colors": [
+        "#DCCB7A",
+        "#878A74",
+        "#F3EBDA"
+      ],
+      "url": "https://colorcombinations.org/palettes/kariyasu-rikyu/",
+      "api": "https://colorcombinations.org/api/palettes/kariyasu-rikyu.json"
+    },
+    {
+      "slug": "nadeshiko-mizu",
+      "title": "Pink Dianthus & Water",
+      "titleJa": "撫子と水色",
+      "dominantHue": "pink",
+      "moods": [
+        "serene",
+        "playful",
+        "refined"
+      ],
+      "colors": [
+        "#EBA6B4",
+        "#B4D6E5",
+        "#F8F4E9"
+      ],
+      "url": "https://colorcombinations.org/palettes/nadeshiko-mizu/",
+      "api": "https://colorcombinations.org/api/palettes/nadeshiko-mizu.json"
+    },
+    {
+      "slug": "fuji-ai",
+      "title": "Wisteria & Indigo",
+      "titleJa": "藤と藍",
+      "dominantHue": "purple",
+      "moods": [
+        "serene",
+        "refined",
+        "cool"
+      ],
+      "colors": [
+        "#B5A6C9",
+        "#1C3D5A",
+        "#F4EEE0"
+      ],
+      "url": "https://colorcombinations.org/palettes/fuji-ai/",
+      "api": "https://colorcombinations.org/api/palettes/fuji-ai.json"
+    },
+    {
+      "slug": "murasaki-gin",
+      "title": "Royal Purple & Silver",
+      "titleJa": "紫と銀",
+      "dominantHue": "purple",
+      "moods": [
+        "refined",
+        "solemn",
+        "cool"
+      ],
+      "colors": [
+        "#7A4E8F",
+        "#BCBCBE",
+        "#2B2B2B",
+        "#F4EEE0"
+      ],
+      "url": "https://colorcombinations.org/palettes/murasaki-gin/",
+      "api": "https://colorcombinations.org/api/palettes/murasaki-gin.json"
+    },
+    {
+      "slug": "kogecha-kinari",
+      "title": "Scorched Brown & Unbleached",
+      "titleJa": "焦茶と生成",
+      "dominantHue": "brown",
+      "moods": [
+        "earthy",
+        "austere",
+        "refined"
+      ],
+      "colors": [
+        "#3E2A1E",
+        "#F3EBDA",
+        "#8A6A47"
+      ],
+      "url": "https://colorcombinations.org/palettes/kogecha-kinari/",
+      "api": "https://colorcombinations.org/api/palettes/kogecha-kinari.json"
+    },
+    {
+      "slug": "sakura-wakatake",
+      "title": "Cherry Blossom & Young Bamboo",
+      "titleJa": "桜と若竹",
+      "dominantHue": "pink",
+      "moods": [
+        "serene",
+        "refined",
+        "playful"
+      ],
+      "colors": [
+        "#F9D5E0",
+        "#A3C293",
+        "#F8F4E9",
+        "#4C5D3F"
+      ],
+      "url": "https://colorcombinations.org/palettes/sakura-wakatake/",
+      "api": "https://colorcombinations.org/api/palettes/sakura-wakatake.json"
+    },
+    {
+      "slug": "moegi-sumi",
+      "title": "Spring Green & Ink",
+      "titleJa": "萌黄と墨",
+      "dominantHue": "green",
+      "moods": [
+        "austere",
+        "refined",
+        "serene"
+      ],
+      "colors": [
+        "#A7C957",
+        "#1C1C1C",
+        "#F8F4E9"
+      ],
+      "url": "https://colorcombinations.org/palettes/moegi-sumi/",
+      "api": "https://colorcombinations.org/api/palettes/moegi-sumi.json"
+    },
+    {
+      "slug": "ruri-gofun",
+      "title": "Lapis & Chalk",
+      "titleJa": "瑠璃と胡粉",
+      "dominantHue": "blue",
+      "moods": [
+        "solemn",
+        "serene",
+        "refined"
+      ],
+      "colors": [
+        "#1E4B8A",
+        "#F4EEE0",
+        "#D4AF37"
+      ],
+      "url": "https://colorcombinations.org/palettes/ruri-gofun/",
+      "api": "https://colorcombinations.org/api/palettes/ruri-gofun.json"
+    },
+    {
+      "slug": "ao-shiro",
+      "title": "Ao & White",
+      "titleJa": "青と白",
+      "dominantHue": "blue",
+      "moods": [
+        "serene",
+        "cool",
+        "refined"
+      ],
+      "colors": [
+        "#3A7D7B",
+        "#FFFFFF",
+        "#1C1C1C"
+      ],
+      "url": "https://colorcombinations.org/palettes/ao-shiro/",
+      "api": "https://colorcombinations.org/api/palettes/ao-shiro.json"
+    },
+    {
+      "slug": "kikyo-sumi",
+      "title": "Bellflower & Ink",
+      "titleJa": "桔梗と墨",
+      "dominantHue": "purple",
+      "moods": [
+        "solemn",
+        "refined",
+        "cool"
+      ],
+      "colors": [
+        "#5B4B8A",
+        "#1C1C1C",
+        "#BCBCBE"
+      ],
+      "url": "https://colorcombinations.org/palettes/kikyo-sumi/",
+      "api": "https://colorcombinations.org/api/palettes/kikyo-sumi.json"
+    },
+    {
+      "slug": "hanada-gin",
+      "title": "Indigo Blue & Silver",
+      "titleJa": "縹と銀",
+      "dominantHue": "blue",
+      "moods": [
+        "refined",
+        "cool",
+        "solemn"
+      ],
+      "colors": [
+        "#3C6E8F",
+        "#BCBCBE",
+        "#F8F4E9"
+      ],
+      "url": "https://colorcombinations.org/palettes/hanada-gin/",
+      "api": "https://colorcombinations.org/api/palettes/hanada-gin.json"
+    },
+    {
+      "slug": "kon-kinari",
+      "title": "Deep Indigo & Cream",
+      "titleJa": "紺と生成",
+      "dominantHue": "blue",
+      "moods": [
+        "refined",
+        "cool",
+        "austere"
+      ],
+      "colors": [
+        "#142747",
+        "#F3EBDA",
+        "#2B2B2B"
+      ],
+      "url": "https://colorcombinations.org/palettes/kon-kinari/",
+      "api": "https://colorcombinations.org/api/palettes/kon-kinari.json"
+    },
+    {
+      "slug": "edo-murasaki-nezumi",
+      "title": "Edo Purple & Mouse Grey",
+      "titleJa": "江戸紫と鼠",
+      "dominantHue": "purple",
+      "moods": [
+        "refined",
+        "cool",
+        "bold"
+      ],
+      "colors": [
+        "#5E4A8C",
+        "#8A8A8A",
+        "#1C1C1C",
+        "#F8F4E9"
+      ],
+      "url": "https://colorcombinations.org/palettes/edo-murasaki-nezumi/",
+      "api": "https://colorcombinations.org/api/palettes/edo-murasaki-nezumi.json"
+    },
+    {
+      "slug": "wada-001-english-red-cerulian-blue",
+      "title": "English Red & Cerulian Blue",
+      "titleJa": null,
+      "dominantHue": "orange",
+      "moods": [
+        "refined",
+        "warm",
+        "austere"
+      ],
+      "colors": [
+        "#d96629",
+        "#0093a5"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-001-english-red-cerulian-blue/",
+      "api": "https://colorcombinations.org/api/palettes/wada-001-english-red-cerulian-blue.json"
+    },
+    {
+      "slug": "wada-002-yellow-orange-dark-tyrian-blue",
+      "title": "Yellow Orange & Dark Tyrian Blue",
+      "titleJa": null,
+      "dominantHue": "yellow",
+      "moods": [
+        "refined",
+        "cool",
+        "austere"
+      ],
+      "colors": [
+        "#f99d1b",
+        "#12354e"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-002-yellow-orange-dark-tyrian-blue/",
+      "api": "https://colorcombinations.org/api/palettes/wada-002-yellow-orange-dark-tyrian-blue.json"
+    },
+    {
+      "slug": "wada-003-raw-sienna-pale-lemon-yellow",
+      "title": "Raw Sienna & Pale Lemon Yellow",
+      "titleJa": null,
+      "dominantHue": "orange",
+      "moods": [
+        "refined",
+        "warm",
+        "austere"
+      ],
+      "colors": [
+        "#bb7125",
+        "#ffefae"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-003-raw-sienna-pale-lemon-yellow/",
+      "api": "https://colorcombinations.org/api/palettes/wada-003-raw-sienna-pale-lemon-yellow.json"
+    },
+    {
+      "slug": "wada-004-isabella-color-red-violet",
+      "title": "Isabella Color & Red Violet",
+      "titleJa": null,
+      "dominantHue": "yellow",
+      "moods": [
+        "refined",
+        "austere"
+      ],
+      "colors": [
+        "#c5a56e",
+        "#59256a"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-004-isabella-color-red-violet/",
+      "api": "https://colorcombinations.org/api/palettes/wada-004-isabella-color-red-violet.json"
+    },
+    {
+      "slug": "wada-006-grenadine-pink-deep-indigo",
+      "title": "Grenadine Pink & Deep Indigo",
+      "titleJa": null,
+      "dominantHue": "red",
+      "moods": [
+        "refined",
+        "warm",
+        "austere"
+      ],
+      "colors": [
+        "#f48067",
+        "#051230"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-006-grenadine-pink-deep-indigo/",
+      "api": "https://colorcombinations.org/api/palettes/wada-006-grenadine-pink-deep-indigo.json"
+    },
+    {
+      "slug": "wada-007-orange-glaucous-green",
+      "title": "Orange & Glaucous Green",
+      "titleJa": null,
+      "dominantHue": "orange",
+      "moods": [
+        "refined",
+        "warm",
+        "austere"
+      ],
+      "colors": [
+        "#f37420",
+        "#b4cdc2"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-007-orange-glaucous-green/",
+      "api": "https://colorcombinations.org/api/palettes/wada-007-orange-glaucous-green.json"
+    },
+    {
+      "slug": "wada-008-cinnamon-rufous-grayish-lavender-a",
+      "title": "Cinnamon Rufous & Grayish Lavender - A",
+      "titleJa": null,
+      "dominantHue": "orange",
+      "moods": [
+        "refined",
+        "warm",
+        "austere"
+      ],
+      "colors": [
+        "#c27544",
+        "#b5b1d8"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-008-cinnamon-rufous-grayish-lavender-a/",
+      "api": "https://colorcombinations.org/api/palettes/wada-008-cinnamon-rufous-grayish-lavender-a.json"
+    },
+    {
+      "slug": "wada-009-violet-red-dull-blue-violet",
+      "title": "Violet Red & Dull Blue Violet",
+      "titleJa": null,
+      "dominantHue": "pink",
+      "moods": [
+        "refined",
+        "austere"
+      ],
+      "colors": [
+        "#642d5e",
+        "#80719e"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-009-violet-red-dull-blue-violet/",
+      "api": "https://colorcombinations.org/api/palettes/wada-009-violet-red-dull-blue-violet.json"
+    },
+    {
+      "slug": "wada-010-cinnamon-rufous-dark-citrine",
+      "title": "Cinnamon Rufous & Dark Citrine",
+      "titleJa": null,
+      "dominantHue": "orange",
+      "moods": [
+        "refined",
+        "warm",
+        "austere"
+      ],
+      "colors": [
+        "#c27544",
+        "#8b835b"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-010-cinnamon-rufous-dark-citrine/",
+      "api": "https://colorcombinations.org/api/palettes/wada-010-cinnamon-rufous-dark-citrine.json"
+    },
+    {
+      "slug": "wada-012-isabella-color-green-blue",
+      "title": "Isabella Color & Green Blue",
+      "titleJa": null,
+      "dominantHue": "yellow",
+      "moods": [
+        "refined",
+        "cool",
+        "austere"
+      ],
+      "colors": [
+        "#c5a56e",
+        "#099197"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-012-isabella-color-green-blue/",
+      "api": "https://colorcombinations.org/api/palettes/wada-012-isabella-color-green-blue.json"
+    }
+  ],
+  "urls": {
+    "canonical": "https://colorcombinations.org/collections/muted/",
+    "embed": "https://colorcombinations.org/embed/collection/muted/",
+    "openGraph": "https://colorcombinations.org/og/collections/muted.svg",
+    "api": "https://colorcombinations.org/api/collections/muted.json"
+  },
+  "license": "CC-BY-4.0 (attribution: colorcombinations.org)",
+  "source": "Sanzo Wada, A Dictionary of Color Combinations (1933 · six volumes)"
+}

@@ -1,0 +1,300 @@
+{
+  "schema": "colorcombinations-collection/v1",
+  "slug": "christmas",
+  "title": "Christmas Color Palettes",
+  "tagline": "Madder red, crimson lake and evergreen: red and green the way a 1930s colour dictionary paired them.",
+  "description": "Red and green is the classic Christmas pairing, and also the easiest to get wrong: two saturated primaries at full strength fight each other. The combinations here come from Sanzo Wada's 1933 Dictionary of Color Combinations and the Japanese colour names around it, which were not made for Christmas but solve exactly that problem. Each one lowers the temperature of one side: a deep madder or crimson lake against a muted evergreen, or a bright scarlet against a dull viridian, often with a warm ivory, citrine or ochre in between to stand in for gold. Use them for holiday cards, packaging, table settings, seasonal branding and decor that should feel festive without looking like a candy cane.",
+  "keywords": [
+    "christmas color palette",
+    "christmas color combinations",
+    "red and green color palette",
+    "holiday color palette",
+    "christmas colors hex codes",
+    "festive color scheme"
+  ],
+  "accentHex": "#B23B3B",
+  "paletteCount": 15,
+  "palettes": [
+    {
+      "slug": "akane-tokiwa",
+      "title": "Madder Red & Evergreen",
+      "titleJa": "茜と常磐",
+      "dominantHue": "red",
+      "moods": [
+        "earthy",
+        "bold",
+        "solemn"
+      ],
+      "colors": [
+        "#B23B3B",
+        "#344E3D",
+        "#EAE1CC",
+        "#2B2B2B"
+      ],
+      "url": "https://colorcombinations.org/palettes/akane-tokiwa/",
+      "api": "https://colorcombinations.org/api/palettes/akane-tokiwa.json"
+    },
+    {
+      "slug": "enji-matsuba",
+      "title": "Crimson Lake & Pine",
+      "titleJa": "臙脂と松葉",
+      "dominantHue": "red",
+      "moods": [
+        "bold",
+        "solemn",
+        "warm"
+      ],
+      "colors": [
+        "#9E2B3D",
+        "#3B5133",
+        "#F8F4E9",
+        "#D4AF37"
+      ],
+      "url": "https://colorcombinations.org/palettes/enji-matsuba/",
+      "api": "https://colorcombinations.org/api/palettes/enji-matsuba.json"
+    },
+    {
+      "slug": "wada-216-jasper-red-green",
+      "title": "Jasper Red & Green +1",
+      "titleJa": null,
+      "dominantHue": "red",
+      "moods": [
+        "solemn",
+        "warm"
+      ],
+      "colors": [
+        "#eb5324",
+        "#489b6e",
+        "#111314"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-216-jasper-red-green/",
+      "api": "https://colorcombinations.org/api/palettes/wada-216-jasper-red-green.json"
+    },
+    {
+      "slug": "wada-262-eugenia-red-b-ivory-buff",
+      "title": "Eugenia Red B & Ivory Buff +2",
+      "titleJa": null,
+      "dominantHue": "red",
+      "moods": [
+        "refined",
+        "warm",
+        "bold"
+      ],
+      "colors": [
+        "#da525d",
+        "#ebd3a2",
+        "#b09f36",
+        "#437742"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-262-eugenia-red-b-ivory-buff/",
+      "api": "https://colorcombinations.org/api/palettes/wada-262-eugenia-red-b-ivory-buff.json"
+    },
+    {
+      "slug": "wada-325-eugenia-red-b-naples-yellow",
+      "title": "Eugenia Red B & Naples Yellow +2",
+      "titleJa": null,
+      "dominantHue": "red",
+      "moods": [
+        "refined",
+        "warm",
+        "bold"
+      ],
+      "colors": [
+        "#da525d",
+        "#fbe6a0",
+        "#e2b540",
+        "#112f2c"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-325-eugenia-red-b-naples-yellow/",
+      "api": "https://colorcombinations.org/api/palettes/wada-325-eugenia-red-b-naples-yellow.json"
+    },
+    {
+      "slug": "wada-136-scarlet-dull-viridian-green",
+      "title": "Scarlet & Dull Viridian Green +1",
+      "titleJa": null,
+      "dominantHue": "red",
+      "moods": [
+        "refined",
+        "warm"
+      ],
+      "colors": [
+        "#cb2f43",
+        "#009465",
+        "#59256a"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-136-scarlet-dull-viridian-green/",
+      "api": "https://colorcombinations.org/api/palettes/wada-136-scarlet-dull-viridian-green.json"
+    },
+    {
+      "slug": "wada-017-eugenia-red-b-sea-green",
+      "title": "Eugenia Red B & Sea Green",
+      "titleJa": null,
+      "dominantHue": "red",
+      "moods": [
+        "refined",
+        "warm",
+        "austere"
+      ],
+      "colors": [
+        "#da525d",
+        "#00b49b"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-017-eugenia-red-b-sea-green/",
+      "api": "https://colorcombinations.org/api/palettes/wada-017-eugenia-red-b-sea-green.json"
+    },
+    {
+      "slug": "wada-133-vandyke-red-citrine",
+      "title": "Vandyke Red & Citrine +1",
+      "titleJa": null,
+      "dominantHue": "red",
+      "moods": [
+        "refined",
+        "warm"
+      ],
+      "colors": [
+        "#82241f",
+        "#b09f36",
+        "#00b49b"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-133-vandyke-red-citrine/",
+      "api": "https://colorcombinations.org/api/palettes/wada-133-vandyke-red-citrine.json"
+    },
+    {
+      "slug": "wada-219-jasper-red-chromium-green",
+      "title": "Jasper Red & Chromium Green +1",
+      "titleJa": null,
+      "dominantHue": "red",
+      "moods": [
+        "refined",
+        "warm"
+      ],
+      "colors": [
+        "#eb5324",
+        "#719470",
+        "#004f46"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-219-jasper-red-chromium-green/",
+      "api": "https://colorcombinations.org/api/palettes/wada-219-jasper-red-chromium-green.json"
+    },
+    {
+      "slug": "wada-225-carmine-dusky-green",
+      "title": "Carmine & Dusky Green +1",
+      "titleJa": null,
+      "dominantHue": "red",
+      "moods": [
+        "solemn",
+        "warm"
+      ],
+      "colors": [
+        "#cc1236",
+        "#004f46",
+        "#704357"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-225-carmine-dusky-green/",
+      "api": "https://colorcombinations.org/api/palettes/wada-225-carmine-dusky-green.json"
+    },
+    {
+      "slug": "wada-251-red-yellow",
+      "title": "Red & Yellow +2",
+      "titleJa": null,
+      "dominantHue": "red",
+      "moods": [
+        "refined",
+        "warm",
+        "bold"
+      ],
+      "colors": [
+        "#a72144",
+        "#fff200",
+        "#1a7444",
+        "#34454c"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-251-red-yellow/",
+      "api": "https://colorcombinations.org/api/palettes/wada-251-red-yellow.json"
+    },
+    {
+      "slug": "wada-270-eugenia-red-b-sulpher-yellow",
+      "title": "Eugenia Red B & Sulpher Yellow +2",
+      "titleJa": null,
+      "dominantHue": "red",
+      "moods": [
+        "refined",
+        "warm",
+        "bold"
+      ],
+      "colors": [
+        "#da525d",
+        "#f5ecc2",
+        "#6b7140",
+        "#437742"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-270-eugenia-red-b-sulpher-yellow/",
+      "api": "https://colorcombinations.org/api/palettes/wada-270-eugenia-red-b-sulpher-yellow.json"
+    },
+    {
+      "slug": "wada-284-eugenia-red-a-apricot-yellow",
+      "title": "Eugenia Red A & Apricot Yellow +2",
+      "titleJa": null,
+      "dominantHue": "red",
+      "moods": [
+        "refined",
+        "warm",
+        "bold"
+      ],
+      "colors": [
+        "#e2625e",
+        "#ffdd00",
+        "#00b49b",
+        "#004f46"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-284-eugenia-red-a-apricot-yellow/",
+      "api": "https://colorcombinations.org/api/palettes/wada-284-eugenia-red-a-apricot-yellow.json"
+    },
+    {
+      "slug": "wada-313-carmine-yellow",
+      "title": "Carmine & Yellow +2",
+      "titleJa": null,
+      "dominantHue": "red",
+      "moods": [
+        "solemn",
+        "warm",
+        "bold"
+      ],
+      "colors": [
+        "#cc1236",
+        "#fff200",
+        "#1a7444",
+        "#111314"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-313-carmine-yellow/",
+      "api": "https://colorcombinations.org/api/palettes/wada-313-carmine-yellow.json"
+    },
+    {
+      "slug": "wada-316-vandyke-red-dull-viridian-green",
+      "title": "Vandyke Red & Dull Viridian Green +2",
+      "titleJa": null,
+      "dominantHue": "red",
+      "moods": [
+        "solemn",
+        "warm",
+        "bold"
+      ],
+      "colors": [
+        "#82241f",
+        "#009465",
+        "#4f4086",
+        "#59256a"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-316-vandyke-red-dull-viridian-green/",
+      "api": "https://colorcombinations.org/api/palettes/wada-316-vandyke-red-dull-viridian-green.json"
+    }
+  ],
+  "urls": {
+    "canonical": "https://colorcombinations.org/collections/christmas/",
+    "embed": "https://colorcombinations.org/embed/collection/christmas/",
+    "openGraph": "https://colorcombinations.org/og/collections/christmas.svg",
+    "api": "https://colorcombinations.org/api/collections/christmas.json"
+  },
+  "license": "CC-BY-4.0 (attribution: colorcombinations.org)",
+  "source": "Sanzo Wada, A Dictionary of Color Combinations (1933 · six volumes)"
+}

@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>Color Lab · Elham Kouhbor</title>
+    <meta name="description" content="Explore colour palettes, test WCAG contrast, simulate colour vision deficiencies and see colours in real designs. Runs entirely in your browser." />
+    <meta name="theme-color" content="#f4f5f8" />
+    <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
+    <link rel="manifest" href="./manifest.webmanifest" />
+    <script>
+      // theme before first paint (shared key with the other Elham tools)
+      try { var t = localStorage.getItem("elham.theme"); var d = t === "dark" || (t !== "light" && matchMedia("(prefers-color-scheme: dark)").matches); document.documentElement.dataset.theme = d ? "dark" : "light"; } catch (e) {}
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <noscript>Color Lab needs JavaScript. It runs entirely in your browser and sends nothing anywhere.</noscript>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

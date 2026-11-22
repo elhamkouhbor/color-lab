@@ -1,0 +1,320 @@
+{
+  "schema": "colorcombinations-collection/v1",
+  "slug": "winter",
+  "title": "Winter Color Palettes",
+  "tagline": "Deep indigo, ink black, frost white — the quietest register of the Japanese year.",
+  "description": "Winter in the Japanese palette is not the white-and-silver of Scandinavian design — it is the layered stillness of ink-on-paper: deep kon indigo, sumi black, cold gofun white, the blue-grey of stone lanterns under frost. Where spring is blush and summer is warmth, winter is restraint taken to its furthest point. These combinations work for premium fashion editorial, high-end architectural identity, technology brands that want authority, and any design that should feel considered and unhurried.",
+  "keywords": [
+    "winter color palette",
+    "winter color combinations",
+    "dark blue white palette",
+    "cool color scheme",
+    "winter aesthetic colors"
+  ],
+  "accentHex": "#2B3D5C",
+  "paletteCount": 17,
+  "palettes": [
+    {
+      "slug": "kon-kinari",
+      "title": "Deep Indigo & Cream",
+      "titleJa": "紺と生成",
+      "dominantHue": "blue",
+      "moods": [
+        "refined",
+        "cool",
+        "austere"
+      ],
+      "colors": [
+        "#142747",
+        "#F3EBDA",
+        "#2B2B2B"
+      ],
+      "url": "https://colorcombinations.org/palettes/kon-kinari/",
+      "api": "https://colorcombinations.org/api/palettes/kon-kinari.json"
+    },
+    {
+      "slug": "gunjo-gofun",
+      "title": "Ultramarine & Chalk White",
+      "titleJa": "群青と胡粉",
+      "dominantHue": "blue",
+      "moods": [
+        "solemn",
+        "serene",
+        "austere"
+      ],
+      "colors": [
+        "#264A6B",
+        "#F4EEE0",
+        "#C5AC6B"
+      ],
+      "url": "https://colorcombinations.org/palettes/gunjo-gofun/",
+      "api": "https://colorcombinations.org/api/palettes/gunjo-gofun.json"
+    },
+    {
+      "slug": "murasaki-gin",
+      "title": "Royal Purple & Silver",
+      "titleJa": "紫と銀",
+      "dominantHue": "purple",
+      "moods": [
+        "refined",
+        "solemn",
+        "cool"
+      ],
+      "colors": [
+        "#7A4E8F",
+        "#BCBCBE",
+        "#2B2B2B",
+        "#F4EEE0"
+      ],
+      "url": "https://colorcombinations.org/palettes/murasaki-gin/",
+      "api": "https://colorcombinations.org/api/palettes/murasaki-gin.json"
+    },
+    {
+      "slug": "ao-shiro",
+      "title": "Ao & White",
+      "titleJa": "青と白",
+      "dominantHue": "blue",
+      "moods": [
+        "serene",
+        "cool",
+        "refined"
+      ],
+      "colors": [
+        "#3A7D7B",
+        "#FFFFFF",
+        "#1C1C1C"
+      ],
+      "url": "https://colorcombinations.org/palettes/ao-shiro/",
+      "api": "https://colorcombinations.org/api/palettes/ao-shiro.json"
+    },
+    {
+      "slug": "hanada-gin",
+      "title": "Indigo Blue & Silver",
+      "titleJa": "縹と銀",
+      "dominantHue": "blue",
+      "moods": [
+        "refined",
+        "cool",
+        "solemn"
+      ],
+      "colors": [
+        "#3C6E8F",
+        "#BCBCBE",
+        "#F8F4E9"
+      ],
+      "url": "https://colorcombinations.org/palettes/hanada-gin/",
+      "api": "https://colorcombinations.org/api/palettes/hanada-gin.json"
+    },
+    {
+      "slug": "moegi-sumi",
+      "title": "Spring Green & Ink",
+      "titleJa": "萌黄と墨",
+      "dominantHue": "green",
+      "moods": [
+        "austere",
+        "refined",
+        "serene"
+      ],
+      "colors": [
+        "#A7C957",
+        "#1C1C1C",
+        "#F8F4E9"
+      ],
+      "url": "https://colorcombinations.org/palettes/moegi-sumi/",
+      "api": "https://colorcombinations.org/api/palettes/moegi-sumi.json"
+    },
+    {
+      "slug": "wada-015-benzol-green-grayish-lavender-a",
+      "title": "Benzol Green & Grayish Lavender - A",
+      "titleJa": null,
+      "dominantHue": "blue",
+      "moods": [
+        "refined",
+        "cool",
+        "austere"
+      ],
+      "colors": [
+        "#00978d",
+        "#b5b1d8"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-015-benzol-green-grayish-lavender-a/",
+      "api": "https://colorcombinations.org/api/palettes/wada-015-benzol-green-grayish-lavender-a.json"
+    },
+    {
+      "slug": "wada-020-calamine-blue-laelia-pink",
+      "title": "Calamine Blue & Laelia Pink",
+      "titleJa": null,
+      "dominantHue": "blue",
+      "moods": [
+        "refined",
+        "warm",
+        "austere"
+      ],
+      "colors": [
+        "#78cdd0",
+        "#ca92a8"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-020-calamine-blue-laelia-pink/",
+      "api": "https://colorcombinations.org/api/palettes/wada-020-calamine-blue-laelia-pink.json"
+    },
+    {
+      "slug": "wada-044-light-porcelain-green-olympic-blue",
+      "title": "Light Porcelain Green & Olympic Blue",
+      "titleJa": null,
+      "dominantHue": "blue",
+      "moods": [
+        "refined",
+        "cool",
+        "austere"
+      ],
+      "colors": [
+        "#00908a",
+        "#5a82b3"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-044-light-porcelain-green-olympic-blue/",
+      "api": "https://colorcombinations.org/api/palettes/wada-044-light-porcelain-green-olympic-blue.json"
+    },
+    {
+      "slug": "wada-049-pale-king-s-blue-blue",
+      "title": "Pale King's Blue & Blue",
+      "titleJa": null,
+      "dominantHue": "blue",
+      "moods": [
+        "refined",
+        "cool",
+        "austere"
+      ],
+      "colors": [
+        "#a7d4e4",
+        "#006eb8"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-049-pale-king-s-blue-blue/",
+      "api": "https://colorcombinations.org/api/palettes/wada-049-pale-king-s-blue-blue.json"
+    },
+    {
+      "slug": "wada-054-benzol-green-light-glaucous-blue",
+      "title": "Benzol Green & Light Glaucous Blue",
+      "titleJa": null,
+      "dominantHue": "blue",
+      "moods": [
+        "refined",
+        "cool",
+        "austere"
+      ],
+      "colors": [
+        "#00978d",
+        "#a5c8d1"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-054-benzol-green-light-glaucous-blue/",
+      "api": "https://colorcombinations.org/api/palettes/wada-054-benzol-green-light-glaucous-blue.json"
+    },
+    {
+      "slug": "wada-056-grayish-lavender-b-violet",
+      "title": "Grayish Lavender - B & Violet",
+      "titleJa": null,
+      "dominantHue": "neutral",
+      "moods": [
+        "refined",
+        "austere"
+      ],
+      "colors": [
+        "#c0a9b3",
+        "#4f4086"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-056-grayish-lavender-b-violet/",
+      "api": "https://colorcombinations.org/api/palettes/wada-056-grayish-lavender-b-violet.json"
+    },
+    {
+      "slug": "wada-067-olympic-blue-dark-tyrian-blue",
+      "title": "Olympic Blue & Dark Tyrian Blue",
+      "titleJa": null,
+      "dominantHue": "blue",
+      "moods": [
+        "refined",
+        "cool",
+        "austere"
+      ],
+      "colors": [
+        "#5a82b3",
+        "#12354e"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-067-olympic-blue-dark-tyrian-blue/",
+      "api": "https://colorcombinations.org/api/palettes/wada-067-olympic-blue-dark-tyrian-blue.json"
+    },
+    {
+      "slug": "wada-069-warm-gray-black",
+      "title": "Warm Gray & Black",
+      "titleJa": null,
+      "dominantHue": "neutral",
+      "moods": [
+        "solemn",
+        "austere"
+      ],
+      "colors": [
+        "#a1a39a",
+        "#111314"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-069-warm-gray-black/",
+      "api": "https://colorcombinations.org/api/palettes/wada-069-warm-gray-black.json"
+    },
+    {
+      "slug": "wada-075-pale-king-s-blue-violet-blue",
+      "title": "Pale King's Blue & Violet Blue",
+      "titleJa": null,
+      "dominantHue": "blue",
+      "moods": [
+        "refined",
+        "cool",
+        "austere"
+      ],
+      "colors": [
+        "#a7d4e4",
+        "#40456a"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-075-pale-king-s-blue-violet-blue/",
+      "api": "https://colorcombinations.org/api/palettes/wada-075-pale-king-s-blue-violet-blue.json"
+    },
+    {
+      "slug": "wada-106-antwarp-blue-dull-violet-black",
+      "title": "Antwarp Blue & Dull Violet Black",
+      "titleJa": null,
+      "dominantHue": "blue",
+      "moods": [
+        "solemn",
+        "cool",
+        "austere"
+      ],
+      "colors": [
+        "#007190",
+        "#1e0e3f"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-106-antwarp-blue-dull-violet-black/",
+      "api": "https://colorcombinations.org/api/palettes/wada-106-antwarp-blue-dull-violet-black.json"
+    },
+    {
+      "slug": "wada-119-light-glaucous-blue-dark-tyrian-blue",
+      "title": "Light Glaucous Blue & Dark Tyrian Blue",
+      "titleJa": null,
+      "dominantHue": "blue",
+      "moods": [
+        "refined",
+        "cool",
+        "austere"
+      ],
+      "colors": [
+        "#a5c8d1",
+        "#12354e"
+      ],
+      "url": "https://colorcombinations.org/palettes/wada-119-light-glaucous-blue-dark-tyrian-blue/",
+      "api": "https://colorcombinations.org/api/palettes/wada-119-light-glaucous-blue-dark-tyrian-blue.json"
+    }
+  ],
+  "urls": {
+    "canonical": "https://colorcombinations.org/collections/winter/",
+    "embed": "https://colorcombinations.org/embed/collection/winter/",
+    "openGraph": "https://colorcombinations.org/og/collections/winter.svg",
+    "api": "https://colorcombinations.org/api/collections/winter.json"
+  },
+  "license": "CC-BY-4.0 (attribution: colorcombinations.org)",
+  "source": "Sanzo Wada, A Dictionary of Color Combinations (1933 · six volumes)"
+}
